@@ -13,7 +13,7 @@ All four completed evaluations use the fixed Tongyi-DeepResearch-30B-A3B agent. 
 
 ## Contents
 
-- `source/`: runnable source snapshot, including Snellius scripts, both environment manifests/locks, modified FlagEmbedding code, and documentation. Start with [the experiment report](source/docs/experiment_report.md). `source-changes.patch` records tracked edits relative to the source Git commit.
+- `source/scripts/snellius/`: Slurm job scripts and the Python/shell helpers they invoke. The duplicate upstream code, documentation and environment directories have been removed; use the surrounding LRAT_IR2 checkout for repository code. `source-changes.patch` preserves the local tracked modifications used in the original reproduction.
 - `artifacts/tongyi-browsecomp-plus/<retriever>/model/`: standalone trained weights, tokenizer and configuration. Use the adjacent `retrieval.json` for pooling, normalization and query formatting. `provenance/` contains training logs, trainer state, environment lock and run configuration; `evaluation/` contains scores and compressed trajectories/judgments/executed source.
 - `artifacts/training-checkpoints/<retriever>/checkpoint-<step>/`: complete final checkpoints, including weights, optimizer, scheduler and RNG state (Qwen step 96502; E5 step 6030).
 - `artifacts/tongyi-infoseek/<retriever>/`: both completed InfoSeek reports and compressed per-question trajectories/judgments, plus run metadata and executed source.
@@ -28,4 +28,4 @@ This folder belongs to local branch `Reproduction_results`. Scripts, reports, co
 
 Canonical datasets remain in permanent storage at `/home/scur0901/datasets/lrat`; indexes, caches, installed environments and downloaded agent/judge weights are excluded. Historical absolute paths inside original reports remain unchanged. Prefer `results-summary.json` for the copied models and reports.
 
-To use the scripts, set `LRAT_REPO_ROOT` to this folder's `source` directory before sourcing `source/scripts/snellius/env.sh`; configure account/storage paths through a new ignored `source/scripts/snellius/local.sh`. Run training, inference, indexing and GPU checks through Slurm. Source snapshots preserve the original implementation, including the unresolved GPU startup problem in the eight additional trials.
+These scripts are retained as an experiment record, not a standalone checkout. Before rerunning, install them under `scripts/snellius/` in a working LRAT checkout, restore the required environment configuration, review `source-changes.patch`, and set `LRAT_REPO_ROOT` to that checkout. Configure account/storage paths through an ignored `scripts/snellius/local.sh`. Training environment locks also remain in each retriever's `provenance/` directory. Run training, inference, indexing and GPU checks through Slurm. The scripts retain the unresolved GPU startup problem in the eight additional trials. Original executed-source archives inside `artifacts/` remain as run provenance.
