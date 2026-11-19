@@ -9,2797 +9,2248 @@
     {
       "path": "source/scripts/snellius/archive_results.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/archive_results.py",
-      "bytes": 10053,
-      "sha256": "cf08d2a2dfc6436bd1846cd45b87c7898153157c31e9191dad81fe2ce3f70b98"
+      "bytes": 10053
     },
     {
       "path": "source/scripts/snellius/archive_results.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/archive_results.sbatch",
-      "bytes": 517,
-      "sha256": "e327a4eb1a7d19fc976e0692381d9dcd50376ef4ad6a580e862bbbf0dfcba9f9"
+      "bytes": 517
     },
     {
       "path": "source/scripts/snellius/audit_browsed.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/audit_browsed.py",
-      "bytes": 10300,
-      "sha256": "26d5647a3114eeacd6bd7e1cd12598e93ccdaa0338c316fb51e007eabd3d1c57"
+      "bytes": 10300
     },
     {
       "path": "source/scripts/snellius/audit_browsed.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/audit_browsed.sbatch",
-      "bytes": 388,
-      "sha256": "5807a3f8def3e9f4764e68fa407b0f1a8acec4b7b8911d627b7e5f01ab41d77d"
+      "bytes": 388
     },
     {
       "path": "source/scripts/snellius/check_e5.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/check_e5.py",
-      "bytes": 6211,
-      "sha256": "14f74e2fbdebb902a831157161e5292288248a05bac43b7b7a463046698a1991"
+      "bytes": 6211
     },
     {
       "path": "source/scripts/snellius/check_gpu.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/check_gpu.py",
-      "bytes": 637,
-      "sha256": "f0d94f50e57895cd3c0b3bf44738593deabb368cccc6f191bac3c0f3ed45eabe"
+      "bytes": 637
     },
     {
       "path": "source/scripts/snellius/check_resume.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/check_resume.py",
-      "bytes": 2218,
-      "sha256": "837aa776fd86060b7b19a2f910199e9ccc09295ed95bebaff348359376dedfbb"
+      "bytes": 2218
     },
     {
       "path": "source/scripts/snellius/check_resume.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/check_resume.sbatch",
-      "bytes": 405,
-      "sha256": "78c3c8442b12be106030adc618c932175ef2f784e36435d39fe5aaaf464b5525"
+      "bytes": 405
     },
     {
       "path": "source/scripts/snellius/e5_prepare.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/e5_prepare.py",
-      "bytes": 1871,
-      "sha256": "588e8822303f676d71a3e0faeae39396c8055a2a7239ba986bc1c5cca282db4f"
+      "bytes": 1871
     },
     {
       "path": "source/scripts/snellius/e5_setup.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/e5_setup.sbatch",
-      "bytes": 506,
-      "sha256": "2335a52f8bfc67c9f769d97bd09531ee2091d2b71a06d256569d080b81589477"
+      "bytes": 506
     },
     {
       "path": "source/scripts/snellius/e5_train.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/e5_train.sbatch",
-      "bytes": 4358,
-      "sha256": "81b04a3f68ef89c29af27aa65cdd14b97fa10cb2c754f7048995143b5136fbd9"
+      "bytes": 4358
     },
     {
       "path": "source/scripts/snellius/env.sh",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/env.sh",
-      "bytes": 1636,
-      "sha256": "5fd1edfface8c03f3714690c432cb8d71e33ec3f7d19b25a26339b1682fcad3c"
+      "bytes": 1636
     },
     {
       "path": "source/scripts/snellius/eval_agent.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/eval_agent.py",
-      "bytes": 19190,
-      "sha256": "2cec7522d6765e0dbd14ccba09a8acbf965f12293e86799322dfd56cdd02b5d0"
+      "bytes": 19190
     },
     {
       "path": "source/scripts/snellius/eval_check.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/eval_check.py",
-      "bytes": 4127,
-      "sha256": "116634d98f264636e5d17c4e2371fb8c15841675206a87071b89c2e93f2685b3"
+      "bytes": 4127
     },
     {
       "path": "source/scripts/snellius/eval_embedding.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/eval_embedding.py",
-      "bytes": 1322,
-      "sha256": "eb0a0b0fd364f4baba2d5e94d936be39ee18fdada46b57908c725e8b18e5fd6d"
+      "bytes": 1322
     },
     {
       "path": "source/scripts/snellius/eval_env.sh",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/eval_env.sh",
-      "bytes": 855,
-      "sha256": "3900b6da73fb8ebbe0593652c3a5d2ef7d46b2385a71009c4f84e9321e5d1502"
+      "bytes": 855
     },
     {
       "path": "source/scripts/snellius/eval_index.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/eval_index.py",
-      "bytes": 3330,
-      "sha256": "593fe295dcfbcf97e6381fdd93f94b6dbc59e1b0757db6a8fbcf4a6a0f32c69e"
+      "bytes": 3330
     },
     {
       "path": "source/scripts/snellius/eval_index.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/eval_index.sbatch",
-      "bytes": 472,
-      "sha256": "2f21155b0dd92f2486f01ba88b78df1efba21b0733bc8145bb872e33a532de46"
+      "bytes": 472
     },
     {
       "path": "source/scripts/snellius/eval_prepare.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/eval_prepare.py",
-      "bytes": 4409,
-      "sha256": "4d013b24f89a33f562cd267ed0ce5b16909747f784693b51e6a941acaa3d51be"
+      "bytes": 4409
     },
     {
       "path": "source/scripts/snellius/eval_prepare.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/eval_prepare.sbatch",
-      "bytes": 897,
-      "sha256": "3a9a210d6cc65668b18a5d5e0b3725d04aaf299c5f1233963cae2d5a101cdc4e"
+      "bytes": 897
     },
     {
       "path": "source/scripts/snellius/eval_run.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/eval_run.py",
-      "bytes": 7432,
-      "sha256": "f7894c0a18b42fe653eeb65768f59a64fbd05b10a33f73830cfc7a69e835d9db"
+      "bytes": 7432
     },
     {
       "path": "source/scripts/snellius/eval_run.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/eval_run.sbatch",
-      "bytes": 701,
-      "sha256": "4101f926d29927cb6cb36ea55cb66b6b85c05766d3afe41e2c899f336a2acc2f"
+      "bytes": 701
     },
     {
       "path": "source/scripts/snellius/export_ir2.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/export_ir2.py",
-      "bytes": 6363,
-      "sha256": "1203409940c9d52c4c2719733298127c6e49a24793b40692741fbe331449b04e"
+      "bytes": 6363
     },
     {
       "path": "source/scripts/snellius/export_ir2.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/export_ir2.sbatch",
-      "bytes": 425,
-      "sha256": "9c03bcde40de972b444157c44aa477cd1173415364170c660d38ec9d082366f0"
+      "bytes": 425
     },
     {
       "path": "source/scripts/snellius/infoseek_check.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/infoseek_check.py",
-      "bytes": 3348,
-      "sha256": "b8c8e52ca360e09f6760e591a9f4710866fda961318761ddea2c592e601de5ae"
+      "bytes": 3348
     },
     {
       "path": "source/scripts/snellius/infoseek_eval.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/infoseek_eval.sbatch",
-      "bytes": 1105,
-      "sha256": "73559e1bb9a5936875eb7b831c0e63846a047733e36babdc06e36f15588e93d1"
+      "bytes": 1105
     },
     {
       "path": "source/scripts/snellius/infoseek_index.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/infoseek_index.py",
-      "bytes": 7135,
-      "sha256": "c6490482569175629a4cab0405b9362627cc45c721bdbd1059205a2fc77ed23d"
+      "bytes": 7135
     },
     {
       "path": "source/scripts/snellius/infoseek_prepare.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/infoseek_prepare.py",
-      "bytes": 7396,
-      "sha256": "283bb91f46d2bcd2fc167726fa95d29413747609f57632736d3fa5cca425e30d"
+      "bytes": 7396
     },
     {
       "path": "source/scripts/snellius/infoseek_prepare.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/infoseek_prepare.sbatch",
-      "bytes": 529,
-      "sha256": "810ed06ee15ba659712d57bcbbd063938d84b825cf0a42435168bade83f09e99"
+      "bytes": 529
     },
     {
       "path": "source/scripts/snellius/matrix_check.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/matrix_check.py",
-      "bytes": 2073,
-      "sha256": "a0281a52bc1d7cbd1797a4853a3936dfa3f4fe2730d3fbac7d96e09b6ba75aaa"
+      "bytes": 2073
     },
     {
       "path": "source/scripts/snellius/matrix_eval.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/matrix_eval.sbatch",
-      "bytes": 655,
-      "sha256": "4446ae7b6253fad8b430bbd1706c6c955bfa966134f5ee80e6e752ccbbcb0fac"
+      "bytes": 655
     },
     {
       "path": "source/scripts/snellius/matrix_prepare.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/matrix_prepare.py",
-      "bytes": 4608,
-      "sha256": "11de8713bc06234f8e06ec535a8252202110109659f898b8be345b6c08ff9218"
+      "bytes": 4608
     },
     {
       "path": "source/scripts/snellius/matrix_prepare.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/matrix_prepare.sbatch",
-      "bytes": 438,
-      "sha256": "86bb0bdfc6f3125c757eb1489d227ccb5828c06fa16018ecf51d3865821f0a38"
+      "bytes": 438
     },
     {
       "path": "source/scripts/snellius/matrix_stage.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/matrix_stage.py",
-      "bytes": 1241,
-      "sha256": "79f01d2e6eeb8175327869e36f9ea380c453398ba8b1d60956f9e5ffac7d2d35"
+      "bytes": 1241
     },
     {
       "path": "source/scripts/snellius/prepare.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/prepare.py",
-      "bytes": 5548,
-      "sha256": "44debba24971f1c4415aac801544389d66b2713d9456e2ff10fb32f290d92350"
+      "bytes": 5548
     },
     {
       "path": "source/scripts/snellius/preserve_evaluation.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/preserve_evaluation.py",
-      "bytes": 2446,
-      "sha256": "c0d875bda8927dd3ac331ef51e350f35367a806e99a286625b609b6faa19ef1b"
+      "bytes": 2446
     },
     {
       "path": "source/scripts/snellius/setup.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/setup.sbatch",
-      "bytes": 1131,
-      "sha256": "1bc0a6bc76ecd7c30776192fb49d1fcec4a79bd6b368d59d676589a0ee4a0852"
+      "bytes": 1131
     },
     {
       "path": "source/scripts/snellius/submit.sh",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/submit.sh",
-      "bytes": 916,
-      "sha256": "2daa625b45ea399b404d76afba9bb5eae85596605bbd915ea8db7c05390135a0"
+      "bytes": 916
     },
     {
       "path": "source/scripts/snellius/submit_e5.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/submit_e5.py",
-      "bytes": 3132,
-      "sha256": "7826552d3336e9afda8eef7359d9125f177d502bf7e9e3ddc845b4d84ac5a87b"
+      "bytes": 3132
     },
     {
       "path": "source/scripts/snellius/submit_infoseek.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/submit_infoseek.py",
-      "bytes": 3212,
-      "sha256": "a73b0d22af78a3b96fb3d3894601a265e8a5b400f5e5625052eb9d73d609fe57"
+      "bytes": 3212
     },
     {
       "path": "source/scripts/snellius/submit_matrix.py",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/submit_matrix.py",
-      "bytes": 7293,
-      "sha256": "c067fb7e25ebf32d0526182d35a184fea204d960fb751e2db0e1465083f82ed6"
+      "bytes": 7293
     },
     {
       "path": "source/scripts/snellius/train.sbatch",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/train.sbatch",
-      "bytes": 5033,
-      "sha256": "2e503ae8534bad3ca77a02e45214fe49b1963d9e2655b4dd022f44ced7a7414d"
-    },
-    {
-      "path": "artifacts/tongyi-browsecomp-plus/SHA256SUMS",
-      "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/SHA256SUMS",
-      "bytes": 10533,
-      "sha256": "7722d573adb353256eb95d32a68965b7ca9a4538b995f9184f6bbd0b39ae815a"
+      "bytes": 5033
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/SUMMARY.md",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/SUMMARY.md",
-      "bytes": 1752,
-      "sha256": "e1f2deae2e79bd9c1ba46b32723d211487a3119ec3d441ec180bd09732203e9c"
+      "bytes": 1752
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/archive-manifest.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/archive-manifest.json",
-      "bytes": 25187,
-      "sha256": "689f14689676104e9174502ce71d0320dcffd6a2ff4ba83fc168c454eec92c30"
+      "bytes": 25187
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/assets.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/assets.json",
-      "bytes": 1959,
-      "sha256": "0dd3f47c34c7cae7bf412f2020bd1c607ffea937f5f62ea8289cec82faf5d133"
+      "bytes": 1959
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-agent-server.log",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/full-agent-server.log",
-      "bytes": 5553670,
-      "sha256": "c646272b4fb422edda85beeb9bbbf3bf9f2b01b07f3a7afceab63e4ebb88eecb"
+      "bytes": 5553670
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-agent-timing.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/full-agent-timing.json",
-      "bytes": 173,
-      "sha256": "dd0b3034c302e653de780972f84f911501e1ed1628f56c42c009dc7e5b9e0bec"
+      "bytes": 173
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-job.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/full-job.json",
-      "bytes": 573,
-      "sha256": "cb6c2d0239caa418d8a9cd671fa4fc135320d9b3995b72ba98d0e7025f77ed3e"
+      "bytes": 573
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-judge-server.log",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/full-judge-server.log",
-      "bytes": 170826,
-      "sha256": "4bf27b49d2208069a163497059d1961b3842cf0aae4eb32cebaef301dd95fa4f"
+      "bytes": 170826
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-judge-timing.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/full-judge-timing.json",
-      "bytes": 176,
-      "sha256": "66b12676f7ef4e8192cccdef0a843a1c753e4fc8184ac6f81c40225d4185ff1b"
+      "bytes": 176
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-results.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/full-results.json",
-      "bytes": 140362,
-      "sha256": "0d4defc09f8542fcdbf413a2f5f3b2f29729ecadeb2e84b26231c27596b8a6cd"
+      "bytes": 140362
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-server-timing.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/full-server-timing.json",
-      "bytes": 65,
-      "sha256": "7b479b29449fd67ce381ce034e907eec6ffb1dc0a9768fb09583205609c914ea"
+      "bytes": 65
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/index-manifest.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/index-manifest.json",
-      "bytes": 736,
-      "sha256": "272d87c42e110addd7ec9df9ce7ee5bdb511f6fe90d3762b98a6a918d07356fa"
+      "bytes": 736
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/judgments.tar.gz",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/judgments.tar.gz",
-      "bytes": 568217,
-      "sha256": "de057cb2d13bcfa03e82f5de6efa03eab785a8a3cb637f94c4c06a2a3c31bd4f"
+      "bytes": 568217
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-agent-server.log",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/pilot-agent-server.log",
-      "bytes": 143269,
-      "sha256": "f5f882245678ea8f4e84404ebb59ce8433f1d9fdb23918e465daf9a6b339960a"
+      "bytes": 143269
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-agent-timing.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/pilot-agent-timing.json",
-      "bytes": 172,
-      "sha256": "83a674fdd943935ae0c3dee3d8a5f97f721bbca8c166458213e5089217c111e6"
+      "bytes": 172
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-judge-server.log",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/pilot-judge-server.log",
-      "bytes": 34243,
-      "sha256": "93e9232241234967a477a4d05ce321dfff052cc1462ca42a18ba56d4c661e311"
+      "bytes": 34243
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-judge-timing.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/pilot-judge-timing.json",
-      "bytes": 176,
-      "sha256": "889a084a97468e162a8b67624cb7afe95e6687b9df5605e3c83f7077be8dca0d"
+      "bytes": 176
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-results.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/pilot-results.json",
-      "bytes": 3734,
-      "sha256": "c522c8608f1369c1466486e4e50273ba870bf81a556c20e5fba142daac686936"
+      "bytes": 3734
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-selection.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/pilot-selection.json",
-      "bytes": 215,
-      "sha256": "2ecb90081881c75ad1154c6627e55cf3af1ba9c05f314027adc4210f5cd92eea"
+      "bytes": 215
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-server-timing.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/pilot-server-timing.json",
-      "bytes": 63,
-      "sha256": "becfa73af1c3a5377437b81c0638847bdf0571d3ed2c2dfe7282320e734aab50"
+      "bytes": 63
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/runtime-estimate.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/runtime-estimate.json",
-      "bytes": 501,
-      "sha256": "761f9906a088f4eb165b0f1f409becaaa598187742b0db580f937d07d199f978"
+      "bytes": 501
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/source.tar.gz",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/source.tar.gz",
-      "bytes": 122682,
-      "sha256": "57cb14a59ad773d1600a22d789e77a17bd08f5a7a34077c3b29b3825ab6b7ac3"
+      "bytes": 122682
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/submitted-jobs.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/submitted-jobs.json",
-      "bytes": 1513,
-      "sha256": "52e9fe470f15986193227b5a5a53d00bc2ec94f24a3216c6a75722b55e260360"
+      "bytes": 1513
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/trajectories.tar.gz",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/trajectories.tar.gz",
-      "bytes": 26392837,
-      "sha256": "e5ca34d9f387e447ebe3ad40437f6905f757b446c7d1e6c9650c4472343a037b"
+      "bytes": 26392837
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/config.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model/config.json",
-      "bytes": 663,
-      "sha256": "67c26af105024531bbd7b3d518bd45643cd60f9ada6fa002ea4ce31e34fb2811"
+      "bytes": 663
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/model.safetensors",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model/model.safetensors",
-      "bytes": 2239607176,
-      "sha256": "e4218c97268512c8f319ac186eec9319ac60dd4c5b606c0febefb373807fc0b1"
+      "bytes": 2239607176
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/sentencepiece.bpe.model",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model/sentencepiece.bpe.model",
-      "bytes": 5069051,
-      "sha256": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865"
+      "bytes": 5069051
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/special_tokens_map.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model/special_tokens_map.json",
-      "bytes": 964,
-      "sha256": "8c785abebea9ae3257b61681b4e6fd8365ceafde980c21970d001e834cf10835"
+      "bytes": 964
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/tokenizer.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model/tokenizer.json",
-      "bytes": 17082832,
-      "sha256": "8373f9cd3d27591e1924426bcc1c8799bc5a9affc4fc857982c5d66668dd1f41"
+      "bytes": 17082832
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/tokenizer_config.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model/tokenizer_config.json",
-      "bytes": 1212,
-      "sha256": "0fc42f057e0907b8a1911f8185a60407208d20497600bc1e319a8651203efb0c"
+      "bytes": 1212
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/training_args.bin",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model/training_args.bin",
-      "bytes": 6161,
-      "sha256": "a539dd4b7f268794d8f20204e99db33ac11bc2613a23c526514cf0aba3ddf3e9"
+      "bytes": 6161
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/assets-used.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/provenance/assets-used.json",
-      "bytes": 1126,
-      "sha256": "fa1538eca534ca22b11d4a8e4c886c5813c641184639d97415fa8d642cf5759e"
+      "bytes": 1126
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/code.diff",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/provenance/code.diff",
-      "bytes": 4022,
-      "sha256": "436e0b4c2f328faddeef0ea452fcbf0cba9a79bd578c4c252bea3fe27d5b0a3d"
+      "bytes": 4022
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/encoder-modeling.py",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/provenance/encoder-modeling.py",
-      "bytes": 12168,
-      "sha256": "2e6f88d403cf72b196f32066fde67e5b791abb26de1c05bb1fa95ee5c105d7f8"
+      "bytes": 12168
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/encoder-trainer.py",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/provenance/encoder-trainer.py",
-      "bytes": 2004,
-      "sha256": "b31fcd8d997426c7d7a66d4d7c64d2df840702ae4d705e3af7c462c3230302c2"
+      "bytes": 2004
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/environment.lock",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/provenance/environment.lock",
-      "bytes": 74188,
-      "sha256": "56644a8474f3fa1b383e1fa1a592c65e17da761c942c6a0a072ba0b1e0b429d5"
+      "bytes": 74188
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/final-trainer-state.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/provenance/final-trainer-state.json",
-      "bytes": 1045558,
-      "sha256": "a97aa3bc4f320c5c8afafcdfff13eb0bed2ea14d4a639701cc5ffd0863c5fcce"
+      "bytes": 1045558
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/git-commit.txt",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/provenance/git-commit.txt",
-      "bytes": 41,
-      "sha256": "34bf09c49779e7743434fd3646fd6cab659baf01b1707b2ee6cf51f2f16d47cf"
+      "bytes": 41
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/gpu-check.txt",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/provenance/gpu-check.txt",
-      "bytes": 200,
-      "sha256": "697f7944222c122dbf6d48515d8b10d3604e3c079cd9b69636e11a2ac6175b2a"
+      "bytes": 200
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/train.sbatch",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/provenance/train.sbatch",
-      "bytes": 4358,
-      "sha256": "81b04a3f68ef89c29af27aa65cdd14b97fa10cb2c754f7048995143b5136fbd9"
+      "bytes": 4358
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/training-assets.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/provenance/training-assets.json",
-      "bytes": 1126,
-      "sha256": "fa1538eca534ca22b11d4a8e4c886c5813c641184639d97415fa8d642cf5759e"
+      "bytes": 1126
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/training-complete.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/provenance/training-complete.json",
-      "bytes": 220,
-      "sha256": "93249a425113a1685d8af1fcc29ed63e5c53b0df5218061b33dda3e078a50731"
+      "bytes": 220
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/training.log",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/provenance/training.log",
-      "bytes": 1829214,
-      "sha256": "bc24e5a14bff2d4033d2b95bc46bd3ead3701bb60f894508987905424a56feb7"
+      "bytes": 1829214
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/retrieval.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/retrieval.json",
-      "bytes": 325,
-      "sha256": "af212fceea5e720c677dd6b5a373fba3b7ddf68ba50bbe5daa01cc045e317dc1"
+      "bytes": 325
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/assets.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/assets.json",
-      "bytes": 1565,
-      "sha256": "1e28721013c19012a6813a484f45131c063b055eff9b560ae8046d11524869fb"
+      "bytes": 1565
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-agent-server.log",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/full-agent-server.log",
-      "bytes": 5558089,
-      "sha256": "2e51a57b147403e59c9f1b9eba051f4669e3552976acff6ddc014c5a05a31fcf"
+      "bytes": 5558089
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-agent-timing.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/full-agent-timing.json",
-      "bytes": 172,
-      "sha256": "fa986deb777b88d4333add86771cbcaf227aa106642d683a9eb5065f87406a47"
+      "bytes": 172
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-job.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/full-job.json",
-      "bytes": 574,
-      "sha256": "cd599fbe76692697ccf0ec7b3176959917e5f1456922470917da09efa7601e3d"
+      "bytes": 574
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-judge-server.log",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/full-judge-server.log",
-      "bytes": 150729,
-      "sha256": "19bb1b5a70349813d2afa51dd4dc92375ffc7163e33792e52ccedb05f49541b5"
+      "bytes": 150729
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-judge-timing.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/full-judge-timing.json",
-      "bytes": 174,
-      "sha256": "9db6505e2f4e54e67a50e16ea7fd421dd9ead107030e0f98f5e53436be541f0d"
+      "bytes": 174
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-results.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/full-results.json",
-      "bytes": 140559,
-      "sha256": "0835d44ecc2aeef032882e289725b6ddd4ef1e0a0b5beb5c7992b5d8b4cc8332"
+      "bytes": 140559
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-server-timing.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/full-server-timing.json",
-      "bytes": 62,
-      "sha256": "de9d96313983b30bfc6ffb7a61f492360b0e829f375c132f68677ca0bdeba23a"
+      "bytes": 62
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/index-manifest.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/index-manifest.json",
-      "bytes": 729,
-      "sha256": "52b7063bb972e2f72371c1e4b5d84e0414200506245390b7143bb67bc7edb371"
+      "bytes": 729
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/judgments.tar.gz",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/judgments.tar.gz",
-      "bytes": 501599,
-      "sha256": "7b301b40d78dd82cc362bc9382a9c1c7c99aa300f7f3ad93e287377e92d9547a"
+      "bytes": 501599
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/packages.txt",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/packages.txt",
-      "bytes": 2879,
-      "sha256": "dd8019207136e15b24da945142e39ce0d6510e13595f87f138038cdc2bc47395"
+      "bytes": 2879
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-agent-server.log",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/pilot-agent-server.log",
-      "bytes": 153790,
-      "sha256": "74bdbda794b99852276aa75ca79351534ee674ab82d78bde4404771f93d89166"
+      "bytes": 153790
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-agent-timing.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/pilot-agent-timing.json",
-      "bytes": 173,
-      "sha256": "a318481730bd70d51a7e24b8646bff6aca1aa6c4cb93db19545fffcd2288006a"
+      "bytes": 173
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-judge-server.log",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/pilot-judge-server.log",
-      "bytes": 35350,
-      "sha256": "4c00e0418799d48185175069f62150904b721eeabce7c5e65415a35af41171bb"
+      "bytes": 35350
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-judge-timing.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/pilot-judge-timing.json",
-      "bytes": 175,
-      "sha256": "591b47c4275a81d2e6df2378ae14402d4829b0c31a770416fa8ae101952f65af"
+      "bytes": 175
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-results.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/pilot-results.json",
-      "bytes": 3750,
-      "sha256": "9e9f2a94126485215d14f4c0e79f994d360a82658eb48a95fffb808c2436785b"
+      "bytes": 3750
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-selection.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/pilot-selection.json",
-      "bytes": 215,
-      "sha256": "2ecb90081881c75ad1154c6627e55cf3af1ba9c05f314027adc4210f5cd92eea"
+      "bytes": 215
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-server-timing.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/pilot-server-timing.json",
-      "bytes": 64,
-      "sha256": "9cb2495f8305308042ab471c517e79e7e7aed2e11c2692f901d264727cdbe0c9"
+      "bytes": 64
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/runtime-estimate.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/runtime-estimate.json",
-      "bytes": 502,
-      "sha256": "7200f634fbcabff370afd923cb33fe84679c4f1b69420bf03318e60739662be3"
+      "bytes": 502
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/source.tar.gz",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/source.tar.gz",
-      "bytes": 122676,
-      "sha256": "76ffc12707640c6d7dcd1925d9b350f7dfa2a43ef98454fa6bff0d4ca31a6319"
+      "bytes": 122676
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/submitted-jobs.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/submitted-jobs.json",
-      "bytes": 228,
-      "sha256": "7a41e8ba2c54250a88ac9097a2c18153b46fcb0ba4425236cc2ecacc591e04f8"
+      "bytes": 228
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/trajectories.tar.gz",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/trajectories.tar.gz",
-      "bytes": 25083200,
-      "sha256": "ddb02d1379cb8fce3f3e6781d67f30511d5838fc8800dbf274d3abd1a5ce6cc5"
+      "bytes": 25083200
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/added_tokens.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model/added_tokens.json",
-      "bytes": 707,
-      "sha256": "c0284b582e14987fbd3d5a2cb2bd139084371ed9acbae488829a1c900833c680"
+      "bytes": 707
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/chat_template.jinja",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model/chat_template.jinja",
-      "bytes": 4116,
-      "sha256": "87a2728cb8dc9fe424d624542f6060ec05a1d285ebbec578bb078900e33396b5"
+      "bytes": 4116
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/config.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model/config.json",
-      "bytes": 1360,
-      "sha256": "ecefe93a98e5401a5a6f61b919149a64c2501a95361dc2467e24a0d683a70561"
+      "bytes": 1360
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/merges.txt",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model/merges.txt",
-      "bytes": 1671853,
-      "sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5"
+      "bytes": 1671853
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/model.safetensors",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model/model.safetensors",
-      "bytes": 2383139480,
-      "sha256": "18e2ec37afcd6789e0f862d7d6f2855e127930fb4715d73a7bbffc8c8e76295b"
+      "bytes": 2383139480
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/special_tokens_map.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model/special_tokens_map.json",
-      "bytes": 613,
-      "sha256": "76862e765266b85aa9459767e33cbaf13970f327a0e88d1c65846c2ddd3a1ecd"
+      "bytes": 613
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/tokenizer.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model/tokenizer.json",
-      "bytes": 11423803,
-      "sha256": "4689bbafe5096d0a16cf2849ede8c67a98d4925bde8eba491f4a6839b1954fc6"
+      "bytes": 11423803
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/tokenizer_config.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model/tokenizer_config.json",
-      "bytes": 5429,
-      "sha256": "6e44bb6d33505ec2e3b4daef8687cdbfa623fb64a9254e018b72cd73e199a221"
+      "bytes": 5429
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/training_args.bin",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model/training_args.bin",
-      "bytes": 6161,
-      "sha256": "ae2aeb649841de3644aabafaf98bf64acc39e1653d47e1efdfd48e4ed552aeb3"
+      "bytes": 6161
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/vocab.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model/vocab.json",
-      "bytes": 2776833,
-      "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+      "bytes": 2776833
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/code.diff",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/provenance/code.diff",
-      "bytes": 1480,
-      "sha256": "1c0a44a24207bdd61190f17c181b80055ad4edce865a4aa7b7a2e477688c6c0d"
+      "bytes": 1480
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/environment.lock",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/provenance/environment.lock",
-      "bytes": 74188,
-      "sha256": "56644a8474f3fa1b383e1fa1a592c65e17da761c942c6a0a072ba0b1e0b429d5"
+      "bytes": 74188
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/final-trainer-state.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/provenance/final-trainer-state.json",
-      "bytes": 16849202,
-      "sha256": "752ac97b76c03de99c87c7a02428416e2287c34d8615e7ab8762067955c2c219"
+      "bytes": 16849202
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/full-assets.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/provenance/full-assets.json",
-      "bytes": 836,
-      "sha256": "f52c73c694db01d06f2e033c7c1259afbfd12369f293ed8ad8d295bb8fc3320f"
+      "bytes": 836
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/git-commit.txt",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/provenance/git-commit.txt",
-      "bytes": 41,
-      "sha256": "34bf09c49779e7743434fd3646fd6cab659baf01b1707b2ee6cf51f2f16d47cf"
+      "bytes": 41
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/gpu-check.txt",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/provenance/gpu-check.txt",
-      "bytes": 200,
-      "sha256": "697f7944222c122dbf6d48515d8b10d3604e3c079cd9b69636e11a2ac6175b2a"
+      "bytes": 200
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/resumed-from.txt",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/provenance/resumed-from.txt",
-      "bytes": 78,
-      "sha256": "2bc70ec9dc3e305acd0b34cd53028373d8c26384de68eebba4ca7e4de7fc2fd0"
+      "bytes": 78
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/training.log",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/provenance/training.log",
-      "bytes": 15031643,
-      "sha256": "f933974b706a18321c7a91670426d1c7b9c58739c68102a4db26572169037f17"
+      "bytes": 15031643
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/retrieval.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/retrieval.json",
-      "bytes": 310,
-      "sha256": "3ffab3826fbfe2c6451e2183be8b00ed63b6a2c50c083b1fb7b0c0beede2c0ee"
+      "bytes": 310
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/summary.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/summary.json",
-      "bytes": 1702,
-      "sha256": "a4f60529fc099014948b0dd7c7e0e4a40eb10f87a278ce2ebf4df02ea8045bec"
+      "bytes": 1702
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/README.md",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-infoseek-20261111/qwen3-embedding-0.6b-lrat/README.md",
-      "bytes": 578,
-      "sha256": "ed123a13a31b84044226fa8172647397ca9664fab42a8f6e0fef431449620ad1"
-    },
-    {
-      "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/SHA256SUMS",
-      "source": "/gpfs/home6/scur0901/lrat-results/tongyi-infoseek-20261111/qwen3-embedding-0.6b-lrat/SHA256SUMS",
-      "bytes": 908,
-      "sha256": "43d6e594756034ae15e4104abfef4c11795f789209d1019687f842439f87f68b"
+      "bytes": 578
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/archive-manifest.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-infoseek-20261111/qwen3-embedding-0.6b-lrat/archive-manifest.json",
-      "bytes": 1215,
-      "sha256": "29d8d4674cd06f58646037fab94ddbe287b7f5da08b8285d2d34b784628fd51a"
+      "bytes": 1215
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/assets.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-infoseek-20261111/qwen3-embedding-0.6b-lrat/assets.json",
-      "bytes": 1925,
-      "sha256": "d0bf26bd3af095a6c2e9546d5da1c53167ba1cf1148ec33c8c98eed4d2d0b43e"
+      "bytes": 1925
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/configuration.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-infoseek-20261111/qwen3-embedding-0.6b-lrat/configuration.json",
-      "bytes": 564,
-      "sha256": "10bf271ecdaaa701b3933b13f3ac6a92a6334b953437c5cfcc2fa2110a1a7671"
+      "bytes": 564
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/full-job.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-infoseek-20261111/qwen3-embedding-0.6b-lrat/full-job.json",
-      "bytes": 113,
-      "sha256": "87cecdce978a152ffe196544d03616d757a68fe34243d4f19c8ad308df8c7f1e"
+      "bytes": 113
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/full-results.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-infoseek-20261111/qwen3-embedding-0.6b-lrat/full-results.json",
-      "bytes": 36241,
-      "sha256": "57802085e3f540127ad5aa636faefca9753e28fb6391033d28517c1bb7b91867"
+      "bytes": 36241
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/index-manifest.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-infoseek-20261111/qwen3-embedding-0.6b-lrat/index-manifest.json",
-      "bytes": 888,
-      "sha256": "51a91faceb87892c2283fe5ae415486e77289f38e64689d27456d83bb58fe69a"
+      "bytes": 888
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/judgments.tar.gz",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-infoseek-20261111/qwen3-embedding-0.6b-lrat/judgments.tar.gz",
-      "bytes": 332303,
-      "sha256": "3c362a984b313e387a02d0e4eac274ecb9a9e70105cdf578ee151e40ea16c0c7"
+      "bytes": 332303
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/slurm.out",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-infoseek-20261111/qwen3-embedding-0.6b-lrat/slurm.out",
-      "bytes": 154721,
-      "sha256": "6cf939a67736b75f0f75e763dbbdaa822a71d63c8224708019a3bff61be84e9e"
+      "bytes": 154721
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/submitted-jobs.json",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-infoseek-20261111/qwen3-embedding-0.6b-lrat/submitted-jobs.json",
-      "bytes": 785,
-      "sha256": "fb3f7bae5c540a33aa4c70183a68199c7c789836668438c6c6dc1c66e3205f59"
+      "bytes": 785
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/trajectories.tar.gz",
       "source": "/gpfs/home6/scur0901/lrat-results/tongyi-infoseek-20261111/qwen3-embedding-0.6b-lrat/trajectories.tar.gz",
-      "bytes": 5388635,
-      "sha256": "5e6fa2a9febd79ad46bbe47e996c120f328170480ef7f2cb37f5c28eca5a7e33"
+      "bytes": 5388635
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/full-agent-server.log",
       "source": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/e5/full-agent-server.log",
-      "bytes": 1578727,
-      "sha256": "fec1de825b97c66dca633cd53ed6c27c7916814c34b54a7b4dea77138475a6d2"
+      "bytes": 1578727
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/full-judge-server.log",
       "source": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/e5/full-judge-server.log",
-      "bytes": 129578,
-      "sha256": "f0d973dffa18636c83405e5e3a4260f1a0b9351d42b3f1bc666d4029a7e862b2"
+      "bytes": 129578
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/index-manifest.json",
       "source": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/e5/index/manifest.json",
-      "bytes": 894,
-      "sha256": "f4bceefec6533a45b17d087675100b47a09c5dee60fa389023195a03689e2994"
-    },
-    {
-      "path": "artifacts/browse-audit/SHA256SUMS",
-      "source": "/gpfs/home6/scur0901/lrat-results/browse-audit-20261111/SHA256SUMS",
-      "bytes": 502,
-      "sha256": "e1e2f159b879716868ddb65c403915c86ab4655277712b0abb05f2761614f912"
+      "bytes": 894
     },
     {
       "path": "artifacts/browse-audit/audit_browsed.py",
       "source": "/gpfs/home6/scur0901/lrat-results/browse-audit-20261111/audit_browsed.py",
-      "bytes": 10300,
-      "sha256": "26d5647a3114eeacd6bd7e1cd12598e93ccdaa0338c316fb51e007eabd3d1c57"
+      "bytes": 10300
     },
     {
       "path": "artifacts/browse-audit/browse_events.jsonl.gz",
       "source": "/gpfs/home6/scur0901/lrat-results/browse-audit-20261111/browse_events.jsonl.gz",
-      "bytes": 7707706,
-      "sha256": "95a059f5901cbd6e9c1cea4b25a3b5b52127cd8dafbb4287da75bc44e480da80"
+      "bytes": 7707706
     },
     {
       "path": "artifacts/browse-audit/review_pairs.csv",
       "source": "/gpfs/home6/scur0901/lrat-results/browse-audit-20261111/review_pairs.csv",
-      "bytes": 1078197,
-      "sha256": "a2da1971b0927ed2c601d5551248cd4fbb6f7ddd4ef432f02202dcb6d97ace3e"
+      "bytes": 1078197
     },
     {
       "path": "artifacts/browse-audit/review_sample.json",
       "source": "/gpfs/home6/scur0901/lrat-results/browse-audit-20261111/review_sample.json",
-      "bytes": 78311,
-      "sha256": "4b3d6fcda21dd2360ea26e93b61959746fbf66d650eb30c01c34bd3c321c4869"
+      "bytes": 78311
     },
     {
       "path": "artifacts/browse-audit/review_sample.md",
       "source": "/gpfs/home6/scur0901/lrat-results/browse-audit-20261111/review_sample.md",
-      "bytes": 64769,
-      "sha256": "4c72cf06a0de864a781bcc17973f3a7ccd374b4170b5c917df300c5685f8a7b9"
+      "bytes": 64769
     },
     {
       "path": "artifacts/browse-audit/summary.json",
       "source": "/gpfs/home6/scur0901/lrat-results/browse-audit-20261111/summary.json",
-      "bytes": 2563,
-      "sha256": "45c1923796cc6c24f5ee496d780092ee7d081ef694d0305f6544e33bafe045f4"
+      "bytes": 2563
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/added_tokens.json",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/added_tokens.json",
-      "bytes": 707,
-      "sha256": "c0284b582e14987fbd3d5a2cb2bd139084371ed9acbae488829a1c900833c680"
+      "bytes": 707
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/chat_template.jinja",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/chat_template.jinja",
-      "bytes": 4116,
-      "sha256": "87a2728cb8dc9fe424d624542f6060ec05a1d285ebbec578bb078900e33396b5"
+      "bytes": 4116
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/config.json",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/config.json",
-      "bytes": 1360,
-      "sha256": "ecefe93a98e5401a5a6f61b919149a64c2501a95361dc2467e24a0d683a70561"
+      "bytes": 1360
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/merges.txt",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/merges.txt",
-      "bytes": 1671853,
-      "sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5"
+      "bytes": 1671853
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/model.safetensors",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/model.safetensors",
-      "bytes": 2383139480,
-      "sha256": "18e2ec37afcd6789e0f862d7d6f2855e127930fb4715d73a7bbffc8c8e76295b"
+      "bytes": 2383139480
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/optimizer.pt",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/optimizer.pt",
-      "bytes": 4766477779,
-      "sha256": "e40c081bcb5bfbb6519f903302c3e5a2257c37450c6adb16df67130c8f9b0da8"
+      "bytes": 4766477779
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/rng_state.pth",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/rng_state.pth",
-      "bytes": 14645,
-      "sha256": "338c8fab975f8d8722414ffc91e45750f0f0a61e1051a0e480a8ab803749e5af"
+      "bytes": 14645
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/scheduler.pt",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/scheduler.pt",
-      "bytes": 1465,
-      "sha256": "7428a50ad66950c6b5454dcf32ac83770b34057d0bfc441487eb372e2feb6ebe"
+      "bytes": 1465
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/special_tokens_map.json",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/special_tokens_map.json",
-      "bytes": 613,
-      "sha256": "76862e765266b85aa9459767e33cbaf13970f327a0e88d1c65846c2ddd3a1ecd"
+      "bytes": 613
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/tokenizer.json",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/tokenizer.json",
-      "bytes": 11423803,
-      "sha256": "4689bbafe5096d0a16cf2849ede8c67a98d4925bde8eba491f4a6839b1954fc6"
+      "bytes": 11423803
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/tokenizer_config.json",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/tokenizer_config.json",
-      "bytes": 5429,
-      "sha256": "6e44bb6d33505ec2e3b4daef8687cdbfa623fb64a9254e018b72cd73e199a221"
+      "bytes": 5429
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/trainer_state.json",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/trainer_state.json",
-      "bytes": 16849202,
-      "sha256": "752ac97b76c03de99c87c7a02428416e2287c34d8615e7ab8762067955c2c219"
+      "bytes": 16849202
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/training_args.bin",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/training_args.bin",
-      "bytes": 6161,
-      "sha256": "ae2aeb649841de3644aabafaf98bf64acc39e1653d47e1efdfd48e4ed552aeb3"
+      "bytes": 6161
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/vocab.json",
       "source": "/scratch-shared/scur0901/lrat/runs/full-28880868/model/checkpoint-96502/vocab.json",
-      "bytes": 2776833,
-      "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+      "bytes": 2776833
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/config.json",
       "source": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model/checkpoint-6030/config.json",
-      "bytes": 663,
-      "sha256": "67c26af105024531bbd7b3d518bd45643cd60f9ada6fa002ea4ce31e34fb2811"
+      "bytes": 663
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/model.safetensors",
       "source": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model/checkpoint-6030/model.safetensors",
-      "bytes": 2239607176,
-      "sha256": "e4218c97268512c8f319ac186eec9319ac60dd4c5b606c0febefb373807fc0b1"
+      "bytes": 2239607176
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/optimizer.pt",
       "source": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model/checkpoint-6030/optimizer.pt",
-      "bytes": 4471061702,
-      "sha256": "0eefa6e4ddc198753b91e0a16f2b484054467df2c16dce0d95d8d9316a26cdb8"
+      "bytes": 4471061702
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/rng_state.pth",
       "source": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model/checkpoint-6030/rng_state.pth",
-      "bytes": 14645,
-      "sha256": "c6eb918126acd55fc06d64626d8a0d73b86c1fdd95fd530aa6916e8cf770371e"
+      "bytes": 14645
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/scheduler.pt",
       "source": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model/checkpoint-6030/scheduler.pt",
-      "bytes": 1465,
-      "sha256": "da5b1dd54db33e1210458571e52065f56c8d54ac575ad41d989d8b230868899a"
+      "bytes": 1465
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/sentencepiece.bpe.model",
       "source": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model/checkpoint-6030/sentencepiece.bpe.model",
-      "bytes": 5069051,
-      "sha256": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865"
+      "bytes": 5069051
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/special_tokens_map.json",
       "source": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model/checkpoint-6030/special_tokens_map.json",
-      "bytes": 964,
-      "sha256": "8c785abebea9ae3257b61681b4e6fd8365ceafde980c21970d001e834cf10835"
+      "bytes": 964
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/tokenizer.json",
       "source": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model/checkpoint-6030/tokenizer.json",
-      "bytes": 17082832,
-      "sha256": "8373f9cd3d27591e1924426bcc1c8799bc5a9affc4fc857982c5d66668dd1f41"
+      "bytes": 17082832
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/tokenizer_config.json",
       "source": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model/checkpoint-6030/tokenizer_config.json",
-      "bytes": 1212,
-      "sha256": "0fc42f057e0907b8a1911f8185a60407208d20497600bc1e319a8651203efb0c"
+      "bytes": 1212
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/trainer_state.json",
       "source": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model/checkpoint-6030/trainer_state.json",
-      "bytes": 1045558,
-      "sha256": "a97aa3bc4f320c5c8afafcdfff13eb0bed2ea14d4a639701cc5ffd0863c5fcce"
+      "bytes": 1045558
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/training_args.bin",
       "source": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model/checkpoint-6030/training_args.bin",
-      "bytes": 6161,
-      "sha256": "a539dd4b7f268794d8f20204e99db33ac11bc2613a23c526514cf0aba3ddf3e9"
+      "bytes": 6161
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-e5-browsecomp/assets.json",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/agentcpm-e5-browsecomp/assets.json",
-      "bytes": 2448,
-      "sha256": "c302d12ae886a9d2b7c8e7ee63caeea6ef6b8bae5284df37b6e7bcdcc2c2c366"
+      "bytes": 2448
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-e5-browsecomp/full-agent-server.log",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/agentcpm-e5-browsecomp/full-agent-server.log",
-      "bytes": 8952,
-      "sha256": "0613951b37f8c2a193b0950a019791109ef79ee2d274ec6f38dbfd8f32d04b86"
+      "bytes": 8952
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-e5-infoseek/assets.json",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/agentcpm-e5-infoseek/assets.json",
-      "bytes": 2204,
-      "sha256": "6823b36a478676fb8b1e7318a7f003c7fd76a876ee6e096264796d69788d251f"
+      "bytes": 2204
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-e5-infoseek/full-agent-server.log",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/agentcpm-e5-infoseek/full-agent-server.log",
-      "bytes": 8952,
-      "sha256": "177828fbf314d221f0e8d46ea6f4098e84323b4d13ad38ce26eba28401605f1a"
+      "bytes": 8952
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-qwen-browsecomp/assets.json",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/agentcpm-qwen-browsecomp/assets.json",
-      "bytes": 2329,
-      "sha256": "7da08957d19f99de004839a5e8a41990e083c233e2b4f7c6a375951ad6db40d7"
+      "bytes": 2329
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-qwen-browsecomp/full-agent-server.log",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/agentcpm-qwen-browsecomp/full-agent-server.log",
-      "bytes": 8952,
-      "sha256": "058500268bf4a8a4003c33ef4ff90ea911e1fe4bd83bd7a160693cf6bd6f623e"
+      "bytes": 8952
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-qwen-infoseek/assets.json",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/agentcpm-qwen-infoseek/assets.json",
-      "bytes": 2198,
-      "sha256": "eb52010c04a2a2a3380ad2a04ed80fce7fa27938b2ac466d51e1e1b95d7148d4"
+      "bytes": 2198
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-qwen-infoseek/full-agent-server.log",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/agentcpm-qwen-infoseek/full-agent-server.log",
-      "bytes": 8950,
-      "sha256": "a96bc65b9060fcd92d2ed5ae7eded74e4cda0353a1954749680b715fa266d28c"
+      "bytes": 8950
     },
     {
       "path": "artifacts/failed-agent-matrix/configuration.json",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/configuration.json",
-      "bytes": 22438,
-      "sha256": "f9e61ad3de38eec1362c9d41d0719fe09e1b7bc47bed6f14fba57cbb9893b288"
+      "bytes": 22438
     },
     {
       "path": "artifacts/failed-agent-matrix/preparation.json",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/preparation.json",
-      "bytes": 1047,
-      "sha256": "818f13fa28a65009077ff4e2a18b161ba3097cfe0a1370109fee89981eb05a51"
-    },
-    {
-      "path": "artifacts/failed-agent-matrix/source/SHA256SUMS",
-      "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/SHA256SUMS",
-      "bytes": 4207,
-      "sha256": "0d64a4f9a1da762897d643f544fc983d4f7b21da45c586fe5c542bbf4070e090"
+      "bytes": 1047
     },
     {
       "path": "artifacts/failed-agent-matrix/source/environments/snellius-eval/pyproject.toml",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/environments/snellius-eval/pyproject.toml",
-      "bytes": 479,
-      "sha256": "5c2e49d03ef873fded8ab91e937fc3381b42c15c528e881b467371b07362d8b2"
+      "bytes": 479
     },
     {
       "path": "artifacts/failed-agent-matrix/source/environments/snellius-eval/uv.lock",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/environments/snellius-eval/uv.lock",
-      "bytes": 137170,
-      "sha256": "bb85be543e756d8472485123f9461e87bee5cc763effc568864ff2e90dfc4074"
+      "bytes": 137170
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/archive_results.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/archive_results.py",
-      "bytes": 10053,
-      "sha256": "cf08d2a2dfc6436bd1846cd45b87c7898153157c31e9191dad81fe2ce3f70b98"
+      "bytes": 10053
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/archive_results.sbatch",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/archive_results.sbatch",
-      "bytes": 517,
-      "sha256": "e327a4eb1a7d19fc976e0692381d9dcd50376ef4ad6a580e862bbbf0dfcba9f9"
+      "bytes": 517
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/check_e5.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/check_e5.py",
-      "bytes": 6211,
-      "sha256": "14f74e2fbdebb902a831157161e5292288248a05bac43b7b7a463046698a1991"
+      "bytes": 6211
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/check_gpu.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/check_gpu.py",
-      "bytes": 637,
-      "sha256": "f0d94f50e57895cd3c0b3bf44738593deabb368cccc6f191bac3c0f3ed45eabe"
+      "bytes": 637
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/check_resume.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/check_resume.py",
-      "bytes": 2218,
-      "sha256": "837aa776fd86060b7b19a2f910199e9ccc09295ed95bebaff348359376dedfbb"
+      "bytes": 2218
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/check_resume.sbatch",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/check_resume.sbatch",
-      "bytes": 405,
-      "sha256": "78c3c8442b12be106030adc618c932175ef2f784e36435d39fe5aaaf464b5525"
+      "bytes": 405
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/e5_prepare.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/e5_prepare.py",
-      "bytes": 1871,
-      "sha256": "588e8822303f676d71a3e0faeae39396c8055a2a7239ba986bc1c5cca282db4f"
+      "bytes": 1871
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/e5_setup.sbatch",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/e5_setup.sbatch",
-      "bytes": 506,
-      "sha256": "2335a52f8bfc67c9f769d97bd09531ee2091d2b71a06d256569d080b81589477"
+      "bytes": 506
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/e5_train.sbatch",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/e5_train.sbatch",
-      "bytes": 4358,
-      "sha256": "81b04a3f68ef89c29af27aa65cdd14b97fa10cb2c754f7048995143b5136fbd9"
+      "bytes": 4358
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/env.sh",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/env.sh",
-      "bytes": 1636,
-      "sha256": "5fd1edfface8c03f3714690c432cb8d71e33ec3f7d19b25a26339b1682fcad3c"
+      "bytes": 1636
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_agent.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/eval_agent.py",
-      "bytes": 19190,
-      "sha256": "2cec7522d6765e0dbd14ccba09a8acbf965f12293e86799322dfd56cdd02b5d0"
+      "bytes": 19190
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_check.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/eval_check.py",
-      "bytes": 4127,
-      "sha256": "116634d98f264636e5d17c4e2371fb8c15841675206a87071b89c2e93f2685b3"
+      "bytes": 4127
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_embedding.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/eval_embedding.py",
-      "bytes": 1322,
-      "sha256": "eb0a0b0fd364f4baba2d5e94d936be39ee18fdada46b57908c725e8b18e5fd6d"
+      "bytes": 1322
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_env.sh",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/eval_env.sh",
-      "bytes": 855,
-      "sha256": "3900b6da73fb8ebbe0593652c3a5d2ef7d46b2385a71009c4f84e9321e5d1502"
+      "bytes": 855
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_index.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/eval_index.py",
-      "bytes": 3330,
-      "sha256": "593fe295dcfbcf97e6381fdd93f94b6dbc59e1b0757db6a8fbcf4a6a0f32c69e"
+      "bytes": 3330
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_index.sbatch",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/eval_index.sbatch",
-      "bytes": 472,
-      "sha256": "2f21155b0dd92f2486f01ba88b78df1efba21b0733bc8145bb872e33a532de46"
+      "bytes": 472
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_prepare.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/eval_prepare.py",
-      "bytes": 4409,
-      "sha256": "4d013b24f89a33f562cd267ed0ce5b16909747f784693b51e6a941acaa3d51be"
+      "bytes": 4409
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_prepare.sbatch",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/eval_prepare.sbatch",
-      "bytes": 897,
-      "sha256": "3a9a210d6cc65668b18a5d5e0b3725d04aaf299c5f1233963cae2d5a101cdc4e"
+      "bytes": 897
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_run.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/eval_run.py",
-      "bytes": 7432,
-      "sha256": "f7894c0a18b42fe653eeb65768f59a64fbd05b10a33f73830cfc7a69e835d9db"
+      "bytes": 7432
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_run.sbatch",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/eval_run.sbatch",
-      "bytes": 701,
-      "sha256": "4101f926d29927cb6cb36ea55cb66b6b85c05766d3afe41e2c899f336a2acc2f"
+      "bytes": 701
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/infoseek_check.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/infoseek_check.py",
-      "bytes": 3348,
-      "sha256": "b8c8e52ca360e09f6760e591a9f4710866fda961318761ddea2c592e601de5ae"
+      "bytes": 3348
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/infoseek_eval.sbatch",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/infoseek_eval.sbatch",
-      "bytes": 1105,
-      "sha256": "73559e1bb9a5936875eb7b831c0e63846a047733e36babdc06e36f15588e93d1"
+      "bytes": 1105
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/infoseek_index.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/infoseek_index.py",
-      "bytes": 7135,
-      "sha256": "c6490482569175629a4cab0405b9362627cc45c721bdbd1059205a2fc77ed23d"
+      "bytes": 7135
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/infoseek_prepare.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/infoseek_prepare.py",
-      "bytes": 7396,
-      "sha256": "283bb91f46d2bcd2fc167726fa95d29413747609f57632736d3fa5cca425e30d"
+      "bytes": 7396
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/infoseek_prepare.sbatch",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/infoseek_prepare.sbatch",
-      "bytes": 529,
-      "sha256": "810ed06ee15ba659712d57bcbbd063938d84b825cf0a42435168bade83f09e99"
+      "bytes": 529
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/matrix_check.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/matrix_check.py",
-      "bytes": 2073,
-      "sha256": "a0281a52bc1d7cbd1797a4853a3936dfa3f4fe2730d3fbac7d96e09b6ba75aaa"
+      "bytes": 2073
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/matrix_eval.sbatch",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/matrix_eval.sbatch",
-      "bytes": 655,
-      "sha256": "4446ae7b6253fad8b430bbd1706c6c955bfa966134f5ee80e6e752ccbbcb0fac"
+      "bytes": 655
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/matrix_prepare.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/matrix_prepare.py",
-      "bytes": 4608,
-      "sha256": "11de8713bc06234f8e06ec535a8252202110109659f898b8be345b6c08ff9218"
+      "bytes": 4608
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/matrix_prepare.sbatch",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/matrix_prepare.sbatch",
-      "bytes": 438,
-      "sha256": "86bb0bdfc6f3125c757eb1489d227ccb5828c06fa16018ecf51d3865821f0a38"
+      "bytes": 438
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/matrix_stage.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/matrix_stage.py",
-      "bytes": 1241,
-      "sha256": "79f01d2e6eeb8175327869e36f9ea380c453398ba8b1d60956f9e5ffac7d2d35"
+      "bytes": 1241
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/prepare.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/prepare.py",
-      "bytes": 5548,
-      "sha256": "44debba24971f1c4415aac801544389d66b2713d9456e2ff10fb32f290d92350"
+      "bytes": 5548
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/preserve_evaluation.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/preserve_evaluation.py",
-      "bytes": 2446,
-      "sha256": "c0d875bda8927dd3ac331ef51e350f35367a806e99a286625b609b6faa19ef1b"
+      "bytes": 2446
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/setup.sbatch",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/setup.sbatch",
-      "bytes": 1131,
-      "sha256": "1bc0a6bc76ecd7c30776192fb49d1fcec4a79bd6b368d59d676589a0ee4a0852"
+      "bytes": 1131
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/submit_e5.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/submit_e5.py",
-      "bytes": 3132,
-      "sha256": "7826552d3336e9afda8eef7359d9125f177d502bf7e9e3ddc845b4d84ac5a87b"
+      "bytes": 3132
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/submit_infoseek.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/submit_infoseek.py",
-      "bytes": 3212,
-      "sha256": "a73b0d22af78a3b96fb3d3894601a265e8a5b400f5e5625052eb9d73d609fe57"
+      "bytes": 3212
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/submit_matrix.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/submit_matrix.py",
-      "bytes": 6810,
-      "sha256": "7b1709162bf4e0a9b145d30c859c63bd37f2be859bc875a87d39cc6af133a6da"
+      "bytes": 6810
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/train.sbatch",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/train.sbatch",
-      "bytes": 5033,
-      "sha256": "2e503ae8534bad3ca77a02e45214fe49b1963d9e2655b4dd022f44ced7a7414d"
+      "bytes": 5033
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts_evaluation/evaluate.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts_evaluation/evaluate.py",
-      "bytes": 10013,
-      "sha256": "df4b1d0cd7f6e20bd492ee4c224d46fa6e079e3f51fbeab0692cffb122e71942"
+      "bytes": 10013
     },
     {
       "path": "artifacts/failed-agent-matrix/source/search_agent/tongyi_utils/react_agent.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/search_agent/tongyi_utils/react_agent.py",
-      "bytes": 14320,
-      "sha256": "0d1499d65ac34e6764f4a07d0c2fc536fa59b1bca9a6de80f52391cb1db0aa28"
+      "bytes": 14320
     },
     {
       "path": "artifacts/failed-agent-matrix/source/search_agent/webexplorer_utils/react_agent.py",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/search_agent/webexplorer_utils/react_agent.py",
-      "bytes": 11945,
-      "sha256": "3dc494b8ed64546b61a744249700450baccac440e9903b82114bcdf4221a4256"
+      "bytes": 11945
     },
     {
       "path": "artifacts/failed-agent-matrix/submitted-jobs.json",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/submitted-jobs.json",
-      "bytes": 1953,
-      "sha256": "f509e3777299f4dc96581ee46192272f1474f7cc317bf37f22a7a3352397c5d7"
+      "bytes": 1953
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-e5-browsecomp/assets.json",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/webexplorer-e5-browsecomp/assets.json",
-      "bytes": 2448,
-      "sha256": "9dc2e66dd7e4f472ad655c971532e8c56c412745517bf105d8f445240bb95234"
+      "bytes": 2448
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-e5-browsecomp/full-agent-server.log",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/webexplorer-e5-browsecomp/full-agent-server.log",
-      "bytes": 8122,
-      "sha256": "b3f178016216847bb72dac4983fafa50527f374182dc9b487cca7c1d61bfb81d"
+      "bytes": 8122
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-e5-infoseek/assets.json",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/webexplorer-e5-infoseek/assets.json",
-      "bytes": 2204,
-      "sha256": "661001641b4ed2d9efa984e7d68308d558da9ada9103c3fa0f43c9068b151a56"
+      "bytes": 2204
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-e5-infoseek/full-agent-server.log",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/webexplorer-e5-infoseek/full-agent-server.log",
-      "bytes": 8122,
-      "sha256": "d4df9fa1e8b60e0772df51f3467a38410239d162535b098faf975588d2ddbd87"
+      "bytes": 8122
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-qwen-browsecomp/assets.json",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/webexplorer-qwen-browsecomp/assets.json",
-      "bytes": 2329,
-      "sha256": "2c9eec358ab45bf6c3f22b36a4dfd953a08de29b24ba5ec43e3ec3419e588d76"
+      "bytes": 2329
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-qwen-browsecomp/full-agent-server.log",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/webexplorer-qwen-browsecomp/full-agent-server.log",
-      "bytes": 8122,
-      "sha256": "1209296522e9cea4383461fd6bc7c860d721c863005366aad2bbb2e92c54a7b8"
+      "bytes": 8122
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-qwen-infoseek/assets.json",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/webexplorer-qwen-infoseek/assets.json",
-      "bytes": 2198,
-      "sha256": "2bd393787062e1714bbe87c0c505e16b1da3a469feb117bf843aeaf60005de68"
+      "bytes": 2198
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-qwen-infoseek/full-agent-server.log",
       "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/webexplorer-qwen-infoseek/full-agent-server.log",
-      "bytes": 8122,
-      "sha256": "16f4317f0ff63133416e65f50f5074289c6e80cef0a5d91058f66ebd20a5509b"
+      "bytes": 8122
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/agentcpm-e5-browsecomp-agent-29122567.out",
       "source": "/scratch-shared/scur0901/lrat/logs/agentcpm-e5-browsecomp-agent-29122567.out",
-      "bytes": 975,
-      "sha256": "3ae8f5a0969bf0c4ad5a652a661e7dcb854e693bcbdddeb1a631b7ede5170f80"
+      "bytes": 975
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/agentcpm-e5-infoseek-agent-29122564.out",
       "source": "/scratch-shared/scur0901/lrat/logs/agentcpm-e5-infoseek-agent-29122564.out",
-      "bytes": 973,
-      "sha256": "5a679e80f96e081ea9df966e7aad7ad454a5398c19e6cf5ce81171dfa9c0c687"
+      "bytes": 973
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/agentcpm-qwen-browsecomp-agent-29122562.out",
       "source": "/scratch-shared/scur0901/lrat/logs/agentcpm-qwen-browsecomp-agent-29122562.out",
-      "bytes": 977,
-      "sha256": "96b7d18d78b2a9547450c4556177276c81ca7491cc7bc378555e367e40b1369e"
+      "bytes": 977
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/agentcpm-qwen-infoseek-agent-29122560.out",
       "source": "/scratch-shared/scur0901/lrat/logs/agentcpm-qwen-infoseek-agent-29122560.out",
-      "bytes": 975,
-      "sha256": "b6066efe8f915096d8ed1193346ceffecadbf2b23ce3655d5dd4b4138ecabd10"
+      "bytes": 975
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/matrix-setup-29122551.out",
       "source": "/scratch-shared/scur0901/lrat/logs/matrix-setup-29122551.out",
-      "bytes": 1804,
-      "sha256": "622e86bfad05a01902b8ab7b50c0cf6ca4a98e12342251b4ca69feb16e0c62f9"
+      "bytes": 1804
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/webexplorer-e5-browsecomp-agent-29122558.out",
       "source": "/scratch-shared/scur0901/lrat/logs/webexplorer-e5-browsecomp-agent-29122558.out",
-      "bytes": 978,
-      "sha256": "e276d42922da837f893192872a537408ba18fa658ad961d09dae8942262c1e61"
+      "bytes": 978
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/webexplorer-e5-infoseek-agent-29122556.out",
       "source": "/scratch-shared/scur0901/lrat/logs/webexplorer-e5-infoseek-agent-29122556.out",
-      "bytes": 976,
-      "sha256": "6b19fd79272e9cdcf125d57ef6d3c0dc10af5618de92a253199cbecbbdd91a2a"
+      "bytes": 976
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/webexplorer-qwen-browsecomp-agent-29122554.out",
       "source": "/scratch-shared/scur0901/lrat/logs/webexplorer-qwen-browsecomp-agent-29122554.out",
-      "bytes": 980,
-      "sha256": "de229f8af0eaf562154283fddd60d82f2aea9c78d9df0603e92771f107222d2a"
+      "bytes": 980
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/webexplorer-qwen-infoseek-agent-29122552.out",
       "source": "/scratch-shared/scur0901/lrat/logs/webexplorer-qwen-infoseek-agent-29122552.out",
-      "bytes": 978,
-      "sha256": "24432b6c020860d89ffab8a83b06da6c1608f610ca5884e1cde6f7d5facfdd09"
+      "bytes": 978
     },
     {
       "path": "job-status.txt",
       "source": "/gpfs/home6/scur0901/LRAT/scripts/snellius/ir2_export_metadata/job-status.txt",
-      "bytes": 1365,
-      "sha256": "9f700109c777100e4a6f2707926cdc2ed8a53e7543075412d77922db15e81662"
+      "bytes": 1365
     }
   ],
   "files": [
     {
       "path": ".gitignore",
-      "bytes": 146,
-      "sha256": "90ffd3fc5b63b2fb4c375c9a7206794d397e1bb22c1988f920a18568c1524c2f"
+      "bytes": 146
     },
     {
       "path": "README.md",
-      "bytes": 4405,
-      "sha256": "797d26f8a16aad335eb80ce2e4f2c82d00be64817a55af756ef85be680b00617"
-    },
-    {
-      "path": "artifacts/browse-audit/SHA256SUMS",
-      "bytes": 502,
-      "sha256": "e1e2f159b879716868ddb65c403915c86ab4655277712b0abb05f2761614f912"
+      "bytes": 4521
     },
     {
       "path": "artifacts/browse-audit/audit_browsed.py",
-      "bytes": 10300,
-      "sha256": "26d5647a3114eeacd6bd7e1cd12598e93ccdaa0338c316fb51e007eabd3d1c57"
+      "bytes": 10300
     },
     {
       "path": "artifacts/browse-audit/browse_events.jsonl.gz",
-      "bytes": 7707706,
-      "sha256": "95a059f5901cbd6e9c1cea4b25a3b5b52127cd8dafbb4287da75bc44e480da80"
+      "bytes": 7707706
     },
     {
       "path": "artifacts/browse-audit/review_pairs.csv",
-      "bytes": 1078197,
-      "sha256": "a2da1971b0927ed2c601d5551248cd4fbb6f7ddd4ef432f02202dcb6d97ace3e"
+      "bytes": 1078197
     },
     {
       "path": "artifacts/browse-audit/review_sample.json",
-      "bytes": 78311,
-      "sha256": "4b3d6fcda21dd2360ea26e93b61959746fbf66d650eb30c01c34bd3c321c4869"
+      "bytes": 78311
     },
     {
       "path": "artifacts/browse-audit/review_sample.md",
-      "bytes": 64769,
-      "sha256": "4c72cf06a0de864a781bcc17973f3a7ccd374b4170b5c917df300c5685f8a7b9"
+      "bytes": 64769
     },
     {
       "path": "artifacts/browse-audit/summary.json",
-      "bytes": 2563,
-      "sha256": "45c1923796cc6c24f5ee496d780092ee7d081ef694d0305f6544e33bafe045f4"
+      "bytes": 2563
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-e5-browsecomp/assets.json",
-      "bytes": 2448,
-      "sha256": "c302d12ae886a9d2b7c8e7ee63caeea6ef6b8bae5284df37b6e7bcdcc2c2c366"
+      "bytes": 2448
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-e5-browsecomp/full-agent-server.log",
-      "bytes": 8952,
-      "sha256": "0613951b37f8c2a193b0950a019791109ef79ee2d274ec6f38dbfd8f32d04b86"
+      "bytes": 8952
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-e5-infoseek/assets.json",
-      "bytes": 2204,
-      "sha256": "6823b36a478676fb8b1e7318a7f003c7fd76a876ee6e096264796d69788d251f"
+      "bytes": 2204
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-e5-infoseek/full-agent-server.log",
-      "bytes": 8952,
-      "sha256": "177828fbf314d221f0e8d46ea6f4098e84323b4d13ad38ce26eba28401605f1a"
+      "bytes": 8952
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-qwen-browsecomp/assets.json",
-      "bytes": 2329,
-      "sha256": "7da08957d19f99de004839a5e8a41990e083c233e2b4f7c6a375951ad6db40d7"
+      "bytes": 2329
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-qwen-browsecomp/full-agent-server.log",
-      "bytes": 8952,
-      "sha256": "058500268bf4a8a4003c33ef4ff90ea911e1fe4bd83bd7a160693cf6bd6f623e"
+      "bytes": 8952
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-qwen-infoseek/assets.json",
-      "bytes": 2198,
-      "sha256": "eb52010c04a2a2a3380ad2a04ed80fce7fa27938b2ac466d51e1e1b95d7148d4"
+      "bytes": 2198
     },
     {
       "path": "artifacts/failed-agent-matrix/agentcpm-qwen-infoseek/full-agent-server.log",
-      "bytes": 8950,
-      "sha256": "a96bc65b9060fcd92d2ed5ae7eded74e4cda0353a1954749680b715fa266d28c"
+      "bytes": 8950
     },
     {
       "path": "artifacts/failed-agent-matrix/configuration.json",
-      "bytes": 22438,
-      "sha256": "f9e61ad3de38eec1362c9d41d0719fe09e1b7bc47bed6f14fba57cbb9893b288"
+      "bytes": 22438
     },
     {
       "path": "artifacts/failed-agent-matrix/preparation.json",
-      "bytes": 1047,
-      "sha256": "818f13fa28a65009077ff4e2a18b161ba3097cfe0a1370109fee89981eb05a51"
+      "bytes": 1047
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/agentcpm-e5-browsecomp-agent-29122567.out",
-      "bytes": 975,
-      "sha256": "3ae8f5a0969bf0c4ad5a652a661e7dcb854e693bcbdddeb1a631b7ede5170f80"
+      "bytes": 975
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/agentcpm-e5-infoseek-agent-29122564.out",
-      "bytes": 973,
-      "sha256": "5a679e80f96e081ea9df966e7aad7ad454a5398c19e6cf5ce81171dfa9c0c687"
+      "bytes": 973
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/agentcpm-qwen-browsecomp-agent-29122562.out",
-      "bytes": 977,
-      "sha256": "96b7d18d78b2a9547450c4556177276c81ca7491cc7bc378555e367e40b1369e"
+      "bytes": 977
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/agentcpm-qwen-infoseek-agent-29122560.out",
-      "bytes": 975,
-      "sha256": "b6066efe8f915096d8ed1193346ceffecadbf2b23ce3655d5dd4b4138ecabd10"
+      "bytes": 975
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/matrix-setup-29122551.out",
-      "bytes": 1804,
-      "sha256": "622e86bfad05a01902b8ab7b50c0cf6ca4a98e12342251b4ca69feb16e0c62f9"
+      "bytes": 1804
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/webexplorer-e5-browsecomp-agent-29122558.out",
-      "bytes": 978,
-      "sha256": "e276d42922da837f893192872a537408ba18fa658ad961d09dae8942262c1e61"
+      "bytes": 978
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/webexplorer-e5-infoseek-agent-29122556.out",
-      "bytes": 976,
-      "sha256": "6b19fd79272e9cdcf125d57ef6d3c0dc10af5618de92a253199cbecbbdd91a2a"
+      "bytes": 976
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/webexplorer-qwen-browsecomp-agent-29122554.out",
-      "bytes": 980,
-      "sha256": "de229f8af0eaf562154283fddd60d82f2aea9c78d9df0603e92771f107222d2a"
+      "bytes": 980
     },
     {
       "path": "artifacts/failed-agent-matrix/slurm-logs/webexplorer-qwen-infoseek-agent-29122552.out",
-      "bytes": 978,
-      "sha256": "24432b6c020860d89ffab8a83b06da6c1608f610ca5884e1cde6f7d5facfdd09"
-    },
-    {
-      "path": "artifacts/failed-agent-matrix/source/SHA256SUMS",
-      "bytes": 4207,
-      "sha256": "0d64a4f9a1da762897d643f544fc983d4f7b21da45c586fe5c542bbf4070e090"
+      "bytes": 978
     },
     {
       "path": "artifacts/failed-agent-matrix/source/environments/snellius-eval/pyproject.toml",
-      "bytes": 479,
-      "sha256": "5c2e49d03ef873fded8ab91e937fc3381b42c15c528e881b467371b07362d8b2"
+      "bytes": 479
     },
     {
       "path": "artifacts/failed-agent-matrix/source/environments/snellius-eval/uv.lock",
-      "bytes": 137170,
-      "sha256": "bb85be543e756d8472485123f9461e87bee5cc763effc568864ff2e90dfc4074"
+      "bytes": 137170
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/archive_results.py",
-      "bytes": 10053,
-      "sha256": "cf08d2a2dfc6436bd1846cd45b87c7898153157c31e9191dad81fe2ce3f70b98"
+      "bytes": 10053
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/archive_results.sbatch",
-      "bytes": 517,
-      "sha256": "e327a4eb1a7d19fc976e0692381d9dcd50376ef4ad6a580e862bbbf0dfcba9f9"
+      "bytes": 517
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/check_e5.py",
-      "bytes": 6211,
-      "sha256": "14f74e2fbdebb902a831157161e5292288248a05bac43b7b7a463046698a1991"
+      "bytes": 6211
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/check_gpu.py",
-      "bytes": 637,
-      "sha256": "f0d94f50e57895cd3c0b3bf44738593deabb368cccc6f191bac3c0f3ed45eabe"
+      "bytes": 637
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/check_resume.py",
-      "bytes": 2218,
-      "sha256": "837aa776fd86060b7b19a2f910199e9ccc09295ed95bebaff348359376dedfbb"
+      "bytes": 2218
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/check_resume.sbatch",
-      "bytes": 405,
-      "sha256": "78c3c8442b12be106030adc618c932175ef2f784e36435d39fe5aaaf464b5525"
+      "bytes": 405
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/e5_prepare.py",
-      "bytes": 1871,
-      "sha256": "588e8822303f676d71a3e0faeae39396c8055a2a7239ba986bc1c5cca282db4f"
+      "bytes": 1871
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/e5_setup.sbatch",
-      "bytes": 506,
-      "sha256": "2335a52f8bfc67c9f769d97bd09531ee2091d2b71a06d256569d080b81589477"
+      "bytes": 506
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/e5_train.sbatch",
-      "bytes": 4358,
-      "sha256": "81b04a3f68ef89c29af27aa65cdd14b97fa10cb2c754f7048995143b5136fbd9"
+      "bytes": 4358
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/env.sh",
-      "bytes": 1636,
-      "sha256": "5fd1edfface8c03f3714690c432cb8d71e33ec3f7d19b25a26339b1682fcad3c"
+      "bytes": 1636
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_agent.py",
-      "bytes": 19190,
-      "sha256": "2cec7522d6765e0dbd14ccba09a8acbf965f12293e86799322dfd56cdd02b5d0"
+      "bytes": 19190
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_check.py",
-      "bytes": 4127,
-      "sha256": "116634d98f264636e5d17c4e2371fb8c15841675206a87071b89c2e93f2685b3"
+      "bytes": 4127
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_embedding.py",
-      "bytes": 1322,
-      "sha256": "eb0a0b0fd364f4baba2d5e94d936be39ee18fdada46b57908c725e8b18e5fd6d"
+      "bytes": 1322
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_env.sh",
-      "bytes": 855,
-      "sha256": "3900b6da73fb8ebbe0593652c3a5d2ef7d46b2385a71009c4f84e9321e5d1502"
+      "bytes": 855
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_index.py",
-      "bytes": 3330,
-      "sha256": "593fe295dcfbcf97e6381fdd93f94b6dbc59e1b0757db6a8fbcf4a6a0f32c69e"
+      "bytes": 3330
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_index.sbatch",
-      "bytes": 472,
-      "sha256": "2f21155b0dd92f2486f01ba88b78df1efba21b0733bc8145bb872e33a532de46"
+      "bytes": 472
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_prepare.py",
-      "bytes": 4409,
-      "sha256": "4d013b24f89a33f562cd267ed0ce5b16909747f784693b51e6a941acaa3d51be"
+      "bytes": 4409
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_prepare.sbatch",
-      "bytes": 897,
-      "sha256": "3a9a210d6cc65668b18a5d5e0b3725d04aaf299c5f1233963cae2d5a101cdc4e"
+      "bytes": 897
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_run.py",
-      "bytes": 7432,
-      "sha256": "f7894c0a18b42fe653eeb65768f59a64fbd05b10a33f73830cfc7a69e835d9db"
+      "bytes": 7432
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/eval_run.sbatch",
-      "bytes": 701,
-      "sha256": "4101f926d29927cb6cb36ea55cb66b6b85c05766d3afe41e2c899f336a2acc2f"
+      "bytes": 701
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/infoseek_check.py",
-      "bytes": 3348,
-      "sha256": "b8c8e52ca360e09f6760e591a9f4710866fda961318761ddea2c592e601de5ae"
+      "bytes": 3348
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/infoseek_eval.sbatch",
-      "bytes": 1105,
-      "sha256": "73559e1bb9a5936875eb7b831c0e63846a047733e36babdc06e36f15588e93d1"
+      "bytes": 1105
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/infoseek_index.py",
-      "bytes": 7135,
-      "sha256": "c6490482569175629a4cab0405b9362627cc45c721bdbd1059205a2fc77ed23d"
+      "bytes": 7135
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/infoseek_prepare.py",
-      "bytes": 7396,
-      "sha256": "283bb91f46d2bcd2fc167726fa95d29413747609f57632736d3fa5cca425e30d"
+      "bytes": 7396
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/infoseek_prepare.sbatch",
-      "bytes": 529,
-      "sha256": "810ed06ee15ba659712d57bcbbd063938d84b825cf0a42435168bade83f09e99"
+      "bytes": 529
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/matrix_check.py",
-      "bytes": 2073,
-      "sha256": "a0281a52bc1d7cbd1797a4853a3936dfa3f4fe2730d3fbac7d96e09b6ba75aaa"
+      "bytes": 2073
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/matrix_eval.sbatch",
-      "bytes": 655,
-      "sha256": "4446ae7b6253fad8b430bbd1706c6c955bfa966134f5ee80e6e752ccbbcb0fac"
+      "bytes": 655
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/matrix_prepare.py",
-      "bytes": 4608,
-      "sha256": "11de8713bc06234f8e06ec535a8252202110109659f898b8be345b6c08ff9218"
+      "bytes": 4608
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/matrix_prepare.sbatch",
-      "bytes": 438,
-      "sha256": "86bb0bdfc6f3125c757eb1489d227ccb5828c06fa16018ecf51d3865821f0a38"
+      "bytes": 438
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/matrix_stage.py",
-      "bytes": 1241,
-      "sha256": "79f01d2e6eeb8175327869e36f9ea380c453398ba8b1d60956f9e5ffac7d2d35"
+      "bytes": 1241
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/prepare.py",
-      "bytes": 5548,
-      "sha256": "44debba24971f1c4415aac801544389d66b2713d9456e2ff10fb32f290d92350"
+      "bytes": 5548
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/preserve_evaluation.py",
-      "bytes": 2446,
-      "sha256": "c0d875bda8927dd3ac331ef51e350f35367a806e99a286625b609b6faa19ef1b"
+      "bytes": 2446
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/setup.sbatch",
-      "bytes": 1131,
-      "sha256": "1bc0a6bc76ecd7c30776192fb49d1fcec4a79bd6b368d59d676589a0ee4a0852"
+      "bytes": 1131
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/submit_e5.py",
-      "bytes": 3132,
-      "sha256": "7826552d3336e9afda8eef7359d9125f177d502bf7e9e3ddc845b4d84ac5a87b"
+      "bytes": 3132
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/submit_infoseek.py",
-      "bytes": 3212,
-      "sha256": "a73b0d22af78a3b96fb3d3894601a265e8a5b400f5e5625052eb9d73d609fe57"
+      "bytes": 3212
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/submit_matrix.py",
-      "bytes": 6810,
-      "sha256": "7b1709162bf4e0a9b145d30c859c63bd37f2be859bc875a87d39cc6af133a6da"
+      "bytes": 6810
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts/snellius/train.sbatch",
-      "bytes": 5033,
-      "sha256": "2e503ae8534bad3ca77a02e45214fe49b1963d9e2655b4dd022f44ced7a7414d"
+      "bytes": 5033
     },
     {
       "path": "artifacts/failed-agent-matrix/source/scripts_evaluation/evaluate.py",
-      "bytes": 10013,
-      "sha256": "df4b1d0cd7f6e20bd492ee4c224d46fa6e079e3f51fbeab0692cffb122e71942"
+      "bytes": 10013
     },
     {
       "path": "artifacts/failed-agent-matrix/source/search_agent/tongyi_utils/react_agent.py",
-      "bytes": 14320,
-      "sha256": "0d1499d65ac34e6764f4a07d0c2fc536fa59b1bca9a6de80f52391cb1db0aa28"
+      "bytes": 14320
     },
     {
       "path": "artifacts/failed-agent-matrix/source/search_agent/webexplorer_utils/react_agent.py",
-      "bytes": 11945,
-      "sha256": "3dc494b8ed64546b61a744249700450baccac440e9903b82114bcdf4221a4256"
+      "bytes": 11945
     },
     {
       "path": "artifacts/failed-agent-matrix/submitted-jobs.json",
-      "bytes": 1953,
-      "sha256": "f509e3777299f4dc96581ee46192272f1474f7cc317bf37f22a7a3352397c5d7"
+      "bytes": 1953
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-e5-browsecomp/assets.json",
-      "bytes": 2448,
-      "sha256": "9dc2e66dd7e4f472ad655c971532e8c56c412745517bf105d8f445240bb95234"
+      "bytes": 2448
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-e5-browsecomp/full-agent-server.log",
-      "bytes": 8122,
-      "sha256": "b3f178016216847bb72dac4983fafa50527f374182dc9b487cca7c1d61bfb81d"
+      "bytes": 8122
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-e5-infoseek/assets.json",
-      "bytes": 2204,
-      "sha256": "661001641b4ed2d9efa984e7d68308d558da9ada9103c3fa0f43c9068b151a56"
+      "bytes": 2204
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-e5-infoseek/full-agent-server.log",
-      "bytes": 8122,
-      "sha256": "d4df9fa1e8b60e0772df51f3467a38410239d162535b098faf975588d2ddbd87"
+      "bytes": 8122
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-qwen-browsecomp/assets.json",
-      "bytes": 2329,
-      "sha256": "2c9eec358ab45bf6c3f22b36a4dfd953a08de29b24ba5ec43e3ec3419e588d76"
+      "bytes": 2329
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-qwen-browsecomp/full-agent-server.log",
-      "bytes": 8122,
-      "sha256": "1209296522e9cea4383461fd6bc7c860d721c863005366aad2bbb2e92c54a7b8"
+      "bytes": 8122
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-qwen-infoseek/assets.json",
-      "bytes": 2198,
-      "sha256": "2bd393787062e1714bbe87c0c505e16b1da3a469feb117bf843aeaf60005de68"
+      "bytes": 2198
     },
     {
       "path": "artifacts/failed-agent-matrix/webexplorer-qwen-infoseek/full-agent-server.log",
-      "bytes": 8122,
-      "sha256": "16f4317f0ff63133416e65f50f5074289c6e80cef0a5d91058f66ebd20a5509b"
-    },
-    {
-      "path": "artifacts/tongyi-browsecomp-plus/SHA256SUMS",
-      "bytes": 10533,
-      "sha256": "7722d573adb353256eb95d32a68965b7ca9a4538b995f9184f6bbd0b39ae815a"
+      "bytes": 8122
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/SUMMARY.md",
-      "bytes": 1752,
-      "sha256": "e1f2deae2e79bd9c1ba46b32723d211487a3119ec3d441ec180bd09732203e9c"
+      "bytes": 1752
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/archive-manifest.json",
-      "bytes": 25187,
-      "sha256": "689f14689676104e9174502ce71d0320dcffd6a2ff4ba83fc168c454eec92c30"
+      "bytes": 25187
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/assets.json",
-      "bytes": 1959,
-      "sha256": "0dd3f47c34c7cae7bf412f2020bd1c607ffea937f5f62ea8289cec82faf5d133"
+      "bytes": 1959
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-agent-server.log",
-      "bytes": 5553670,
-      "sha256": "c646272b4fb422edda85beeb9bbbf3bf9f2b01b07f3a7afceab63e4ebb88eecb"
+      "bytes": 5553670
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-agent-timing.json",
-      "bytes": 173,
-      "sha256": "dd0b3034c302e653de780972f84f911501e1ed1628f56c42c009dc7e5b9e0bec"
+      "bytes": 173
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-job.json",
-      "bytes": 573,
-      "sha256": "cb6c2d0239caa418d8a9cd671fa4fc135320d9b3995b72ba98d0e7025f77ed3e"
+      "bytes": 573
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-judge-server.log",
-      "bytes": 170826,
-      "sha256": "4bf27b49d2208069a163497059d1961b3842cf0aae4eb32cebaef301dd95fa4f"
+      "bytes": 170826
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-judge-timing.json",
-      "bytes": 176,
-      "sha256": "66b12676f7ef4e8192cccdef0a843a1c753e4fc8184ac6f81c40225d4185ff1b"
+      "bytes": 176
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-results.json",
-      "bytes": 140362,
-      "sha256": "0d4defc09f8542fcdbf413a2f5f3b2f29729ecadeb2e84b26231c27596b8a6cd"
+      "bytes": 140362
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-server-timing.json",
-      "bytes": 65,
-      "sha256": "7b479b29449fd67ce381ce034e907eec6ffb1dc0a9768fb09583205609c914ea"
+      "bytes": 65
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/index-manifest.json",
-      "bytes": 736,
-      "sha256": "272d87c42e110addd7ec9df9ce7ee5bdb511f6fe90d3762b98a6a918d07356fa"
+      "bytes": 736
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/judgments.tar.gz",
-      "bytes": 568217,
-      "sha256": "de057cb2d13bcfa03e82f5de6efa03eab785a8a3cb637f94c4c06a2a3c31bd4f"
+      "bytes": 568217
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-agent-server.log",
-      "bytes": 143269,
-      "sha256": "f5f882245678ea8f4e84404ebb59ce8433f1d9fdb23918e465daf9a6b339960a"
+      "bytes": 143269
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-agent-timing.json",
-      "bytes": 172,
-      "sha256": "83a674fdd943935ae0c3dee3d8a5f97f721bbca8c166458213e5089217c111e6"
+      "bytes": 172
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-judge-server.log",
-      "bytes": 34243,
-      "sha256": "93e9232241234967a477a4d05ce321dfff052cc1462ca42a18ba56d4c661e311"
+      "bytes": 34243
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-judge-timing.json",
-      "bytes": 176,
-      "sha256": "889a084a97468e162a8b67624cb7afe95e6687b9df5605e3c83f7077be8dca0d"
+      "bytes": 176
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-results.json",
-      "bytes": 3734,
-      "sha256": "c522c8608f1369c1466486e4e50273ba870bf81a556c20e5fba142daac686936"
+      "bytes": 3734
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-selection.json",
-      "bytes": 215,
-      "sha256": "2ecb90081881c75ad1154c6627e55cf3af1ba9c05f314027adc4210f5cd92eea"
+      "bytes": 215
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/pilot-server-timing.json",
-      "bytes": 63,
-      "sha256": "becfa73af1c3a5377437b81c0638847bdf0571d3ed2c2dfe7282320e734aab50"
+      "bytes": 63
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/runtime-estimate.json",
-      "bytes": 501,
-      "sha256": "761f9906a088f4eb165b0f1f409becaaa598187742b0db580f937d07d199f978"
+      "bytes": 501
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/source.tar.gz",
-      "bytes": 122682,
-      "sha256": "57cb14a59ad773d1600a22d789e77a17bd08f5a7a34077c3b29b3825ab6b7ac3"
+      "bytes": 122682
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/submitted-jobs.json",
-      "bytes": 1513,
-      "sha256": "52e9fe470f15986193227b5a5a53d00bc2ec94f24a3216c6a75722b55e260360"
+      "bytes": 1513
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/trajectories.tar.gz",
-      "bytes": 26392837,
-      "sha256": "e5ca34d9f387e447ebe3ad40437f6905f757b446c7d1e6c9650c4472343a037b"
+      "bytes": 26392837
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/config.json",
-      "bytes": 663,
-      "sha256": "67c26af105024531bbd7b3d518bd45643cd60f9ada6fa002ea4ce31e34fb2811"
+      "bytes": 663
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/model.safetensors",
-      "bytes": 2239607176,
-      "sha256": "e4218c97268512c8f319ac186eec9319ac60dd4c5b606c0febefb373807fc0b1"
+      "bytes": 2239607176
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/sentencepiece.bpe.model",
-      "bytes": 5069051,
-      "sha256": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865"
+      "bytes": 5069051
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/special_tokens_map.json",
-      "bytes": 964,
-      "sha256": "8c785abebea9ae3257b61681b4e6fd8365ceafde980c21970d001e834cf10835"
+      "bytes": 964
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/tokenizer.json",
-      "bytes": 17082832,
-      "sha256": "8373f9cd3d27591e1924426bcc1c8799bc5a9affc4fc857982c5d66668dd1f41"
+      "bytes": 17082832
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/tokenizer_config.json",
-      "bytes": 1212,
-      "sha256": "0fc42f057e0907b8a1911f8185a60407208d20497600bc1e319a8651203efb0c"
+      "bytes": 1212
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model/training_args.bin",
-      "bytes": 6161,
-      "sha256": "a539dd4b7f268794d8f20204e99db33ac11bc2613a23c526514cf0aba3ddf3e9"
+      "bytes": 6161
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/assets-used.json",
-      "bytes": 1126,
-      "sha256": "fa1538eca534ca22b11d4a8e4c886c5813c641184639d97415fa8d642cf5759e"
+      "bytes": 1126
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/code.diff",
-      "bytes": 4022,
-      "sha256": "436e0b4c2f328faddeef0ea452fcbf0cba9a79bd578c4c252bea3fe27d5b0a3d"
+      "bytes": 4022
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/encoder-modeling.py",
-      "bytes": 12168,
-      "sha256": "2e6f88d403cf72b196f32066fde67e5b791abb26de1c05bb1fa95ee5c105d7f8"
+      "bytes": 12168
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/encoder-trainer.py",
-      "bytes": 2004,
-      "sha256": "b31fcd8d997426c7d7a66d4d7c64d2df840702ae4d705e3af7c462c3230302c2"
+      "bytes": 2004
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/environment.lock",
-      "bytes": 74188,
-      "sha256": "56644a8474f3fa1b383e1fa1a592c65e17da761c942c6a0a072ba0b1e0b429d5"
+      "bytes": 74188
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/final-trainer-state.json",
-      "bytes": 1045558,
-      "sha256": "a97aa3bc4f320c5c8afafcdfff13eb0bed2ea14d4a639701cc5ffd0863c5fcce"
+      "bytes": 1045558
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/git-commit.txt",
-      "bytes": 41,
-      "sha256": "34bf09c49779e7743434fd3646fd6cab659baf01b1707b2ee6cf51f2f16d47cf"
+      "bytes": 41
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/gpu-check.txt",
-      "bytes": 200,
-      "sha256": "697f7944222c122dbf6d48515d8b10d3604e3c079cd9b69636e11a2ac6175b2a"
+      "bytes": 200
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/train.sbatch",
-      "bytes": 4358,
-      "sha256": "81b04a3f68ef89c29af27aa65cdd14b97fa10cb2c754f7048995143b5136fbd9"
+      "bytes": 4358
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/training-assets.json",
-      "bytes": 1126,
-      "sha256": "fa1538eca534ca22b11d4a8e4c886c5813c641184639d97415fa8d642cf5759e"
+      "bytes": 1126
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/training-complete.json",
-      "bytes": 220,
-      "sha256": "93249a425113a1685d8af1fcc29ed63e5c53b0df5218061b33dda3e078a50731"
+      "bytes": 220
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/provenance/training.log",
-      "bytes": 1829214,
-      "sha256": "bc24e5a14bff2d4033d2b95bc46bd3ead3701bb60f894508987905424a56feb7"
+      "bytes": 1829214
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/retrieval.json",
-      "bytes": 325,
-      "sha256": "af212fceea5e720c677dd6b5a373fba3b7ddf68ba50bbe5daa01cc045e317dc1"
+      "bytes": 325
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/assets.json",
-      "bytes": 1565,
-      "sha256": "1e28721013c19012a6813a484f45131c063b055eff9b560ae8046d11524869fb"
+      "bytes": 1565
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-agent-server.log",
-      "bytes": 5558089,
-      "sha256": "2e51a57b147403e59c9f1b9eba051f4669e3552976acff6ddc014c5a05a31fcf"
+      "bytes": 5558089
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-agent-timing.json",
-      "bytes": 172,
-      "sha256": "fa986deb777b88d4333add86771cbcaf227aa106642d683a9eb5065f87406a47"
+      "bytes": 172
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-job.json",
-      "bytes": 574,
-      "sha256": "cd599fbe76692697ccf0ec7b3176959917e5f1456922470917da09efa7601e3d"
+      "bytes": 574
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-judge-server.log",
-      "bytes": 150729,
-      "sha256": "19bb1b5a70349813d2afa51dd4dc92375ffc7163e33792e52ccedb05f49541b5"
+      "bytes": 150729
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-judge-timing.json",
-      "bytes": 174,
-      "sha256": "9db6505e2f4e54e67a50e16ea7fd421dd9ead107030e0f98f5e53436be541f0d"
+      "bytes": 174
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-results.json",
-      "bytes": 140559,
-      "sha256": "0835d44ecc2aeef032882e289725b6ddd4ef1e0a0b5beb5c7992b5d8b4cc8332"
+      "bytes": 140559
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-server-timing.json",
-      "bytes": 62,
-      "sha256": "de9d96313983b30bfc6ffb7a61f492360b0e829f375c132f68677ca0bdeba23a"
+      "bytes": 62
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/index-manifest.json",
-      "bytes": 729,
-      "sha256": "52b7063bb972e2f72371c1e4b5d84e0414200506245390b7143bb67bc7edb371"
+      "bytes": 729
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/judgments.tar.gz",
-      "bytes": 501599,
-      "sha256": "7b301b40d78dd82cc362bc9382a9c1c7c99aa300f7f3ad93e287377e92d9547a"
+      "bytes": 501599
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/packages.txt",
-      "bytes": 2879,
-      "sha256": "dd8019207136e15b24da945142e39ce0d6510e13595f87f138038cdc2bc47395"
+      "bytes": 2879
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-agent-server.log",
-      "bytes": 153790,
-      "sha256": "74bdbda794b99852276aa75ca79351534ee674ab82d78bde4404771f93d89166"
+      "bytes": 153790
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-agent-timing.json",
-      "bytes": 173,
-      "sha256": "a318481730bd70d51a7e24b8646bff6aca1aa6c4cb93db19545fffcd2288006a"
+      "bytes": 173
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-judge-server.log",
-      "bytes": 35350,
-      "sha256": "4c00e0418799d48185175069f62150904b721eeabce7c5e65415a35af41171bb"
+      "bytes": 35350
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-judge-timing.json",
-      "bytes": 175,
-      "sha256": "591b47c4275a81d2e6df2378ae14402d4829b0c31a770416fa8ae101952f65af"
+      "bytes": 175
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-results.json",
-      "bytes": 3750,
-      "sha256": "9e9f2a94126485215d14f4c0e79f994d360a82658eb48a95fffb808c2436785b"
+      "bytes": 3750
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-selection.json",
-      "bytes": 215,
-      "sha256": "2ecb90081881c75ad1154c6627e55cf3af1ba9c05f314027adc4210f5cd92eea"
+      "bytes": 215
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/pilot-server-timing.json",
-      "bytes": 64,
-      "sha256": "9cb2495f8305308042ab471c517e79e7e7aed2e11c2692f901d264727cdbe0c9"
+      "bytes": 64
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/runtime-estimate.json",
-      "bytes": 502,
-      "sha256": "7200f634fbcabff370afd923cb33fe84679c4f1b69420bf03318e60739662be3"
+      "bytes": 502
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/source.tar.gz",
-      "bytes": 122676,
-      "sha256": "76ffc12707640c6d7dcd1925d9b350f7dfa2a43ef98454fa6bff0d4ca31a6319"
+      "bytes": 122676
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/submitted-jobs.json",
-      "bytes": 228,
-      "sha256": "7a41e8ba2c54250a88ac9097a2c18153b46fcb0ba4425236cc2ecacc591e04f8"
+      "bytes": 228
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/trajectories.tar.gz",
-      "bytes": 25083200,
-      "sha256": "ddb02d1379cb8fce3f3e6781d67f30511d5838fc8800dbf274d3abd1a5ce6cc5"
+      "bytes": 25083200
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/added_tokens.json",
-      "bytes": 707,
-      "sha256": "c0284b582e14987fbd3d5a2cb2bd139084371ed9acbae488829a1c900833c680"
+      "bytes": 707
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/chat_template.jinja",
-      "bytes": 4116,
-      "sha256": "87a2728cb8dc9fe424d624542f6060ec05a1d285ebbec578bb078900e33396b5"
+      "bytes": 4116
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/config.json",
-      "bytes": 1360,
-      "sha256": "ecefe93a98e5401a5a6f61b919149a64c2501a95361dc2467e24a0d683a70561"
+      "bytes": 1360
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/merges.txt",
-      "bytes": 1671853,
-      "sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5"
+      "bytes": 1671853
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/model.safetensors",
-      "bytes": 2383139480,
-      "sha256": "18e2ec37afcd6789e0f862d7d6f2855e127930fb4715d73a7bbffc8c8e76295b"
+      "bytes": 2383139480
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/special_tokens_map.json",
-      "bytes": 613,
-      "sha256": "76862e765266b85aa9459767e33cbaf13970f327a0e88d1c65846c2ddd3a1ecd"
+      "bytes": 613
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/tokenizer.json",
-      "bytes": 11423803,
-      "sha256": "4689bbafe5096d0a16cf2849ede8c67a98d4925bde8eba491f4a6839b1954fc6"
+      "bytes": 11423803
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/tokenizer_config.json",
-      "bytes": 5429,
-      "sha256": "6e44bb6d33505ec2e3b4daef8687cdbfa623fb64a9254e018b72cd73e199a221"
+      "bytes": 5429
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/training_args.bin",
-      "bytes": 6161,
-      "sha256": "ae2aeb649841de3644aabafaf98bf64acc39e1653d47e1efdfd48e4ed552aeb3"
+      "bytes": 6161
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model/vocab.json",
-      "bytes": 2776833,
-      "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+      "bytes": 2776833
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/code.diff",
-      "bytes": 1480,
-      "sha256": "1c0a44a24207bdd61190f17c181b80055ad4edce865a4aa7b7a2e477688c6c0d"
+      "bytes": 1480
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/environment.lock",
-      "bytes": 74188,
-      "sha256": "56644a8474f3fa1b383e1fa1a592c65e17da761c942c6a0a072ba0b1e0b429d5"
+      "bytes": 74188
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/final-trainer-state.json",
-      "bytes": 16849202,
-      "sha256": "752ac97b76c03de99c87c7a02428416e2287c34d8615e7ab8762067955c2c219"
+      "bytes": 16849202
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/full-assets.json",
-      "bytes": 836,
-      "sha256": "f52c73c694db01d06f2e033c7c1259afbfd12369f293ed8ad8d295bb8fc3320f"
+      "bytes": 836
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/git-commit.txt",
-      "bytes": 41,
-      "sha256": "34bf09c49779e7743434fd3646fd6cab659baf01b1707b2ee6cf51f2f16d47cf"
+      "bytes": 41
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/gpu-check.txt",
-      "bytes": 200,
-      "sha256": "697f7944222c122dbf6d48515d8b10d3604e3c079cd9b69636e11a2ac6175b2a"
+      "bytes": 200
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/resumed-from.txt",
-      "bytes": 78,
-      "sha256": "2bc70ec9dc3e305acd0b34cd53028373d8c26384de68eebba4ca7e4de7fc2fd0"
+      "bytes": 78
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/provenance/training.log",
-      "bytes": 15031643,
-      "sha256": "f933974b706a18321c7a91670426d1c7b9c58739c68102a4db26572169037f17"
+      "bytes": 15031643
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/retrieval.json",
-      "bytes": 310,
-      "sha256": "3ffab3826fbfe2c6451e2183be8b00ed63b6a2c50c083b1fb7b0c0beede2c0ee"
+      "bytes": 310
     },
     {
       "path": "artifacts/tongyi-browsecomp-plus/summary.json",
-      "bytes": 1702,
-      "sha256": "a4f60529fc099014948b0dd7c7e0e4a40eb10f87a278ce2ebf4df02ea8045bec"
-    },
-    {
-      "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/SHA256SUMS",
-      "bytes": 759,
-      "sha256": "f411e1ab0f3c8652bf9d0e4c267b031bac4eb11e80999cce184d224082a7ac02"
+      "bytes": 1702
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/assets.json",
-      "bytes": 1931,
-      "sha256": "aab7f91f991ace6f8da5c5f7ce4849753f4a2b0c6b208edec1176cd8523cdecf"
+      "bytes": 1931
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/full-agent-server.log",
-      "bytes": 1578727,
-      "sha256": "fec1de825b97c66dca633cd53ed6c27c7916814c34b54a7b4dea77138475a6d2"
+      "bytes": 1578727
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/full-agent-timing.json",
-      "bytes": 171,
-      "sha256": "2df7934220b0931f99b970df17633bb086e11dc4fc2fdc2dd5a0a04723624647"
+      "bytes": 171
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/full-job.json",
-      "bytes": 113,
-      "sha256": "0260de1c743c4294eee395ebfd7077d1ee42e9f78a3c97069c34d0faaac5290d"
+      "bytes": 113
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/full-judge-server.log",
-      "bytes": 129578,
-      "sha256": "f0d973dffa18636c83405e5e3a4260f1a0b9351d42b3f1bc666d4029a7e862b2"
+      "bytes": 129578
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/full-judge-timing.json",
-      "bytes": 174,
-      "sha256": "27db79c52ca05d61ed90b7933e58b79fd863c395fc600ba7ed11af1411fe1c59"
+      "bytes": 174
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/full-results.json",
-      "bytes": 36322,
-      "sha256": "fa21e54c16fae7723bb9ec5aff670df40d48a9c58fc08aa4e4c33757726cd89c"
+      "bytes": 36322
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/full-server-timing.json",
-      "bytes": 64,
-      "sha256": "456c5d3146d1971d92b65338f081d4289a7a7602b197c4aafa567ea197a11785"
+      "bytes": 64
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/index-manifest.json",
-      "bytes": 894,
-      "sha256": "f4bceefec6533a45b17d087675100b47a09c5dee60fa389023195a03689e2994"
+      "bytes": 894
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/judgments.tar.gz",
-      "bytes": 297935,
-      "sha256": "7f5eac53ba9b4b0d21d34805d82d3c07900774209859cc5f79e8c3c407908a16"
+      "bytes": 297935
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/source.tar.gz",
-      "bytes": 61469,
-      "sha256": "6c6787882d53b674ab5c8a67d031bb33ffec032f00fe9cd959e99517723725b4"
+      "bytes": 61469
     },
     {
       "path": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/trajectories.tar.gz",
-      "bytes": 5391912,
-      "sha256": "3b15c3f280908e9cfa0fc0b1dc11e3c9d4937196dd586b5fb04e1732103309c5"
+      "bytes": 5391912
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/README.md",
-      "bytes": 578,
-      "sha256": "ed123a13a31b84044226fa8172647397ca9664fab42a8f6e0fef431449620ad1"
-    },
-    {
-      "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/SHA256SUMS",
-      "bytes": 908,
-      "sha256": "43d6e594756034ae15e4104abfef4c11795f789209d1019687f842439f87f68b"
+      "bytes": 578
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/archive-manifest.json",
-      "bytes": 1215,
-      "sha256": "29d8d4674cd06f58646037fab94ddbe287b7f5da08b8285d2d34b784628fd51a"
+      "bytes": 1215
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/assets.json",
-      "bytes": 1925,
-      "sha256": "d0bf26bd3af095a6c2e9546d5da1c53167ba1cf1148ec33c8c98eed4d2d0b43e"
+      "bytes": 1925
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/configuration.json",
-      "bytes": 564,
-      "sha256": "10bf271ecdaaa701b3933b13f3ac6a92a6334b953437c5cfcc2fa2110a1a7671"
+      "bytes": 564
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/full-job.json",
-      "bytes": 113,
-      "sha256": "87cecdce978a152ffe196544d03616d757a68fe34243d4f19c8ad308df8c7f1e"
+      "bytes": 113
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/full-results.json",
-      "bytes": 36241,
-      "sha256": "57802085e3f540127ad5aa636faefca9753e28fb6391033d28517c1bb7b91867"
+      "bytes": 36241
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/index-manifest.json",
-      "bytes": 888,
-      "sha256": "51a91faceb87892c2283fe5ae415486e77289f38e64689d27456d83bb58fe69a"
+      "bytes": 888
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/judgments.tar.gz",
-      "bytes": 332303,
-      "sha256": "3c362a984b313e387a02d0e4eac274ecb9a9e70105cdf578ee151e40ea16c0c7"
+      "bytes": 332303
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/slurm.out",
-      "bytes": 154721,
-      "sha256": "6cf939a67736b75f0f75e763dbbdaa822a71d63c8224708019a3bff61be84e9e"
+      "bytes": 154721
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/submitted-jobs.json",
-      "bytes": 785,
-      "sha256": "fb3f7bae5c540a33aa4c70183a68199c7c789836668438c6c6dc1c66e3205f59"
+      "bytes": 785
     },
     {
       "path": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/trajectories.tar.gz",
-      "bytes": 5388635,
-      "sha256": "5e6fa2a9febd79ad46bbe47e996c120f328170480ef7f2cb37f5c28eca5a7e33"
+      "bytes": 5388635
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/config.json",
-      "bytes": 663,
-      "sha256": "67c26af105024531bbd7b3d518bd45643cd60f9ada6fa002ea4ce31e34fb2811"
+      "bytes": 663
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/model.safetensors",
-      "bytes": 2239607176,
-      "sha256": "e4218c97268512c8f319ac186eec9319ac60dd4c5b606c0febefb373807fc0b1"
+      "bytes": 2239607176
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/optimizer.pt",
-      "bytes": 4471061702,
-      "sha256": "0eefa6e4ddc198753b91e0a16f2b484054467df2c16dce0d95d8d9316a26cdb8"
+      "bytes": 4471061702
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/rng_state.pth",
-      "bytes": 14645,
-      "sha256": "c6eb918126acd55fc06d64626d8a0d73b86c1fdd95fd530aa6916e8cf770371e"
+      "bytes": 14645
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/scheduler.pt",
-      "bytes": 1465,
-      "sha256": "da5b1dd54db33e1210458571e52065f56c8d54ac575ad41d989d8b230868899a"
+      "bytes": 1465
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/sentencepiece.bpe.model",
-      "bytes": 5069051,
-      "sha256": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865"
+      "bytes": 5069051
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/special_tokens_map.json",
-      "bytes": 964,
-      "sha256": "8c785abebea9ae3257b61681b4e6fd8365ceafde980c21970d001e834cf10835"
+      "bytes": 964
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/tokenizer.json",
-      "bytes": 17082832,
-      "sha256": "8373f9cd3d27591e1924426bcc1c8799bc5a9affc4fc857982c5d66668dd1f41"
+      "bytes": 17082832
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/tokenizer_config.json",
-      "bytes": 1212,
-      "sha256": "0fc42f057e0907b8a1911f8185a60407208d20497600bc1e319a8651203efb0c"
+      "bytes": 1212
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/trainer_state.json",
-      "bytes": 1045558,
-      "sha256": "a97aa3bc4f320c5c8afafcdfff13eb0bed2ea14d4a639701cc5ffd0863c5fcce"
+      "bytes": 1045558
     },
     {
       "path": "artifacts/training-checkpoints/multilingual-e5-large-instruct-lrat/checkpoint-6030/training_args.bin",
-      "bytes": 6161,
-      "sha256": "a539dd4b7f268794d8f20204e99db33ac11bc2613a23c526514cf0aba3ddf3e9"
+      "bytes": 6161
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/added_tokens.json",
-      "bytes": 707,
-      "sha256": "c0284b582e14987fbd3d5a2cb2bd139084371ed9acbae488829a1c900833c680"
+      "bytes": 707
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/chat_template.jinja",
-      "bytes": 4116,
-      "sha256": "87a2728cb8dc9fe424d624542f6060ec05a1d285ebbec578bb078900e33396b5"
+      "bytes": 4116
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/config.json",
-      "bytes": 1360,
-      "sha256": "ecefe93a98e5401a5a6f61b919149a64c2501a95361dc2467e24a0d683a70561"
+      "bytes": 1360
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/merges.txt",
-      "bytes": 1671853,
-      "sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5"
+      "bytes": 1671853
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/model.safetensors",
-      "bytes": 2383139480,
-      "sha256": "18e2ec37afcd6789e0f862d7d6f2855e127930fb4715d73a7bbffc8c8e76295b"
+      "bytes": 2383139480
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/optimizer.pt",
-      "bytes": 4766477779,
-      "sha256": "e40c081bcb5bfbb6519f903302c3e5a2257c37450c6adb16df67130c8f9b0da8"
+      "bytes": 4766477779
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/rng_state.pth",
-      "bytes": 14645,
-      "sha256": "338c8fab975f8d8722414ffc91e45750f0f0a61e1051a0e480a8ab803749e5af"
+      "bytes": 14645
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/scheduler.pt",
-      "bytes": 1465,
-      "sha256": "7428a50ad66950c6b5454dcf32ac83770b34057d0bfc441487eb372e2feb6ebe"
+      "bytes": 1465
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/special_tokens_map.json",
-      "bytes": 613,
-      "sha256": "76862e765266b85aa9459767e33cbaf13970f327a0e88d1c65846c2ddd3a1ecd"
+      "bytes": 613
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/tokenizer.json",
-      "bytes": 11423803,
-      "sha256": "4689bbafe5096d0a16cf2849ede8c67a98d4925bde8eba491f4a6839b1954fc6"
+      "bytes": 11423803
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/tokenizer_config.json",
-      "bytes": 5429,
-      "sha256": "6e44bb6d33505ec2e3b4daef8687cdbfa623fb64a9254e018b72cd73e199a221"
+      "bytes": 5429
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/trainer_state.json",
-      "bytes": 16849202,
-      "sha256": "752ac97b76c03de99c87c7a02428416e2287c34d8615e7ab8762067955c2c219"
+      "bytes": 16849202
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/training_args.bin",
-      "bytes": 6161,
-      "sha256": "ae2aeb649841de3644aabafaf98bf64acc39e1653d47e1efdfd48e4ed552aeb3"
+      "bytes": 6161
     },
     {
       "path": "artifacts/training-checkpoints/qwen3-embedding-0.6b-lrat/checkpoint-96502/vocab.json",
-      "bytes": 2776833,
-      "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+      "bytes": 2776833
     },
     {
       "path": "job-status.txt",
-      "bytes": 1365,
-      "sha256": "9f700109c777100e4a6f2707926cdc2ed8a53e7543075412d77922db15e81662"
+      "bytes": 1365
     },
     {
       "path": "results-summary.json",
-      "bytes": 2049,
-      "sha256": "9f68426700757a9556d0f886a0c58a3ade50ef94fe4df2c3694b920348786b3a"
+      "bytes": 2049
     },
     {
       "path": "source/scripts/snellius/archive_results.py",
-      "bytes": 10053,
-      "sha256": "cf08d2a2dfc6436bd1846cd45b87c7898153157c31e9191dad81fe2ce3f70b98"
+      "bytes": 10053
     },
     {
       "path": "source/scripts/snellius/archive_results.sbatch",
-      "bytes": 517,
-      "sha256": "e327a4eb1a7d19fc976e0692381d9dcd50376ef4ad6a580e862bbbf0dfcba9f9"
+      "bytes": 517
     },
     {
       "path": "source/scripts/snellius/audit_browsed.py",
-      "bytes": 10300,
-      "sha256": "26d5647a3114eeacd6bd7e1cd12598e93ccdaa0338c316fb51e007eabd3d1c57"
+      "bytes": 10300
     },
     {
       "path": "source/scripts/snellius/audit_browsed.sbatch",
-      "bytes": 388,
-      "sha256": "5807a3f8def3e9f4764e68fa407b0f1a8acec4b7b8911d627b7e5f01ab41d77d"
+      "bytes": 388
     },
     {
       "path": "source/scripts/snellius/check_e5.py",
-      "bytes": 6211,
-      "sha256": "14f74e2fbdebb902a831157161e5292288248a05bac43b7b7a463046698a1991"
+      "bytes": 6211
     },
     {
       "path": "source/scripts/snellius/check_gpu.py",
-      "bytes": 637,
-      "sha256": "f0d94f50e57895cd3c0b3bf44738593deabb368cccc6f191bac3c0f3ed45eabe"
+      "bytes": 637
     },
     {
       "path": "source/scripts/snellius/check_resume.py",
-      "bytes": 2218,
-      "sha256": "837aa776fd86060b7b19a2f910199e9ccc09295ed95bebaff348359376dedfbb"
+      "bytes": 2218
     },
     {
       "path": "source/scripts/snellius/check_resume.sbatch",
-      "bytes": 405,
-      "sha256": "78c3c8442b12be106030adc618c932175ef2f784e36435d39fe5aaaf464b5525"
+      "bytes": 405
     },
     {
       "path": "source/scripts/snellius/e5_prepare.py",
-      "bytes": 1871,
-      "sha256": "588e8822303f676d71a3e0faeae39396c8055a2a7239ba986bc1c5cca282db4f"
+      "bytes": 1871
     },
     {
       "path": "source/scripts/snellius/e5_setup.sbatch",
-      "bytes": 506,
-      "sha256": "2335a52f8bfc67c9f769d97bd09531ee2091d2b71a06d256569d080b81589477"
+      "bytes": 506
     },
     {
       "path": "source/scripts/snellius/e5_train.sbatch",
-      "bytes": 4358,
-      "sha256": "81b04a3f68ef89c29af27aa65cdd14b97fa10cb2c754f7048995143b5136fbd9"
+      "bytes": 4358
     },
     {
       "path": "source/scripts/snellius/env.sh",
-      "bytes": 1636,
-      "sha256": "5fd1edfface8c03f3714690c432cb8d71e33ec3f7d19b25a26339b1682fcad3c"
+      "bytes": 1636
     },
     {
       "path": "source/scripts/snellius/eval_agent.py",
-      "bytes": 19190,
-      "sha256": "2cec7522d6765e0dbd14ccba09a8acbf965f12293e86799322dfd56cdd02b5d0"
+      "bytes": 19190
     },
     {
       "path": "source/scripts/snellius/eval_check.py",
-      "bytes": 4127,
-      "sha256": "116634d98f264636e5d17c4e2371fb8c15841675206a87071b89c2e93f2685b3"
+      "bytes": 4127
     },
     {
       "path": "source/scripts/snellius/eval_embedding.py",
-      "bytes": 1322,
-      "sha256": "eb0a0b0fd364f4baba2d5e94d936be39ee18fdada46b57908c725e8b18e5fd6d"
+      "bytes": 1322
     },
     {
       "path": "source/scripts/snellius/eval_env.sh",
-      "bytes": 855,
-      "sha256": "3900b6da73fb8ebbe0593652c3a5d2ef7d46b2385a71009c4f84e9321e5d1502"
+      "bytes": 855
     },
     {
       "path": "source/scripts/snellius/eval_index.py",
-      "bytes": 3330,
-      "sha256": "593fe295dcfbcf97e6381fdd93f94b6dbc59e1b0757db6a8fbcf4a6a0f32c69e"
+      "bytes": 3330
     },
     {
       "path": "source/scripts/snellius/eval_index.sbatch",
-      "bytes": 472,
-      "sha256": "2f21155b0dd92f2486f01ba88b78df1efba21b0733bc8145bb872e33a532de46"
+      "bytes": 472
     },
     {
       "path": "source/scripts/snellius/eval_prepare.py",
-      "bytes": 4409,
-      "sha256": "4d013b24f89a33f562cd267ed0ce5b16909747f784693b51e6a941acaa3d51be"
+      "bytes": 4409
     },
     {
       "path": "source/scripts/snellius/eval_prepare.sbatch",
-      "bytes": 897,
-      "sha256": "3a9a210d6cc65668b18a5d5e0b3725d04aaf299c5f1233963cae2d5a101cdc4e"
+      "bytes": 897
     },
     {
       "path": "source/scripts/snellius/eval_run.py",
-      "bytes": 7432,
-      "sha256": "f7894c0a18b42fe653eeb65768f59a64fbd05b10a33f73830cfc7a69e835d9db"
+      "bytes": 7432
     },
     {
       "path": "source/scripts/snellius/eval_run.sbatch",
-      "bytes": 701,
-      "sha256": "4101f926d29927cb6cb36ea55cb66b6b85c05766d3afe41e2c899f336a2acc2f"
+      "bytes": 701
     },
     {
       "path": "source/scripts/snellius/export_ir2.py",
-      "bytes": 6363,
-      "sha256": "1203409940c9d52c4c2719733298127c6e49a24793b40692741fbe331449b04e"
+      "bytes": 6363
     },
     {
       "path": "source/scripts/snellius/export_ir2.sbatch",
-      "bytes": 425,
-      "sha256": "9c03bcde40de972b444157c44aa477cd1173415364170c660d38ec9d082366f0"
+      "bytes": 425
     },
     {
       "path": "source/scripts/snellius/infoseek_check.py",
-      "bytes": 3348,
-      "sha256": "b8c8e52ca360e09f6760e591a9f4710866fda961318761ddea2c592e601de5ae"
+      "bytes": 3348
     },
     {
       "path": "source/scripts/snellius/infoseek_eval.sbatch",
-      "bytes": 1105,
-      "sha256": "73559e1bb9a5936875eb7b831c0e63846a047733e36babdc06e36f15588e93d1"
+      "bytes": 1105
     },
     {
       "path": "source/scripts/snellius/infoseek_index.py",
-      "bytes": 7135,
-      "sha256": "c6490482569175629a4cab0405b9362627cc45c721bdbd1059205a2fc77ed23d"
+      "bytes": 7135
     },
     {
       "path": "source/scripts/snellius/infoseek_prepare.py",
-      "bytes": 7396,
-      "sha256": "283bb91f46d2bcd2fc167726fa95d29413747609f57632736d3fa5cca425e30d"
+      "bytes": 7396
     },
     {
       "path": "source/scripts/snellius/infoseek_prepare.sbatch",
-      "bytes": 529,
-      "sha256": "810ed06ee15ba659712d57bcbbd063938d84b825cf0a42435168bade83f09e99"
+      "bytes": 529
     },
     {
       "path": "source/scripts/snellius/matrix_check.py",
-      "bytes": 2073,
-      "sha256": "a0281a52bc1d7cbd1797a4853a3936dfa3f4fe2730d3fbac7d96e09b6ba75aaa"
+      "bytes": 2073
     },
     {
       "path": "source/scripts/snellius/matrix_eval.sbatch",
-      "bytes": 655,
-      "sha256": "4446ae7b6253fad8b430bbd1706c6c955bfa966134f5ee80e6e752ccbbcb0fac"
+      "bytes": 655
     },
     {
       "path": "source/scripts/snellius/matrix_prepare.py",
-      "bytes": 4608,
-      "sha256": "11de8713bc06234f8e06ec535a8252202110109659f898b8be345b6c08ff9218"
+      "bytes": 4608
     },
     {
       "path": "source/scripts/snellius/matrix_prepare.sbatch",
-      "bytes": 438,
-      "sha256": "86bb0bdfc6f3125c757eb1489d227ccb5828c06fa16018ecf51d3865821f0a38"
+      "bytes": 438
     },
     {
       "path": "source/scripts/snellius/matrix_stage.py",
-      "bytes": 1241,
-      "sha256": "79f01d2e6eeb8175327869e36f9ea380c453398ba8b1d60956f9e5ffac7d2d35"
+      "bytes": 1241
     },
     {
       "path": "source/scripts/snellius/prepare.py",
-      "bytes": 5548,
-      "sha256": "44debba24971f1c4415aac801544389d66b2713d9456e2ff10fb32f290d92350"
+      "bytes": 5548
     },
     {
       "path": "source/scripts/snellius/preserve_evaluation.py",
-      "bytes": 2446,
-      "sha256": "c0d875bda8927dd3ac331ef51e350f35367a806e99a286625b609b6faa19ef1b"
+      "bytes": 2446
     },
     {
       "path": "source/scripts/snellius/setup.sbatch",
-      "bytes": 1131,
-      "sha256": "1bc0a6bc76ecd7c30776192fb49d1fcec4a79bd6b368d59d676589a0ee4a0852"
+      "bytes": 1131
     },
     {
       "path": "source/scripts/snellius/submit.sh",
-      "bytes": 916,
-      "sha256": "2daa625b45ea399b404d76afba9bb5eae85596605bbd915ea8db7c05390135a0"
+      "bytes": 916
     },
     {
       "path": "source/scripts/snellius/submit_e5.py",
-      "bytes": 3132,
-      "sha256": "7826552d3336e9afda8eef7359d9125f177d502bf7e9e3ddc845b4d84ac5a87b"
+      "bytes": 3132
     },
     {
       "path": "source/scripts/snellius/submit_infoseek.py",
-      "bytes": 3212,
-      "sha256": "a73b0d22af78a3b96fb3d3894601a265e8a5b400f5e5625052eb9d73d609fe57"
+      "bytes": 3212
     },
     {
       "path": "source/scripts/snellius/submit_matrix.py",
-      "bytes": 7293,
-      "sha256": "c067fb7e25ebf32d0526182d35a184fea204d960fb751e2db0e1465083f82ed6"
+      "bytes": 7293
     },
     {
       "path": "source/scripts/snellius/train.sbatch",
-      "bytes": 5033,
-      "sha256": "2e503ae8534bad3ca77a02e45214fe49b1963d9e2655b4dd022f44ced7a7414d"
+      "bytes": 5033
     },
     {
       "path": "source-changes.patch",
-      "bytes": 4198,
-      "sha256": "2b834580227319d49cc3bcec2772d36f08f6c96ac800aefa8725d910049061dc"
+      "bytes": 4198
     }
   ],
   "source_cleanup": {
     "updated_utc": "2026-11-19T17:51:39.976178+00:00",
     "removed_files": 573,
-    "retained_source": "source/scripts/snellius: Slurm jobs and Python/shell helpers",
-    "verification": "Unchanged artifact checksums retained from the verified export; README checksum recomputed."
+    "retained_source": "source/scripts/snellius: Slurm jobs and Python/shell helpers"
   }
 }

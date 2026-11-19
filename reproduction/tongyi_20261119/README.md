@@ -20,12 +20,18 @@ All four completed evaluations use the fixed Tongyi-DeepResearch-30B-A3B agent. 
 - `artifacts/browse-audit/`: document-label audit, including review CSV, examples and compressed browsing events.
 - `artifacts/failed-agent-matrix/`: configuration, frozen source and startup logs for all eight failed WebExplorer/AgentCPM trials. They produced no benchmark scores; their judge jobs were cancelled. `job-status.txt` records Slurm states.
 - `results-summary.json`: portable relative paths to the four score reports and trained model directories.
-- `manifest.json` and `SHA256SUMS`: source provenance and checksums for the package.
+- `manifest.json`: source provenance and file inventory for the package.
 
 ## Git and artifact storage
 
-This folder belongs to local branch `Reproduction_results`. Scripts, reports, compressed evaluation audits and manifests are committed. Multi-gigabyte `*.safetensors` and `optimizer.pt` files, plus RNG/training-argument binary files, are physically copied here but excluded from Git by this folder's `.gitignore`. A Git clone alone therefore does not contain the full model/checkpoint artifacts. Transfer this directory with `rsync -a` to preserve all files, then verify with `sha256sum -c SHA256SUMS` through a Slurm staging job on Snellius. No Git remote push is performed by the export.
+This folder belongs to local branch `Reproduction_results`. Scripts, reports, compressed evaluation audits and manifests are committed. Multi-gigabyte `*.safetensors` and `optimizer.pt` files, plus RNG/training-argument binary files, are physically copied here but excluded from Git by this folder's `.gitignore`. A Git clone alone therefore does not contain the full model/checkpoint artifacts. Transfer this directory with `rsync -a` to preserve all files; use a Slurm staging job for large transfers on Snellius. No Git remote push is performed by the export.
 
 Canonical datasets remain in permanent storage at `/home/scur0901/datasets/lrat`; indexes, caches, installed environments and downloaded agent/judge weights are excluded. Historical absolute paths inside original reports remain unchanged. Prefer `results-summary.json` for the copied models and reports.
 
-These scripts are retained as an experiment record, not a standalone checkout. Before rerunning, install them under `scripts/snellius/` in a working LRAT checkout, restore the required environment configuration, review `source-changes.patch`, and set `LRAT_REPO_ROOT` to that checkout. Configure account/storage paths through an ignored `scripts/snellius/local.sh`. Training environment locks also remain in each retriever's `provenance/` directory. Run training, inference, indexing and GPU checks through Slurm. The scripts retain the unresolved GPU startup problem in the eight additional trials. Original executed-source archives inside `artifacts/` remain as run provenance.
+## Future experiments
+
+**The current archived Snellius scripts are very redundant.** They accumulated across individual training, evaluation, debugging and archiving runs. The scripts under `source/` are kept **only for archival reference**, including the unresolved GPU startup problem in the eight additional trials.
+
+For further experiments, **write and run the scripts directly in the main LRAT_IR2 repository**. Use its existing code and create focused scripts for the new experiment instead of extending or running this archived source directory. Submit training, inference, indexing and GPU validation through Slurm, following Snellius storage conventions.
+
+The archived scripts, `source-changes.patch`, training environment locks in `provenance/`, and executed-source archives inside `artifacts/` document the historical runs.
