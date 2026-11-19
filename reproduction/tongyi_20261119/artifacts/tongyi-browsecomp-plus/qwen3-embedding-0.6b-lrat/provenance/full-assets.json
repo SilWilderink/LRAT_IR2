@@ -1,0 +1,14 @@
+{
+  "dataset_id": "Yuqi-Zhou/LRAT-Train",
+  "dataset_revision": "26df12d39ec3eb65a30a61d86664931bb0fa4359",
+  "dataset_filename": "LRAT-training-pairs.jsonl",
+  "prepared_file": "/scratch-shared/scur0901/lrat/data/train.jsonl",
+  "source_file": "/home/scur0901/datasets/lrat/Yuqi-Zhou--LRAT-Train/26df12d39ec3eb65a30a61d86664931bb0fa4359/LRAT-training-pairs.jsonl",
+  "source_sha256": "dd75a3f1970438f0905a3e3e93e3d98dc1122cdb0e054ba87159a9368afbe1b9",
+  "rows": 96503,
+  "skipped_rows": 1,
+  "sha256": "351daeb765b447f37db720a0b41aa47a9322e45914909ce9f46d0b287552ee58",
+  "model_id": "Qwen/Qwen3-Embedding-0.6B",
+  "model_revision": "97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3",
+  "model_path": "/scratch-shared/scur0901/lrat/cache/huggingface/hub/models--Qwen--Qwen3-Embedding-0.6B/snapshots/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3"
+}

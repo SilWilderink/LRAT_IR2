@@ -1,0 +1,19 @@
+{
+  "job_id": "28913295",
+  "estimate": {
+    "remaining_questions": 814,
+    "pilot_questions": 16,
+    "agent_projected_hours": 25.98205663077519,
+    "judge_projected_hours": 3.248825777267058,
+    "server_startup_hours": 0.16546415122222244,
+    "point_estimate_hours": 29.396346559264472,
+    "planning_range_hours": [
+      22.047259919448354,
+      47.03415449482316
+    ],
+    "slurm_walltime_hours": 48,
+    "gpus": 4,
+    "queue_wait_included": false,
+    "note": "16-query throughput extrapolation; planning range is not a statistical confidence interval."
+  }
+}

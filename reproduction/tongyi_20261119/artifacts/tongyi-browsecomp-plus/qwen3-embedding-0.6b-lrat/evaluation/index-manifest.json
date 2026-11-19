@@ -1,0 +1,22 @@
+{
+  "model_path": "/scratch-shared/scur0901/lrat/runs/full-28880868/model",
+  "model_config_sha256": "ecefe93a98e5401a5a6f61b919149a64c2501a95361dc2467e24a0d683a70561",
+  "corpus_revision": [
+    "Tevatron/browsecomp-plus-corpus",
+    "b27b02bc3e45511b8b82a13e6f90ce761df726f6"
+  ],
+  "documents": 100195,
+  "seconds": 3173.2092032910004,
+  "documents_per_second": 31.575289740142473,
+  "passage_max_length": 512,
+  "pooling": "last_token",
+  "normalize": true,
+  "retrieval": {
+    "pooling": "last_token",
+    "padding_side": "left",
+    "max_length": 512,
+    "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:",
+    "passage_prefix": "",
+    "normalize": true
+  }
+}

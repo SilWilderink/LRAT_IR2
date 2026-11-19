@@ -1,0 +1,78 @@
+{
+  "job_id": "29122640",
+  "definition": "Successful document opens only. Primary: unique question/document pairs per retriever. Positive qrel_evidence labels. Absence does not imply irrelevance.",
+  "models": {
+    "qwen": {
+      "successful_browse_events": {
+        "total": 17711,
+        "not_evidence": 8172,
+        "not_gold": 12364,
+        "not_evidence_percent": 46.140816441759355,
+        "not_gold_percent": 69.80972277115917
+      },
+      "unique_question_document_pairs": {
+        "total": 1946,
+        "not_evidence": 852,
+        "not_gold": 1349,
+        "not_evidence_percent": 43.782117163412124,
+        "not_gold_percent": 69.32168550873587
+      },
+      "questions_with_browsing": 720,
+      "questions_without_browsing": 110,
+      "correct_task_pairs": {
+        "total": 578,
+        "not_evidence": 112,
+        "not_gold": 287,
+        "not_evidence_percent": 19.377162629757784,
+        "not_gold_percent": 49.653979238754324
+      },
+      "incorrect_task_pairs": {
+        "total": 1368,
+        "not_evidence": 740,
+        "not_gold": 1062,
+        "not_evidence_percent": 54.09356725146199,
+        "not_gold_percent": 77.63157894736842
+      }
+    },
+    "e5": {
+      "successful_browse_events": {
+        "total": 17656,
+        "not_evidence": 7027,
+        "not_gold": 11701,
+        "not_evidence_percent": 39.79950158586316,
+        "not_gold_percent": 66.2720888083371
+      },
+      "unique_question_document_pairs": {
+        "total": 2373,
+        "not_evidence": 991,
+        "not_gold": 1623,
+        "not_evidence_percent": 41.76148335440371,
+        "not_gold_percent": 68.3944374209861
+      },
+      "questions_with_browsing": 759,
+      "questions_without_browsing": 71,
+      "correct_task_pairs": {
+        "total": 853,
+        "not_evidence": 180,
+        "not_gold": 441,
+        "not_evidence_percent": 21.101992966002346,
+        "not_gold_percent": 51.69988276670574
+      },
+      "incorrect_task_pairs": {
+        "total": 1520,
+        "not_evidence": 811,
+        "not_gold": 1182,
+        "not_evidence_percent": 53.35526315789474,
+        "not_gold_percent": 77.76315789473684
+      }
+    }
+  },
+  "sources": {
+    "qwen": "/scratch-shared/scur0901/lrat/evaluation/tongyi-trained-28880868",
+    "e5": "/scratch-shared/scur0901/lrat/evaluation/e5-large-tongyi-20261104T204422Z"
+  },
+  "qrels_sha256": {
+    "qrel_evidence.txt": "a6f594975be57339de9e4e9f67f13c044f647feda77c0b84c45a1581e3041bd1",
+    "qrel_golds.txt": "b875af4a745712bee7a94f464ed989232f8c77977c31824428470e11dcb28c73"
+  }
+}

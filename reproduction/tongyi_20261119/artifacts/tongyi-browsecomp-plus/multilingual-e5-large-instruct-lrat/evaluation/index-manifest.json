@@ -1,0 +1,22 @@
+{
+  "model_path": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model",
+  "model_config_sha256": "67c26af105024531bbd7b3d518bd45643cd60f9ada6fa002ea4ce31e34fb2811",
+  "corpus_revision": [
+    "Tevatron/browsecomp-plus-corpus",
+    "b27b02bc3e45511b8b82a13e6f90ce761df726f6"
+  ],
+  "documents": 100195,
+  "seconds": 3655.484786205001,
+  "documents_per_second": 27.40949719668209,
+  "passage_max_length": 512,
+  "pooling": "mean",
+  "normalize": true,
+  "retrieval": {
+    "pooling": "mean",
+    "padding_side": "right",
+    "max_length": 512,
+    "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery: ",
+    "passage_prefix": "",
+    "normalize": true
+  }
+}

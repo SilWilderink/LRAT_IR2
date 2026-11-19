@@ -1,0 +1,11 @@
+{
+  "global_step": 6030,
+  "epoch": 2.0,
+  "batch_size": 32,
+  "group_size": 10,
+  "gpus": 1,
+  "cross_device_negatives": false,
+  "pooling": "mean",
+  "first_100_loss": 1.666936,
+  "last_100_loss": 1.1277620000000002
+}

@@ -1,0 +1,9 @@
+{
+  "role": "agent",
+  "mode": "pilot",
+  "new_queries": 16,
+  "seconds": 1838.5337370179986,
+  "client_setup_seconds": 10.307362690997252,
+  "workers": 8,
+  "errors": []
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "retriever": "qwen3-embedding-0.6b-lrat",
+    "benchmark": "BrowseComp-Plus",
+    "correct": 173,
+    "queries": 830,
+    "metrics": {
+      "Success Rate": 0.20843373493975903,
+      "Avg Steps": 44.501204819277106,
+      "Evidence Recall": 0.46912102288608315,
+      "Avg Model Calls": 47.16626506024097,
+      "Any Evidence Hit Rate": 0.7879518072289157
+    },
+    "report": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/evaluation/full-results.json",
+    "model": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model"
+  },
+  {
+    "retriever": "qwen3-embedding-0.6b-lrat",
+    "benchmark": "InfoSeek-Eval",
+    "correct": 200,
+    "queries": 300,
+    "metrics": {
+      "Success Rate": 0.6666666666666666,
+      "Avg Steps": 25.303333333333335,
+      "Avg Model Calls": 31.12
+    },
+    "report": "artifacts/tongyi-infoseek/qwen3-embedding-0.6b-lrat/full-results.json",
+    "model": "artifacts/tongyi-browsecomp-plus/qwen3-embedding-0.6b-lrat/model"
+  },
+  {
+    "retriever": "multilingual-e5-large-instruct-lrat",
+    "benchmark": "BrowseComp-Plus",
+    "correct": 218,
+    "queries": 830,
+    "metrics": {
+      "Success Rate": 0.26265060240963856,
+      "Avg Steps": 43.18674698795181,
+      "Evidence Recall": 0.5689439342451391,
+      "Avg Model Calls": 46.519277108433734,
+      "Any Evidence Hit Rate": 0.8650602409638555
+    },
+    "report": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/evaluation/full-results.json",
+    "model": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model"
+  },
+  {
+    "retriever": "multilingual-e5-large-instruct-lrat",
+    "benchmark": "InfoSeek-Eval",
+    "correct": 216,
+    "queries": 300,
+    "metrics": {
+      "Success Rate": 0.72,
+      "Avg Steps": 24.433333333333334,
+      "Avg Model Calls": 30.223333333333333
+    },
+    "report": "artifacts/tongyi-infoseek/multilingual-e5-large-instruct-lrat/full-results.json",
+    "model": "artifacts/tongyi-browsecomp-plus/multilingual-e5-large-instruct-lrat/model"
+  }
+]

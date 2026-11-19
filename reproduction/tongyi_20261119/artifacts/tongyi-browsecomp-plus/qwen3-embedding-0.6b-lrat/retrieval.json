@@ -1,0 +1,9 @@
+{
+  "model_path": "/scratch-shared/scur0901/lrat/runs/full-28880868/model",
+  "pooling": "last_token",
+  "padding_side": "left",
+  "max_length": 512,
+  "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:",
+  "passage_prefix": "",
+  "normalize": true
+}

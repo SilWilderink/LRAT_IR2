@@ -1,0 +1,26 @@
+[project]
+name = "lrat-snellius-training"
+version = "0.1.0"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "FlagEmbedding",
+    "torch==2.7.0",
+    "transformers==4.53.2",
+    "datasets==4.0.0",
+    "accelerate==1.9.0",
+    "peft==0.16.0",
+    "numpy==1.26.4",
+    "sentence-transformers==4.1.0",
+    "huggingface-hub==0.33.4",
+    "sentencepiece==0.2.0",
+    "protobuf==6.31.1",
+]
+
+[tool.uv]
+package = false
+environments = ["sys_platform == 'linux' and platform_machine == 'x86_64'"]
+# Match the vintage of the upstream lock instead of resolving 2026 packages.
+exclude-newer = "2025-07-17T00:00:00Z"
+
+[tool.uv.sources]
+FlagEmbedding = { path = "../../FlagEmbedding", editable = true }

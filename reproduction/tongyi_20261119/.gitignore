@@ -1,0 +1,7 @@
+# Large local model/resume artifacts: paths and hashes are tracked in manifest.json.
+*.safetensors
+optimizer.pt
+*.pth
+*.bin
+__pycache__/
+local.sh

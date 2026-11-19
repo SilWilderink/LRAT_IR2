@@ -1,0 +1,23 @@
+{
+  "fingerprint": "f3c4f7b96b5817a1ff6d586964c1c1d14d3f17ebfd39527c5fd52b93ef440abf",
+  "documents": 11215099,
+  "dimension": 1024,
+  "model_path": "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model",
+  "model_sha256": "e4218c97268512c8f319ac186eec9319ac60dd4c5b606c0febefb373807fc0b1",
+  "corpus_sha256": "4d795938bb89cbd7e7467a8da4e772f7ae95e6b533181aeace2a5e3fd3de6393",
+  "corpus_revision": [
+    "Lk123/wiki-25-512",
+    "fc1e312568b14385c04f41bc09157d8fa4c20658"
+  ],
+  "retrieval": {
+    "pooling": "mean",
+    "padding_side": "right",
+    "max_length": 512,
+    "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery: ",
+    "passage_prefix": "",
+    "normalize": true
+  },
+  "docids_format": "little-endian int64",
+  "encoding_shards": 4,
+  "merge_seconds": 54.79316899299738
+}

@@ -1,0 +1,30 @@
+diff --git a/FlagEmbedding/FlagEmbedding/finetune/embedder/decoder_only/base/trainer.py b/FlagEmbedding/FlagEmbedding/finetune/embedder/decoder_only/base/trainer.py
+index bb834c6..589e424 100644
+--- a/FlagEmbedding/FlagEmbedding/finetune/embedder/decoder_only/base/trainer.py
++++ b/FlagEmbedding/FlagEmbedding/finetune/embedder/decoder_only/base/trainer.py
+@@ -12,6 +12,12 @@ class DecoderOnlyEmbedderTrainer(AbsEmbedderTrainer):
+     """
+     Trainer class for base encoder models.
+     """
++    def _load_from_checkpoint(self, resume_from_checkpoint, model=None):
++        """Restore the inner encoder saved by this trainer's _save method."""
++        retriever = self.model if model is None else model
++        encoder = retriever.model
++        return super()._load_from_checkpoint(resume_from_checkpoint, model=encoder)
++
+     def _save(self, output_dir: Optional[str] = None, state_dict=None):
+         """Save the model to directory.
+ 
+diff --git a/README.md b/README.md
+index 193baae..5e31f29 100644
+--- a/README.md
++++ b/README.md
+@@ -140,6 +140,8 @@ The quickest way to understand the repository is:
+ 
+ ### 1. Environment Setup
+ 
++For **Snellius**, start with the [Slurm and scratch-storage setup guide](docs/snellius.md) for retriever fine-tuning on released LRAT-Train data. This checkout has no root `pyproject.toml`; the guide uses a dedicated, locked uv project in `environments/snellius/`.
++
+ ```bash
+ # Install uv
+ curl -LsSf https://astral.sh/uv/install.sh | sh

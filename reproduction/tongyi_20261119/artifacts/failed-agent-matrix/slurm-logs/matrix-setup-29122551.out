@@ -1,0 +1,17 @@
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.004s
+
+OK
+Fetching 13 files:   0%|          | 0/13 [00:00<?, ?it/s]Fetching 13 files:   8%|▊         | 1/13 [00:00<00:04,  2.46it/s]Fetching 13 files:  23%|██▎       | 3/13 [00:00<00:02,  4.41it/s]Fetching 13 files:  38%|███▊      | 5/13 [01:27<02:58, 22.31s/it]Fetching 13 files:  46%|████▌     | 6/13 [01:56<02:49, 24.22s/it]Fetching 13 files:  54%|█████▍    | 7/13 [02:35<02:49, 28.22s/it]Fetching 13 files:  62%|██████▏   | 8/13 [02:47<01:58, 23.63s/it]Fetching 13 files: 100%|██████████| 13/13 [02:47<00:00, 12.86s/it]
+Ready: webexplorer /scratch-shared/scur0901/lrat/cache/huggingface/hub/models--hkust-nlp--WebExplorer-8B/snapshots/c7296358b988ffa5d47679f0d6fc165bfd19243a
+Fetching 12 files:   0%|          | 0/12 [00:00<?, ?it/s]Fetching 12 files:   8%|▊         | 1/12 [00:00<00:03,  2.88it/s]Fetching 12 files:  25%|██▌       | 3/12 [00:00<00:01,  4.70it/s]Fetching 12 files:  42%|████▏     | 5/12 [00:01<00:01,  4.70it/s]Fetching 12 files:  50%|█████     | 6/12 [00:45<01:13, 12.18s/it]Fetching 12 files:  58%|█████▊    | 7/12 [01:06<01:12, 14.56s/it]Fetching 12 files: 100%|██████████| 12/12 [01:06<00:00,  5.55s/it]
+Ready: agentcpm /scratch-shared/scur0901/lrat/cache/huggingface/hub/models--openbmb--AgentCPM-Explore/snapshots/f528bbb55317bd291387ba3347551dd3414e698e
+Validated: webexplorer-qwen-infoseek
+Validated: webexplorer-qwen-browsecomp
+Validated: webexplorer-e5-infoseek
+Validated: webexplorer-e5-browsecomp
+Validated: agentcpm-qwen-infoseek
+Validated: agentcpm-qwen-browsecomp
+Validated: agentcpm-e5-infoseek
+Validated: agentcpm-e5-browsecomp

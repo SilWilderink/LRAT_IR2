@@ -1,0 +1,8 @@
+{
+  "setup": "28890789",
+  "index": "28890962",
+  "pilot": "28890963",
+  "full": "Submitted automatically after pilot succeeds",
+  "trained_model": "/scratch-shared/scur0901/lrat/runs/full-28880868/model",
+  "baseline": false
+}

@@ -1,0 +1,36 @@
+{
+  "configuration": {
+    "LRAT_E5_RUN_DIR": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z",
+    "LRAT_E5_ASSETS": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/training-assets.json",
+    "LRAT_EVAL_MODEL": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model",
+    "LRAT_EVAL_ROOT": "/scratch-shared/scur0901/lrat/evaluation/e5-large-tongyi-20261104T204422Z",
+    "LRAT_EVAL_ASSETS": "/scratch-shared/scur0901/lrat/evaluation/e5-large-tongyi-20261104T204422Z/assets.json",
+    "LRAT_EVAL_INDEX": "/scratch-shared/scur0901/lrat/evaluation/e5-large-tongyi-20261104T204422Z/index",
+    "LRAT_EVAL_LABEL": "lrat-e5-eval",
+    "training": {
+      "model": "intfloat/multilingual-e5-large-instruct",
+      "batch_size": 32,
+      "group_size": 10,
+      "gpus": 1,
+      "epochs": 2,
+      "walltime_hours": 48,
+      "batch_interpretation": "32 queries per optimizer step on one GPU; cross-device negatives disabled"
+    }
+  },
+  "jobs": {
+    "setup": "28906905",
+    "train": "28906907",
+    "index": "28906908",
+    "pilot": "28906909"
+  },
+  "replaces": {
+    "record": "/scratch-shared/scur0901/lrat/evaluation/e5-large-tongyi-20261104T125425Z/submitted-jobs.json",
+    "jobs": {
+      "setup": "28893784",
+      "train": "28893826",
+      "index": "28893827",
+      "pilot": "28893828"
+    },
+    "reason": "E5 DDP unused-pooler failure after one step; enable find_unused_parameters and add a two-step regression; no resume checkpoint"
+  }
+}

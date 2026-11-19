@@ -1,0 +1,44 @@
+[
+  {
+    "name": "qwen3-embedding-0.6b-lrat",
+    "label": "Qwen3-Embedding-0.6B + LRAT",
+    "run": "full-28880868",
+    "evaluation": "tongyi-trained-28880868",
+    "training_job": "28880868",
+    "evaluation_job": "28913295",
+    "batch": 2,
+    "group": 2,
+    "questions": 830,
+    "correct": 173,
+    "metrics": {
+      "Success Rate": 0.20843373493975903,
+      "Avg Steps": 44.501204819277106,
+      "Evidence Recall": 0.46912102288608315,
+      "Avg Model Calls": 47.16626506024097,
+      "Any Evidence Hit Rate": 0.7879518072289157
+    },
+    "model_path": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model",
+    "results_path": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/evaluation/full-results.json"
+  },
+  {
+    "name": "multilingual-e5-large-instruct-lrat",
+    "label": "Multilingual-E5-Large-Instruct + LRAT",
+    "run": "e5-large-tongyi-20261104T204422Z",
+    "evaluation": "e5-large-tongyi-20261104T204422Z",
+    "training_job": "28906907",
+    "evaluation_job": "28929763",
+    "batch": 32,
+    "group": 10,
+    "questions": 830,
+    "correct": 218,
+    "metrics": {
+      "Success Rate": 0.26265060240963856,
+      "Avg Steps": 43.18674698795181,
+      "Evidence Recall": 0.5689439342451391,
+      "Avg Model Calls": 46.519277108433734,
+      "Any Evidence Hit Rate": 0.8650602409638555
+    },
+    "model_path": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model",
+    "results_path": "/gpfs/home6/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/evaluation/full-results.json"
+  }
+]

@@ -1,0 +1,169 @@
+{
+  "metrics": {
+    "Success Rate": 0.25,
+    "Avg Steps": 41.625,
+    "Evidence Recall": 0.511097582972583,
+    "Avg Model Calls": 44.125,
+    "Any Evidence Hit Rate": 0.875
+  },
+  "queries": 16,
+  "details": [
+    {
+      "query_id": "769",
+      "correct": false,
+      "steps": 35,
+      "model_calls": 50,
+      "evidence_recall": 1.0,
+      "any_evidence": true
+    },
+    {
+      "query_id": "830",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50,
+      "evidence_recall": 0.16666666666666666,
+      "any_evidence": true
+    },
+    {
+      "query_id": "870",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50,
+      "evidence_recall": 0.0,
+      "any_evidence": false
+    },
+    {
+      "query_id": "233",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50,
+      "evidence_recall": 0.4,
+      "any_evidence": true
+    },
+    {
+      "query_id": "251",
+      "correct": false,
+      "steps": 48,
+      "model_calls": 50,
+      "evidence_recall": 0.0,
+      "any_evidence": false
+    },
+    {
+      "query_id": "7",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50,
+      "evidence_recall": 0.45454545454545453,
+      "any_evidence": true
+    },
+    {
+      "query_id": "524",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50,
+      "evidence_recall": 0.25,
+      "any_evidence": true
+    },
+    {
+      "query_id": "599",
+      "correct": true,
+      "steps": 25,
+      "model_calls": 27,
+      "evidence_recall": 1.0,
+      "any_evidence": true
+    },
+    {
+      "query_id": "603",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 15,
+      "evidence_recall": 0.42857142857142855,
+      "any_evidence": true
+    },
+    {
+      "query_id": "619",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50,
+      "evidence_recall": 1.0,
+      "any_evidence": true
+    },
+    {
+      "query_id": "644",
+      "correct": true,
+      "steps": 13,
+      "model_calls": 14,
+      "evidence_recall": 1.0,
+      "any_evidence": true
+    },
+    {
+      "query_id": "1257",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50,
+      "evidence_recall": 0.2,
+      "any_evidence": true
+    },
+    {
+      "query_id": "950",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50,
+      "evidence_recall": 0.875,
+      "any_evidence": true
+    },
+    {
+      "query_id": "689",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50,
+      "evidence_recall": 0.125,
+      "any_evidence": true
+    },
+    {
+      "query_id": "709",
+      "correct": false,
+      "steps": 47,
+      "model_calls": 50,
+      "evidence_recall": 0.4444444444444444,
+      "any_evidence": true
+    },
+    {
+      "query_id": "131",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50,
+      "evidence_recall": 0.8333333333333334,
+      "any_evidence": true
+    }
+  ],
+  "protocol": {
+    "benchmark": "BrowseComp-Plus",
+    "agent": "Tongyi-DeepResearch-30B-A3B",
+    "temperature": 0.85,
+    "top_p": 0.95,
+    "presence_penalty": 1.1,
+    "seed": 2025,
+    "max_model_calls": 50,
+    "top_k": 10,
+    "snippet_tokens": 64,
+    "document_tokens": 512,
+    "query_max_length": 512,
+    "generation_caps": [
+      4096,
+      2048,
+      1024
+    ],
+    "final_generation_cap": 10000,
+    "context_soft_limit": 100000,
+    "retriever": {
+      "model_path": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model",
+      "pooling": "mean",
+      "padding_side": "right",
+      "max_length": 512,
+      "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery: ",
+      "passage_prefix": "",
+      "normalize": true
+    }
+  }
+}

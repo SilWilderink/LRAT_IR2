@@ -1,0 +1,1841 @@
+{
+  "metrics": {
+    "Success Rate": 0.72,
+    "Avg Steps": 24.433333333333334,
+    "Avg Model Calls": 30.223333333333333
+  },
+  "queries": 300,
+  "details": [
+    {
+      "query_id": "InfoSeek-Eval_0",
+      "correct": true,
+      "steps": 48,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_1",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_2",
+      "correct": true,
+      "steps": 46,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_3",
+      "correct": true,
+      "steps": 3,
+      "model_calls": 5
+    },
+    {
+      "query_id": "InfoSeek-Eval_4",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_5",
+      "correct": true,
+      "steps": 18,
+      "model_calls": 30
+    },
+    {
+      "query_id": "InfoSeek-Eval_6",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_7",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_8",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_9",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_10",
+      "correct": true,
+      "steps": 2,
+      "model_calls": 3
+    },
+    {
+      "query_id": "InfoSeek-Eval_11",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_12",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 12
+    },
+    {
+      "query_id": "InfoSeek-Eval_13",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 11
+    },
+    {
+      "query_id": "InfoSeek-Eval_14",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_15",
+      "correct": true,
+      "steps": 2,
+      "model_calls": 3
+    },
+    {
+      "query_id": "InfoSeek-Eval_16",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 16
+    },
+    {
+      "query_id": "InfoSeek-Eval_17",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_18",
+      "correct": true,
+      "steps": 14,
+      "model_calls": 16
+    },
+    {
+      "query_id": "InfoSeek-Eval_19",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_20",
+      "correct": true,
+      "steps": 21,
+      "model_calls": 38
+    },
+    {
+      "query_id": "InfoSeek-Eval_21",
+      "correct": true,
+      "steps": 13,
+      "model_calls": 14
+    },
+    {
+      "query_id": "InfoSeek-Eval_22",
+      "correct": false,
+      "steps": 6,
+      "model_calls": 10
+    },
+    {
+      "query_id": "InfoSeek-Eval_23",
+      "correct": true,
+      "steps": 9,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_24",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_25",
+      "correct": true,
+      "steps": 9,
+      "model_calls": 11
+    },
+    {
+      "query_id": "InfoSeek-Eval_26",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_27",
+      "correct": true,
+      "steps": 25,
+      "model_calls": 30
+    },
+    {
+      "query_id": "InfoSeek-Eval_28",
+      "correct": true,
+      "steps": 2,
+      "model_calls": 15
+    },
+    {
+      "query_id": "InfoSeek-Eval_29",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_30",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 10
+    },
+    {
+      "query_id": "InfoSeek-Eval_31",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_32",
+      "correct": true,
+      "steps": 3,
+      "model_calls": 4
+    },
+    {
+      "query_id": "InfoSeek-Eval_33",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_34",
+      "correct": true,
+      "steps": 4,
+      "model_calls": 6
+    },
+    {
+      "query_id": "InfoSeek-Eval_35",
+      "correct": false,
+      "steps": 13,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_36",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_37",
+      "correct": false,
+      "steps": 12,
+      "model_calls": 22
+    },
+    {
+      "query_id": "InfoSeek-Eval_38",
+      "correct": true,
+      "steps": 11,
+      "model_calls": 18
+    },
+    {
+      "query_id": "InfoSeek-Eval_39",
+      "correct": true,
+      "steps": 2,
+      "model_calls": 3
+    },
+    {
+      "query_id": "InfoSeek-Eval_40",
+      "correct": true,
+      "steps": 12,
+      "model_calls": 16
+    },
+    {
+      "query_id": "InfoSeek-Eval_41",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_42",
+      "correct": true,
+      "steps": 3,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_43",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_44",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 8
+    },
+    {
+      "query_id": "InfoSeek-Eval_45",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_46",
+      "correct": true,
+      "steps": 11,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_47",
+      "correct": true,
+      "steps": 9,
+      "model_calls": 15
+    },
+    {
+      "query_id": "InfoSeek-Eval_48",
+      "correct": false,
+      "steps": 4,
+      "model_calls": 6
+    },
+    {
+      "query_id": "InfoSeek-Eval_49",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_50",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 10
+    },
+    {
+      "query_id": "InfoSeek-Eval_51",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 6
+    },
+    {
+      "query_id": "InfoSeek-Eval_52",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 7
+    },
+    {
+      "query_id": "InfoSeek-Eval_53",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_54",
+      "correct": true,
+      "steps": 4,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_55",
+      "correct": true,
+      "steps": 16,
+      "model_calls": 17
+    },
+    {
+      "query_id": "InfoSeek-Eval_56",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_57",
+      "correct": true,
+      "steps": 11,
+      "model_calls": 17
+    },
+    {
+      "query_id": "InfoSeek-Eval_58",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_59",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_60",
+      "correct": false,
+      "steps": 30,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_61",
+      "correct": true,
+      "steps": 9,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_62",
+      "correct": true,
+      "steps": 10,
+      "model_calls": 15
+    },
+    {
+      "query_id": "InfoSeek-Eval_63",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_64",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_65",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_66",
+      "correct": true,
+      "steps": 4,
+      "model_calls": 5
+    },
+    {
+      "query_id": "InfoSeek-Eval_67",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_68",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_69",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 10
+    },
+    {
+      "query_id": "InfoSeek-Eval_70",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_71",
+      "correct": true,
+      "steps": 11,
+      "model_calls": 14
+    },
+    {
+      "query_id": "InfoSeek-Eval_72",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 37
+    },
+    {
+      "query_id": "InfoSeek-Eval_73",
+      "correct": false,
+      "steps": 46,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_74",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 8
+    },
+    {
+      "query_id": "InfoSeek-Eval_75",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 7
+    },
+    {
+      "query_id": "InfoSeek-Eval_76",
+      "correct": true,
+      "steps": 9,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_77",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_78",
+      "correct": true,
+      "steps": 10,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_79",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_80",
+      "correct": true,
+      "steps": 10,
+      "model_calls": 16
+    },
+    {
+      "query_id": "InfoSeek-Eval_81",
+      "correct": true,
+      "steps": 19,
+      "model_calls": 23
+    },
+    {
+      "query_id": "InfoSeek-Eval_82",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 15
+    },
+    {
+      "query_id": "InfoSeek-Eval_83",
+      "correct": true,
+      "steps": 13,
+      "model_calls": 19
+    },
+    {
+      "query_id": "InfoSeek-Eval_84",
+      "correct": false,
+      "steps": 25,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_85",
+      "correct": true,
+      "steps": 31,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_86",
+      "correct": true,
+      "steps": 23,
+      "model_calls": 27
+    },
+    {
+      "query_id": "InfoSeek-Eval_87",
+      "correct": true,
+      "steps": 11,
+      "model_calls": 14
+    },
+    {
+      "query_id": "InfoSeek-Eval_88",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_89",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_90",
+      "correct": false,
+      "steps": 9,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_91",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 11
+    },
+    {
+      "query_id": "InfoSeek-Eval_92",
+      "correct": true,
+      "steps": 24,
+      "model_calls": 28
+    },
+    {
+      "query_id": "InfoSeek-Eval_93",
+      "correct": true,
+      "steps": 2,
+      "model_calls": 3
+    },
+    {
+      "query_id": "InfoSeek-Eval_94",
+      "correct": true,
+      "steps": 45,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_95",
+      "correct": true,
+      "steps": 36,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_96",
+      "correct": true,
+      "steps": 31,
+      "model_calls": 39
+    },
+    {
+      "query_id": "InfoSeek-Eval_97",
+      "correct": true,
+      "steps": 3,
+      "model_calls": 12
+    },
+    {
+      "query_id": "InfoSeek-Eval_98",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 8
+    },
+    {
+      "query_id": "InfoSeek-Eval_99",
+      "correct": true,
+      "steps": 2,
+      "model_calls": 3
+    },
+    {
+      "query_id": "InfoSeek-Eval_100",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 10
+    },
+    {
+      "query_id": "InfoSeek-Eval_101",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_102",
+      "correct": true,
+      "steps": 10,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_103",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_104",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_105",
+      "correct": true,
+      "steps": 4,
+      "model_calls": 10
+    },
+    {
+      "query_id": "InfoSeek-Eval_106",
+      "correct": true,
+      "steps": 13,
+      "model_calls": 18
+    },
+    {
+      "query_id": "InfoSeek-Eval_107",
+      "correct": true,
+      "steps": 3,
+      "model_calls": 4
+    },
+    {
+      "query_id": "InfoSeek-Eval_108",
+      "correct": false,
+      "steps": 11,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_109",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_110",
+      "correct": true,
+      "steps": 2,
+      "model_calls": 3
+    },
+    {
+      "query_id": "InfoSeek-Eval_111",
+      "correct": true,
+      "steps": 47,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_112",
+      "correct": true,
+      "steps": 14,
+      "model_calls": 19
+    },
+    {
+      "query_id": "InfoSeek-Eval_113",
+      "correct": true,
+      "steps": 4,
+      "model_calls": 5
+    },
+    {
+      "query_id": "InfoSeek-Eval_114",
+      "correct": true,
+      "steps": 10,
+      "model_calls": 16
+    },
+    {
+      "query_id": "InfoSeek-Eval_115",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_116",
+      "correct": true,
+      "steps": 18,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_117",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_118",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_119",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_120",
+      "correct": true,
+      "steps": 14,
+      "model_calls": 36
+    },
+    {
+      "query_id": "InfoSeek-Eval_121",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_122",
+      "correct": true,
+      "steps": 2,
+      "model_calls": 4
+    },
+    {
+      "query_id": "InfoSeek-Eval_123",
+      "correct": true,
+      "steps": 3,
+      "model_calls": 4
+    },
+    {
+      "query_id": "InfoSeek-Eval_124",
+      "correct": true,
+      "steps": 14,
+      "model_calls": 18
+    },
+    {
+      "query_id": "InfoSeek-Eval_125",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_126",
+      "correct": true,
+      "steps": 16,
+      "model_calls": 21
+    },
+    {
+      "query_id": "InfoSeek-Eval_127",
+      "correct": true,
+      "steps": 4,
+      "model_calls": 5
+    },
+    {
+      "query_id": "InfoSeek-Eval_128",
+      "correct": true,
+      "steps": 15,
+      "model_calls": 19
+    },
+    {
+      "query_id": "InfoSeek-Eval_129",
+      "correct": true,
+      "steps": 4,
+      "model_calls": 5
+    },
+    {
+      "query_id": "InfoSeek-Eval_130",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_131",
+      "correct": true,
+      "steps": 32,
+      "model_calls": 41
+    },
+    {
+      "query_id": "InfoSeek-Eval_132",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 10
+    },
+    {
+      "query_id": "InfoSeek-Eval_133",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_134",
+      "correct": true,
+      "steps": 16,
+      "model_calls": 19
+    },
+    {
+      "query_id": "InfoSeek-Eval_135",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_136",
+      "correct": true,
+      "steps": 14,
+      "model_calls": 47
+    },
+    {
+      "query_id": "InfoSeek-Eval_137",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_138",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_139",
+      "correct": true,
+      "steps": 2,
+      "model_calls": 3
+    },
+    {
+      "query_id": "InfoSeek-Eval_140",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_141",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_142",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_143",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_144",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_145",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_146",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_147",
+      "correct": true,
+      "steps": 11,
+      "model_calls": 14
+    },
+    {
+      "query_id": "InfoSeek-Eval_148",
+      "correct": true,
+      "steps": 14,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_149",
+      "correct": false,
+      "steps": 48,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_150",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 10
+    },
+    {
+      "query_id": "InfoSeek-Eval_151",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_152",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 6
+    },
+    {
+      "query_id": "InfoSeek-Eval_153",
+      "correct": true,
+      "steps": 14,
+      "model_calls": 17
+    },
+    {
+      "query_id": "InfoSeek-Eval_154",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_155",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 15
+    },
+    {
+      "query_id": "InfoSeek-Eval_156",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_157",
+      "correct": true,
+      "steps": 13,
+      "model_calls": 28
+    },
+    {
+      "query_id": "InfoSeek-Eval_158",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_159",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_160",
+      "correct": false,
+      "steps": 48,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_161",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_162",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_163",
+      "correct": true,
+      "steps": 22,
+      "model_calls": 34
+    },
+    {
+      "query_id": "InfoSeek-Eval_164",
+      "correct": true,
+      "steps": 9,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_165",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_166",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_167",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_168",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 12
+    },
+    {
+      "query_id": "InfoSeek-Eval_169",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_170",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_171",
+      "correct": true,
+      "steps": 9,
+      "model_calls": 15
+    },
+    {
+      "query_id": "InfoSeek-Eval_172",
+      "correct": true,
+      "steps": 14,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_173",
+      "correct": true,
+      "steps": 14,
+      "model_calls": 17
+    },
+    {
+      "query_id": "InfoSeek-Eval_174",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_175",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 7
+    },
+    {
+      "query_id": "InfoSeek-Eval_176",
+      "correct": false,
+      "steps": 8,
+      "model_calls": 15
+    },
+    {
+      "query_id": "InfoSeek-Eval_177",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 8
+    },
+    {
+      "query_id": "InfoSeek-Eval_178",
+      "correct": true,
+      "steps": 9,
+      "model_calls": 11
+    },
+    {
+      "query_id": "InfoSeek-Eval_179",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 10
+    },
+    {
+      "query_id": "InfoSeek-Eval_180",
+      "correct": true,
+      "steps": 4,
+      "model_calls": 6
+    },
+    {
+      "query_id": "InfoSeek-Eval_181",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_182",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 6
+    },
+    {
+      "query_id": "InfoSeek-Eval_183",
+      "correct": true,
+      "steps": 14,
+      "model_calls": 20
+    },
+    {
+      "query_id": "InfoSeek-Eval_184",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_185",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_186",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_187",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_188",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_189",
+      "correct": true,
+      "steps": 4,
+      "model_calls": 5
+    },
+    {
+      "query_id": "InfoSeek-Eval_190",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_191",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_192",
+      "correct": true,
+      "steps": 10,
+      "model_calls": 11
+    },
+    {
+      "query_id": "InfoSeek-Eval_193",
+      "correct": true,
+      "steps": 13,
+      "model_calls": 16
+    },
+    {
+      "query_id": "InfoSeek-Eval_194",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_195",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_196",
+      "correct": true,
+      "steps": 2,
+      "model_calls": 4
+    },
+    {
+      "query_id": "InfoSeek-Eval_197",
+      "correct": true,
+      "steps": 11,
+      "model_calls": 14
+    },
+    {
+      "query_id": "InfoSeek-Eval_198",
+      "correct": true,
+      "steps": 48,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_199",
+      "correct": true,
+      "steps": 38,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_200",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_201",
+      "correct": true,
+      "steps": 28,
+      "model_calls": 37
+    },
+    {
+      "query_id": "InfoSeek-Eval_202",
+      "correct": true,
+      "steps": 13,
+      "model_calls": 14
+    },
+    {
+      "query_id": "InfoSeek-Eval_203",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 8
+    },
+    {
+      "query_id": "InfoSeek-Eval_204",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_205",
+      "correct": true,
+      "steps": 9,
+      "model_calls": 12
+    },
+    {
+      "query_id": "InfoSeek-Eval_206",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_207",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_208",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_209",
+      "correct": true,
+      "steps": 16,
+      "model_calls": 19
+    },
+    {
+      "query_id": "InfoSeek-Eval_210",
+      "correct": false,
+      "steps": 48,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_211",
+      "correct": true,
+      "steps": 23,
+      "model_calls": 31
+    },
+    {
+      "query_id": "InfoSeek-Eval_212",
+      "correct": true,
+      "steps": 43,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_213",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_214",
+      "correct": true,
+      "steps": 10,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_215",
+      "correct": true,
+      "steps": 14,
+      "model_calls": 44
+    },
+    {
+      "query_id": "InfoSeek-Eval_216",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_217",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_218",
+      "correct": false,
+      "steps": 10,
+      "model_calls": 15
+    },
+    {
+      "query_id": "InfoSeek-Eval_219",
+      "correct": true,
+      "steps": 2,
+      "model_calls": 4
+    },
+    {
+      "query_id": "InfoSeek-Eval_220",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_221",
+      "correct": false,
+      "steps": 24,
+      "model_calls": 34
+    },
+    {
+      "query_id": "InfoSeek-Eval_222",
+      "correct": true,
+      "steps": 3,
+      "model_calls": 5
+    },
+    {
+      "query_id": "InfoSeek-Eval_223",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 10
+    },
+    {
+      "query_id": "InfoSeek-Eval_224",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_225",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 8
+    },
+    {
+      "query_id": "InfoSeek-Eval_226",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_227",
+      "correct": true,
+      "steps": 10,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_228",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_229",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_230",
+      "correct": true,
+      "steps": 3,
+      "model_calls": 4
+    },
+    {
+      "query_id": "InfoSeek-Eval_231",
+      "correct": true,
+      "steps": 4,
+      "model_calls": 10
+    },
+    {
+      "query_id": "InfoSeek-Eval_232",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_233",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 14
+    },
+    {
+      "query_id": "InfoSeek-Eval_234",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 11
+    },
+    {
+      "query_id": "InfoSeek-Eval_235",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 14
+    },
+    {
+      "query_id": "InfoSeek-Eval_236",
+      "correct": true,
+      "steps": 16,
+      "model_calls": 25
+    },
+    {
+      "query_id": "InfoSeek-Eval_237",
+      "correct": true,
+      "steps": 48,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_238",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_239",
+      "correct": true,
+      "steps": 41,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_240",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_241",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 8
+    },
+    {
+      "query_id": "InfoSeek-Eval_242",
+      "correct": true,
+      "steps": 8,
+      "model_calls": 11
+    },
+    {
+      "query_id": "InfoSeek-Eval_243",
+      "correct": true,
+      "steps": 39,
+      "model_calls": 42
+    },
+    {
+      "query_id": "InfoSeek-Eval_244",
+      "correct": false,
+      "steps": 48,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_245",
+      "correct": true,
+      "steps": 14,
+      "model_calls": 16
+    },
+    {
+      "query_id": "InfoSeek-Eval_246",
+      "correct": true,
+      "steps": 12,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_247",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 10
+    },
+    {
+      "query_id": "InfoSeek-Eval_248",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_249",
+      "correct": true,
+      "steps": 4,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_250",
+      "correct": true,
+      "steps": 41,
+      "model_calls": 42
+    },
+    {
+      "query_id": "InfoSeek-Eval_251",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_252",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_253",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_254",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_255",
+      "correct": true,
+      "steps": 47,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_256",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_257",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 8
+    },
+    {
+      "query_id": "InfoSeek-Eval_258",
+      "correct": true,
+      "steps": 18,
+      "model_calls": 23
+    },
+    {
+      "query_id": "InfoSeek-Eval_259",
+      "correct": true,
+      "steps": 9,
+      "model_calls": 12
+    },
+    {
+      "query_id": "InfoSeek-Eval_260",
+      "correct": true,
+      "steps": 45,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_261",
+      "correct": false,
+      "steps": 42,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_262",
+      "correct": true,
+      "steps": 10,
+      "model_calls": 16
+    },
+    {
+      "query_id": "InfoSeek-Eval_263",
+      "correct": true,
+      "steps": 7,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_264",
+      "correct": true,
+      "steps": 16,
+      "model_calls": 26
+    },
+    {
+      "query_id": "InfoSeek-Eval_265",
+      "correct": true,
+      "steps": 15,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_266",
+      "correct": false,
+      "steps": 20,
+      "model_calls": 25
+    },
+    {
+      "query_id": "InfoSeek-Eval_267",
+      "correct": true,
+      "steps": 48,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_268",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_269",
+      "correct": false,
+      "steps": 9,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_270",
+      "correct": true,
+      "steps": 12,
+      "model_calls": 17
+    },
+    {
+      "query_id": "InfoSeek-Eval_271",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 6
+    },
+    {
+      "query_id": "InfoSeek-Eval_272",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_273",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 6
+    },
+    {
+      "query_id": "InfoSeek-Eval_274",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 9
+    },
+    {
+      "query_id": "InfoSeek-Eval_275",
+      "correct": true,
+      "steps": 29,
+      "model_calls": 38
+    },
+    {
+      "query_id": "InfoSeek-Eval_276",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_277",
+      "correct": true,
+      "steps": 12,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_278",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_279",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_280",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_281",
+      "correct": true,
+      "steps": 13,
+      "model_calls": 18
+    },
+    {
+      "query_id": "InfoSeek-Eval_282",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_283",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_284",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_285",
+      "correct": true,
+      "steps": 48,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_286",
+      "correct": false,
+      "steps": 32,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_287",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_288",
+      "correct": true,
+      "steps": 3,
+      "model_calls": 6
+    },
+    {
+      "query_id": "InfoSeek-Eval_289",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_290",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_291",
+      "correct": false,
+      "steps": 49,
+      "model_calls": 50
+    },
+    {
+      "query_id": "InfoSeek-Eval_292",
+      "correct": true,
+      "steps": 16,
+      "model_calls": 46
+    },
+    {
+      "query_id": "InfoSeek-Eval_293",
+      "correct": true,
+      "steps": 14,
+      "model_calls": 20
+    },
+    {
+      "query_id": "InfoSeek-Eval_294",
+      "correct": true,
+      "steps": 10,
+      "model_calls": 13
+    },
+    {
+      "query_id": "InfoSeek-Eval_295",
+      "correct": true,
+      "steps": 5,
+      "model_calls": 6
+    },
+    {
+      "query_id": "InfoSeek-Eval_296",
+      "correct": true,
+      "steps": 13,
+      "model_calls": 14
+    },
+    {
+      "query_id": "InfoSeek-Eval_297",
+      "correct": true,
+      "steps": 13,
+      "model_calls": 14
+    },
+    {
+      "query_id": "InfoSeek-Eval_298",
+      "correct": true,
+      "steps": 6,
+      "model_calls": 10
+    },
+    {
+      "query_id": "InfoSeek-Eval_299",
+      "correct": true,
+      "steps": 49,
+      "model_calls": 50
+    }
+  ],
+  "protocol": {
+    "benchmark": "InfoSeek-Eval",
+    "agent": "Tongyi-DeepResearch-30B-A3B",
+    "temperature": 0.85,
+    "top_p": 0.95,
+    "presence_penalty": 1.1,
+    "seed": 2025,
+    "max_model_calls": 50,
+    "top_k": 10,
+    "snippet_tokens": 64,
+    "document_tokens": 512,
+    "query_max_length": 512,
+    "generation_caps": [
+      4096,
+      2048,
+      1024
+    ],
+    "final_generation_cap": 10000,
+    "context_soft_limit": 100000,
+    "retriever": {
+      "model_path": "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model",
+      "pooling": "mean",
+      "padding_side": "right",
+      "max_length": 512,
+      "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery: ",
+      "passage_prefix": "",
+      "normalize": true
+    },
+    "answer_mode": "tagged",
+    "prompt_source": "search_agent/tongyi_utils/react_agent.py"
+  }
+}

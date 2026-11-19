@@ -1,0 +1,3357 @@
+Shard 2: 4096/2803775 documents; 110.1 docs/s
+Shard 3: 4096/2803775 documents; 109.9 docs/s
+Shard 1: 4096/2803775 documents; 107.3 docs/s
+Shard 0: 4096/2803774 documents; 101.4 docs/s
+Shard 3: 8192/2803775 documents; 118.0 docs/s
+Shard 2: 8192/2803775 documents; 117.1 docs/s
+Shard 1: 8192/2803775 documents; 114.4 docs/s
+Shard 0: 8192/2803774 documents; 108.8 docs/s
+Shard 2: 12288/2803775 documents; 120.7 docs/s
+Shard 3: 12288/2803775 documents; 120.0 docs/s
+Shard 1: 12288/2803775 documents; 117.4 docs/s
+Shard 0: 12288/2803774 documents; 111.3 docs/s
+Shard 2: 16384/2803775 documents; 121.7 docs/s
+Shard 3: 16384/2803775 documents; 121.3 docs/s
+Shard 1: 16384/2803775 documents; 118.7 docs/s
+Shard 0: 16384/2803774 documents; 112.4 docs/s
+Shard 3: 20480/2803775 documents; 122.5 docs/s
+Shard 2: 20480/2803775 documents; 120.9 docs/s
+Shard 1: 20480/2803775 documents; 119.8 docs/s
+Shard 0: 20480/2803774 documents; 113.0 docs/s
+Shard 3: 24576/2803775 documents; 122.8 docs/s
+Shard 2: 24576/2803775 documents; 121.7 docs/s
+Shard 1: 24576/2803775 documents; 120.2 docs/s
+Shard 0: 24576/2803774 documents; 113.4 docs/s
+Shard 3: 28672/2803775 documents; 123.0 docs/s
+Shard 2: 28672/2803775 documents; 122.3 docs/s
+Shard 1: 28672/2803775 documents; 120.5 docs/s
+Shard 0: 28672/2803774 documents; 114.0 docs/s
+Shard 3: 32768/2803775 documents; 123.2 docs/s
+Shard 2: 32768/2803775 documents; 122.6 docs/s
+Shard 1: 32768/2803775 documents; 120.7 docs/s
+Shard 0: 32768/2803774 documents; 114.0 docs/s
+Shard 3: 36864/2803775 documents; 123.4 docs/s
+Shard 2: 36864/2803775 documents; 122.5 docs/s
+Shard 1: 36864/2803775 documents; 120.4 docs/s
+Shard 0: 36864/2803774 documents; 114.0 docs/s
+Shard 3: 40960/2803775 documents; 123.8 docs/s
+Shard 2: 40960/2803775 documents; 122.7 docs/s
+Shard 1: 40960/2803775 documents; 120.6 docs/s
+Shard 0: 40960/2803774 documents; 114.2 docs/s
+Shard 3: 45056/2803775 documents; 123.6 docs/s
+Shard 2: 45056/2803775 documents; 122.6 docs/s
+Shard 1: 45056/2803775 documents; 120.6 docs/s
+Shard 0: 45056/2803774 documents; 114.4 docs/s
+Shard 3: 49152/2803775 documents; 123.7 docs/s
+Shard 2: 49152/2803775 documents; 122.7 docs/s
+Shard 1: 49152/2803775 documents; 120.7 docs/s
+Shard 0: 49152/2803774 documents; 114.5 docs/s
+Shard 3: 53248/2803775 documents; 123.9 docs/s
+Shard 2: 53248/2803775 documents; 122.8 docs/s
+Shard 1: 53248/2803775 documents; 120.8 docs/s
+Shard 3: 57344/2803775 documents; 124.2 docs/s
+Shard 0: 53248/2803774 documents; 114.6 docs/s
+Shard 2: 57344/2803775 documents; 122.5 docs/s
+Shard 1: 57344/2803775 documents; 120.8 docs/s
+Shard 3: 61440/2803775 documents; 124.1 docs/s
+Shard 0: 57344/2803774 documents; 114.5 docs/s
+Shard 2: 61440/2803775 documents; 122.6 docs/s
+Shard 1: 61440/2803775 documents; 120.4 docs/s
+Shard 3: 65536/2803775 documents; 124.3 docs/s
+Shard 2: 65536/2803775 documents; 122.3 docs/s
+Shard 0: 61440/2803774 documents; 114.3 docs/s
+Shard 1: 65536/2803775 documents; 118.9 docs/s
+Shard 3: 69632/2803775 documents; 124.3 docs/s
+Shard 2: 69632/2803775 documents; 122.4 docs/s
+Shard 0: 65536/2803774 documents; 114.3 docs/s
+Shard 1: 69632/2803775 documents; 119.1 docs/s
+Shard 3: 73728/2803775 documents; 124.4 docs/s
+Shard 2: 73728/2803775 documents; 122.4 docs/s
+Shard 0: 69632/2803774 documents; 114.3 docs/s
+Shard 1: 73728/2803775 documents; 119.2 docs/s
+Shard 3: 77824/2803775 documents; 124.2 docs/s
+Shard 2: 77824/2803775 documents; 122.5 docs/s
+Shard 0: 73728/2803774 documents; 114.4 docs/s
+Shard 1: 77824/2803775 documents; 119.4 docs/s
+Shard 3: 81920/2803775 documents; 123.9 docs/s
+Shard 2: 81920/2803775 documents; 122.6 docs/s
+Shard 0: 77824/2803774 documents; 114.3 docs/s
+Shard 1: 81920/2803775 documents; 119.6 docs/s
+Shard 3: 86016/2803775 documents; 124.0 docs/s
+Shard 2: 86016/2803775 documents; 122.8 docs/s
+Shard 0: 81920/2803774 documents; 114.3 docs/s
+Shard 1: 86016/2803775 documents; 119.4 docs/s
+Shard 3: 90112/2803775 documents; 123.8 docs/s
+Shard 2: 90112/2803775 documents; 122.9 docs/s
+Shard 0: 86016/2803774 documents; 114.3 docs/s
+Shard 1: 90112/2803775 documents; 119.5 docs/s
+Shard 3: 94208/2803775 documents; 123.8 docs/s
+Shard 2: 94208/2803775 documents; 123.0 docs/s
+Shard 1: 94208/2803775 documents; 119.5 docs/s
+Shard 0: 90112/2803774 documents; 114.2 docs/s
+Shard 3: 98304/2803775 documents; 124.0 docs/s
+Shard 2: 98304/2803775 documents; 123.1 docs/s
+Shard 1: 98304/2803775 documents; 119.6 docs/s
+Shard 0: 94208/2803774 documents; 114.3 docs/s
+Shard 3: 102400/2803775 documents; 124.1 docs/s
+Shard 2: 102400/2803775 documents; 123.3 docs/s
+Shard 1: 102400/2803775 documents; 119.7 docs/s
+Shard 3: 106496/2803775 documents; 124.1 docs/s
+Shard 0: 98304/2803774 documents; 114.3 docs/s
+Shard 2: 106496/2803775 documents; 123.3 docs/s
+Shard 1: 106496/2803775 documents; 119.7 docs/s
+Shard 3: 110592/2803775 documents; 124.1 docs/s
+Shard 0: 102400/2803774 documents; 114.2 docs/s
+Shard 2: 110592/2803775 documents; 123.2 docs/s
+Shard 3: 114688/2803775 documents; 124.2 docs/s
+Shard 1: 110592/2803775 documents; 119.7 docs/s
+Shard 2: 114688/2803775 documents; 123.1 docs/s
+Shard 0: 106496/2803774 documents; 114.2 docs/s
+Shard 3: 118784/2803775 documents; 124.2 docs/s
+Shard 1: 114688/2803775 documents; 119.8 docs/s
+Shard 2: 118784/2803775 documents; 123.3 docs/s
+Shard 0: 110592/2803774 documents; 114.2 docs/s
+Shard 3: 122880/2803775 documents; 124.3 docs/s
+Shard 1: 118784/2803775 documents; 119.8 docs/s
+Shard 2: 122880/2803775 documents; 123.5 docs/s
+Shard 0: 114688/2803774 documents; 114.4 docs/s
+Shard 3: 126976/2803775 documents; 124.3 docs/s
+Shard 1: 122880/2803775 documents; 119.9 docs/s
+Shard 2: 126976/2803775 documents; 123.5 docs/s
+Shard 0: 118784/2803774 documents; 114.4 docs/s
+Shard 3: 131072/2803775 documents; 124.3 docs/s
+Shard 1: 126976/2803775 documents; 120.0 docs/s
+Shard 2: 131072/2803775 documents; 123.7 docs/s
+Shard 0: 122880/2803774 documents; 114.3 docs/s
+Shard 3: 135168/2803775 documents; 124.2 docs/s
+Shard 1: 131072/2803775 documents; 120.1 docs/s
+Shard 2: 135168/2803775 documents; 123.8 docs/s
+Shard 0: 126976/2803774 documents; 114.4 docs/s
+Shard 3: 139264/2803775 documents; 124.0 docs/s
+Shard 1: 135168/2803775 documents; 120.2 docs/s
+Shard 2: 139264/2803775 documents; 123.8 docs/s
+Shard 0: 131072/2803774 documents; 114.3 docs/s
+Shard 3: 143360/2803775 documents; 124.1 docs/s
+Shard 2: 143360/2803775 documents; 123.8 docs/s
+Shard 1: 139264/2803775 documents; 120.3 docs/s
+Shard 0: 135168/2803774 documents; 114.3 docs/s
+Shard 3: 147456/2803775 documents; 124.1 docs/s
+Shard 2: 147456/2803775 documents; 123.8 docs/s
+Shard 1: 143360/2803775 documents; 120.3 docs/s
+Shard 0: 139264/2803774 documents; 114.7 docs/s
+Shard 3: 151552/2803775 documents; 124.2 docs/s
+Shard 2: 151552/2803775 documents; 123.8 docs/s
+Shard 1: 147456/2803775 documents; 120.3 docs/s
+Shard 0: 143360/2803774 documents; 114.8 docs/s
+Shard 3: 155648/2803775 documents; 124.2 docs/s
+Shard 2: 155648/2803775 documents; 123.8 docs/s
+Shard 1: 151552/2803775 documents; 120.4 docs/s
+Shard 0: 147456/2803774 documents; 114.8 docs/s
+Shard 3: 159744/2803775 documents; 124.2 docs/s
+Shard 2: 159744/2803775 documents; 123.7 docs/s
+Shard 1: 155648/2803775 documents; 120.4 docs/s
+Shard 0: 151552/2803774 documents; 114.9 docs/s
+Shard 3: 163840/2803775 documents; 124.1 docs/s
+Shard 2: 163840/2803775 documents; 123.7 docs/s
+Shard 1: 159744/2803775 documents; 120.5 docs/s
+Shard 3: 167936/2803775 documents; 124.2 docs/s
+Shard 0: 155648/2803774 documents; 115.0 docs/s
+Shard 2: 167936/2803775 documents; 123.8 docs/s
+Shard 1: 163840/2803775 documents; 120.6 docs/s
+Shard 3: 172032/2803775 documents; 124.2 docs/s
+Shard 0: 159744/2803774 documents; 114.9 docs/s
+Shard 2: 172032/2803775 documents; 123.8 docs/s
+Shard 1: 167936/2803775 documents; 120.7 docs/s
+Shard 3: 176128/2803775 documents; 124.2 docs/s
+Shard 2: 176128/2803775 documents; 123.8 docs/s
+Shard 1: 172032/2803775 documents; 120.8 docs/s
+Shard 0: 163840/2803774 documents; 115.0 docs/s
+Shard 3: 180224/2803775 documents; 124.2 docs/s
+Shard 2: 180224/2803775 documents; 123.9 docs/s
+Shard 1: 176128/2803775 documents; 120.7 docs/s
+Shard 0: 167936/2803774 documents; 115.0 docs/s
+Shard 3: 184320/2803775 documents; 124.3 docs/s
+Shard 2: 184320/2803775 documents; 123.9 docs/s
+Shard 1: 180224/2803775 documents; 120.7 docs/s
+Shard 0: 172032/2803774 documents; 115.0 docs/s
+Shard 3: 188416/2803775 documents; 124.3 docs/s
+Shard 2: 188416/2803775 documents; 123.9 docs/s
+Shard 1: 184320/2803775 documents; 120.7 docs/s
+Shard 0: 176128/2803774 documents; 114.9 docs/s
+Shard 3: 192512/2803775 documents; 124.3 docs/s
+Shard 2: 192512/2803775 documents; 123.9 docs/s
+Shard 1: 188416/2803775 documents; 120.7 docs/s
+Shard 0: 180224/2803774 documents; 115.0 docs/s
+Shard 3: 196608/2803775 documents; 124.4 docs/s
+Shard 2: 196608/2803775 documents; 124.0 docs/s
+Shard 1: 192512/2803775 documents; 120.7 docs/s
+Shard 0: 184320/2803774 documents; 115.0 docs/s
+Shard 3: 200704/2803775 documents; 124.4 docs/s
+Shard 2: 200704/2803775 documents; 123.9 docs/s
+Shard 1: 196608/2803775 documents; 120.8 docs/s
+Shard 0: 188416/2803774 documents; 115.0 docs/s
+Shard 3: 204800/2803775 documents; 124.3 docs/s
+Shard 2: 204800/2803775 documents; 123.9 docs/s
+Shard 1: 200704/2803775 documents; 120.8 docs/s
+Shard 0: 192512/2803774 documents; 115.1 docs/s
+Shard 3: 208896/2803775 documents; 124.3 docs/s
+Shard 2: 208896/2803775 documents; 123.9 docs/s
+Shard 1: 204800/2803775 documents; 120.8 docs/s
+Shard 0: 196608/2803774 documents; 115.0 docs/s
+Shard 3: 212992/2803775 documents; 124.3 docs/s
+Shard 2: 212992/2803775 documents; 123.9 docs/s
+Shard 1: 208896/2803775 documents; 120.9 docs/s
+Shard 3: 217088/2803775 documents; 124.3 docs/s
+Shard 0: 200704/2803774 documents; 114.9 docs/s
+Shard 2: 217088/2803775 documents; 123.8 docs/s
+Shard 1: 212992/2803775 documents; 120.9 docs/s
+Shard 3: 221184/2803775 documents; 124.3 docs/s
+Shard 0: 204800/2803774 documents; 115.0 docs/s
+Shard 2: 221184/2803775 documents; 123.9 docs/s
+Shard 1: 217088/2803775 documents; 120.9 docs/s
+Shard 3: 225280/2803775 documents; 124.3 docs/s
+Shard 2: 225280/2803775 documents; 123.9 docs/s
+Shard 0: 208896/2803774 documents; 114.8 docs/s
+Shard 1: 221184/2803775 documents; 120.8 docs/s
+Shard 3: 229376/2803775 documents; 124.4 docs/s
+Shard 2: 229376/2803775 documents; 123.9 docs/s
+Shard 0: 212992/2803774 documents; 114.8 docs/s
+Shard 1: 225280/2803775 documents; 120.8 docs/s
+Shard 3: 233472/2803775 documents; 124.4 docs/s
+Shard 2: 233472/2803775 documents; 123.9 docs/s
+Shard 0: 217088/2803774 documents; 114.7 docs/s
+Shard 1: 229376/2803775 documents; 120.8 docs/s
+Shard 3: 237568/2803775 documents; 124.4 docs/s
+Shard 2: 237568/2803775 documents; 123.8 docs/s
+Shard 0: 221184/2803774 documents; 114.6 docs/s
+Shard 1: 233472/2803775 documents; 120.8 docs/s
+Shard 3: 241664/2803775 documents; 124.4 docs/s
+Shard 2: 241664/2803775 documents; 123.8 docs/s
+Shard 1: 237568/2803775 documents; 120.9 docs/s
+Shard 0: 225280/2803774 documents; 114.6 docs/s
+Shard 3: 245760/2803775 documents; 124.4 docs/s
+Shard 2: 245760/2803775 documents; 123.6 docs/s
+Shard 1: 241664/2803775 documents; 120.9 docs/s
+Shard 0: 229376/2803774 documents; 114.5 docs/s
+Shard 3: 249856/2803775 documents; 124.3 docs/s
+Shard 2: 249856/2803775 documents; 123.6 docs/s
+Shard 1: 245760/2803775 documents; 120.9 docs/s
+Shard 0: 233472/2803774 documents; 114.5 docs/s
+Shard 3: 253952/2803775 documents; 124.4 docs/s
+Shard 2: 253952/2803775 documents; 123.5 docs/s
+Shard 1: 249856/2803775 documents; 120.9 docs/s
+Shard 0: 237568/2803774 documents; 114.6 docs/s
+Shard 3: 258048/2803775 documents; 124.1 docs/s
+Shard 2: 258048/2803775 documents; 123.4 docs/s
+Shard 1: 253952/2803775 documents; 121.0 docs/s
+Shard 0: 241664/2803774 documents; 114.6 docs/s
+Shard 3: 262144/2803775 documents; 124.1 docs/s
+Shard 2: 262144/2803775 documents; 123.3 docs/s
+Shard 1: 258048/2803775 documents; 120.9 docs/s
+Shard 0: 245760/2803774 documents; 114.6 docs/s
+Shard 3: 266240/2803775 documents; 124.0 docs/s
+Shard 2: 266240/2803775 documents; 123.3 docs/s
+Shard 1: 262144/2803775 documents; 121.0 docs/s
+Shard 0: 249856/2803774 documents; 114.6 docs/s
+Shard 3: 270336/2803775 documents; 124.0 docs/s
+Shard 2: 270336/2803775 documents; 123.3 docs/s
+Shard 1: 266240/2803775 documents; 121.0 docs/s
+Shard 3: 274432/2803775 documents; 124.0 docs/s
+Shard 0: 253952/2803774 documents; 114.7 docs/s
+Shard 2: 274432/2803775 documents; 123.2 docs/s
+Shard 1: 270336/2803775 documents; 121.0 docs/s
+Shard 3: 278528/2803775 documents; 123.9 docs/s
+Shard 0: 258048/2803774 documents; 114.7 docs/s
+Shard 2: 278528/2803775 documents; 123.2 docs/s
+Shard 1: 274432/2803775 documents; 121.0 docs/s
+Shard 0: 262144/2803774 documents; 114.6 docs/s
+Shard 3: 282624/2803775 documents; 123.5 docs/s
+Shard 2: 282624/2803775 documents; 122.8 docs/s
+Shard 1: 278528/2803775 documents; 120.6 docs/s
+Shard 0: 266240/2803774 documents; 114.5 docs/s
+Shard 3: 286720/2803775 documents; 123.2 docs/s
+Shard 2: 286720/2803775 documents; 122.6 docs/s
+Shard 1: 282624/2803775 documents; 120.5 docs/s
+Shard 3: 290816/2803775 documents; 123.2 docs/s
+Shard 0: 270336/2803774 documents; 114.3 docs/s
+Shard 2: 290816/2803775 documents; 122.4 docs/s
+Shard 1: 286720/2803775 documents; 120.3 docs/s
+Shard 3: 294912/2803775 documents; 122.9 docs/s
+Shard 0: 274432/2803774 documents; 114.3 docs/s
+Shard 2: 294912/2803775 documents; 122.3 docs/s
+Shard 1: 290816/2803775 documents; 120.3 docs/s
+Shard 3: 299008/2803775 documents; 122.9 docs/s
+Shard 0: 278528/2803774 documents; 114.2 docs/s
+Shard 2: 299008/2803775 documents; 122.3 docs/s
+Shard 1: 294912/2803775 documents; 120.4 docs/s
+Shard 3: 303104/2803775 documents; 122.9 docs/s
+Shard 0: 282624/2803774 documents; 114.3 docs/s
+Shard 2: 303104/2803775 documents; 122.4 docs/s
+Shard 1: 299008/2803775 documents; 120.2 docs/s
+Shard 3: 307200/2803775 documents; 122.8 docs/s
+Shard 0: 286720/2803774 documents; 114.3 docs/s
+Shard 2: 307200/2803775 documents; 122.4 docs/s
+Shard 1: 303104/2803775 documents; 120.2 docs/s
+Shard 3: 311296/2803775 documents; 122.8 docs/s
+Shard 2: 311296/2803775 documents; 122.5 docs/s
+Shard 0: 290816/2803774 documents; 114.3 docs/s
+Shard 1: 307200/2803775 documents; 120.2 docs/s
+Shard 3: 315392/2803775 documents; 122.9 docs/s
+Shard 2: 315392/2803775 documents; 122.4 docs/s
+Shard 0: 294912/2803774 documents; 114.3 docs/s
+Shard 1: 311296/2803775 documents; 120.1 docs/s
+Shard 3: 319488/2803775 documents; 122.8 docs/s
+Shard 2: 319488/2803775 documents; 122.4 docs/s
+Shard 0: 299008/2803774 documents; 114.3 docs/s
+Shard 1: 315392/2803775 documents; 120.1 docs/s
+Shard 3: 323584/2803775 documents; 122.7 docs/s
+Shard 2: 323584/2803775 documents; 122.3 docs/s
+Shard 0: 303104/2803774 documents; 114.3 docs/s
+Shard 1: 319488/2803775 documents; 120.1 docs/s
+Shard 3: 327680/2803775 documents; 122.5 docs/s
+Shard 2: 327680/2803775 documents; 122.1 docs/s
+Shard 0: 307200/2803774 documents; 114.1 docs/s
+Shard 1: 323584/2803775 documents; 120.0 docs/s
+Shard 3: 331776/2803775 documents; 122.4 docs/s
+Shard 2: 331776/2803775 documents; 122.1 docs/s
+Shard 0: 311296/2803774 documents; 114.1 docs/s
+Shard 1: 327680/2803775 documents; 120.0 docs/s
+Shard 3: 335872/2803775 documents; 122.3 docs/s
+Shard 2: 335872/2803775 documents; 122.1 docs/s
+Shard 0: 315392/2803774 documents; 114.2 docs/s
+Shard 1: 331776/2803775 documents; 120.0 docs/s
+Shard 3: 339968/2803775 documents; 122.4 docs/s
+Shard 2: 339968/2803775 documents; 122.1 docs/s
+Shard 0: 319488/2803774 documents; 114.2 docs/s
+Shard 1: 335872/2803775 documents; 119.9 docs/s
+Shard 3: 344064/2803775 documents; 122.4 docs/s
+Shard 2: 344064/2803775 documents; 122.2 docs/s
+Shard 0: 323584/2803774 documents; 114.2 docs/s
+Shard 1: 339968/2803775 documents; 120.0 docs/s
+Shard 3: 348160/2803775 documents; 122.4 docs/s
+Shard 2: 348160/2803775 documents; 122.2 docs/s
+Shard 0: 327680/2803774 documents; 114.3 docs/s
+Shard 1: 344064/2803775 documents; 119.9 docs/s
+Shard 3: 352256/2803775 documents; 122.4 docs/s
+Shard 2: 352256/2803775 documents; 122.2 docs/s
+Shard 0: 331776/2803774 documents; 114.3 docs/s
+Shard 1: 348160/2803775 documents; 120.0 docs/s
+Shard 3: 356352/2803775 documents; 122.5 docs/s
+Shard 2: 356352/2803775 documents; 122.2 docs/s
+Shard 1: 352256/2803775 documents; 120.0 docs/s
+Shard 0: 335872/2803774 documents; 114.4 docs/s
+Shard 3: 360448/2803775 documents; 122.5 docs/s
+Shard 2: 360448/2803775 documents; 122.2 docs/s
+Shard 1: 356352/2803775 documents; 120.0 docs/s
+Shard 0: 339968/2803774 documents; 114.4 docs/s
+Shard 3: 364544/2803775 documents; 122.6 docs/s
+Shard 2: 364544/2803775 documents; 122.3 docs/s
+Shard 1: 360448/2803775 documents; 120.0 docs/s
+Shard 0: 344064/2803774 documents; 114.5 docs/s
+Shard 3: 368640/2803775 documents; 122.6 docs/s
+Shard 2: 368640/2803775 documents; 122.3 docs/s
+Shard 1: 364544/2803775 documents; 120.1 docs/s
+Shard 3: 372736/2803775 documents; 122.6 docs/s
+Shard 0: 348160/2803774 documents; 114.5 docs/s
+Shard 2: 372736/2803775 documents; 122.3 docs/s
+Shard 1: 368640/2803775 documents; 120.1 docs/s
+Shard 3: 376832/2803775 documents; 122.7 docs/s
+Shard 0: 352256/2803774 documents; 114.5 docs/s
+Shard 2: 376832/2803775 documents; 122.3 docs/s
+Shard 3: 380928/2803775 documents; 122.7 docs/s
+Shard 1: 372736/2803775 documents; 120.0 docs/s
+Shard 0: 356352/2803774 documents; 114.6 docs/s
+Shard 2: 380928/2803775 documents; 122.3 docs/s
+Shard 3: 385024/2803775 documents; 122.7 docs/s
+Shard 1: 376832/2803775 documents; 120.0 docs/s
+Shard 0: 360448/2803774 documents; 114.6 docs/s
+Shard 2: 385024/2803775 documents; 122.3 docs/s
+Shard 3: 389120/2803775 documents; 122.7 docs/s
+Shard 1: 380928/2803775 documents; 120.0 docs/s
+Shard 0: 364544/2803774 documents; 114.6 docs/s
+Shard 2: 389120/2803775 documents; 122.3 docs/s
+Shard 3: 393216/2803775 documents; 122.7 docs/s
+Shard 1: 385024/2803775 documents; 120.0 docs/s
+Shard 2: 393216/2803775 documents; 122.4 docs/s
+Shard 0: 368640/2803774 documents; 114.6 docs/s
+Shard 3: 397312/2803775 documents; 122.7 docs/s
+Shard 1: 389120/2803775 documents; 120.0 docs/s
+Shard 2: 397312/2803775 documents; 122.4 docs/s
+Shard 0: 372736/2803774 documents; 114.7 docs/s
+Shard 3: 401408/2803775 documents; 122.7 docs/s
+Shard 1: 393216/2803775 documents; 120.0 docs/s
+Shard 2: 401408/2803775 documents; 122.4 docs/s
+Shard 0: 376832/2803774 documents; 114.7 docs/s
+Shard 3: 405504/2803775 documents; 122.7 docs/s
+Shard 1: 397312/2803775 documents; 120.0 docs/s
+Shard 2: 405504/2803775 documents; 122.4 docs/s
+Shard 0: 380928/2803774 documents; 114.8 docs/s
+Shard 3: 409600/2803775 documents; 122.8 docs/s
+Shard 2: 409600/2803775 documents; 122.4 docs/s
+Shard 1: 401408/2803775 documents; 119.9 docs/s
+Shard 0: 385024/2803774 documents; 114.7 docs/s
+Shard 3: 413696/2803775 documents; 122.7 docs/s
+Shard 2: 413696/2803775 documents; 122.4 docs/s
+Shard 1: 405504/2803775 documents; 119.9 docs/s
+Shard 0: 389120/2803774 documents; 114.8 docs/s
+Shard 3: 417792/2803775 documents; 122.8 docs/s
+Shard 2: 417792/2803775 documents; 122.5 docs/s
+Shard 1: 409600/2803775 documents; 119.9 docs/s
+Shard 0: 393216/2803774 documents; 114.8 docs/s
+Shard 3: 421888/2803775 documents; 122.8 docs/s
+Shard 2: 421888/2803775 documents; 122.5 docs/s
+Shard 1: 413696/2803775 documents; 120.0 docs/s
+Shard 0: 397312/2803774 documents; 114.8 docs/s
+Shard 3: 425984/2803775 documents; 122.8 docs/s
+Shard 2: 425984/2803775 documents; 122.5 docs/s
+Shard 1: 417792/2803775 documents; 120.0 docs/s
+Shard 0: 401408/2803774 documents; 114.9 docs/s
+Shard 3: 430080/2803775 documents; 122.9 docs/s
+Shard 2: 430080/2803775 documents; 122.4 docs/s
+Shard 1: 421888/2803775 documents; 120.0 docs/s
+Shard 0: 405504/2803774 documents; 114.9 docs/s
+Shard 3: 434176/2803775 documents; 122.8 docs/s
+Shard 2: 434176/2803775 documents; 122.4 docs/s
+Shard 1: 425984/2803775 documents; 120.0 docs/s
+Shard 0: 409600/2803774 documents; 114.9 docs/s
+Shard 3: 438272/2803775 documents; 122.8 docs/s
+Shard 2: 438272/2803775 documents; 122.5 docs/s
+Shard 1: 430080/2803775 documents; 120.0 docs/s
+Shard 0: 413696/2803774 documents; 114.9 docs/s
+Shard 3: 442368/2803775 documents; 122.8 docs/s
+Shard 2: 442368/2803775 documents; 122.5 docs/s
+Shard 1: 434176/2803775 documents; 120.1 docs/s
+Shard 0: 417792/2803774 documents; 115.0 docs/s
+Shard 3: 446464/2803775 documents; 122.8 docs/s
+Shard 2: 446464/2803775 documents; 122.5 docs/s
+Shard 1: 438272/2803775 documents; 120.1 docs/s
+Shard 3: 450560/2803775 documents; 122.8 docs/s
+Shard 0: 421888/2803774 documents; 114.9 docs/s
+Shard 2: 450560/2803775 documents; 122.5 docs/s
+Shard 1: 442368/2803775 documents; 120.1 docs/s
+Shard 3: 454656/2803775 documents; 122.8 docs/s
+Shard 0: 425984/2803774 documents; 115.0 docs/s
+Shard 2: 454656/2803775 documents; 122.5 docs/s
+Shard 1: 446464/2803775 documents; 120.1 docs/s
+Shard 3: 458752/2803775 documents; 122.8 docs/s
+Shard 0: 430080/2803774 documents; 115.0 docs/s
+Shard 2: 458752/2803775 documents; 122.4 docs/s
+Shard 1: 450560/2803775 documents; 120.1 docs/s
+Shard 3: 462848/2803775 documents; 122.8 docs/s
+Shard 0: 434176/2803774 documents; 115.0 docs/s
+Shard 2: 462848/2803775 documents; 122.3 docs/s
+Shard 1: 454656/2803775 documents; 120.1 docs/s
+Shard 3: 466944/2803775 documents; 122.9 docs/s
+Shard 0: 438272/2803774 documents; 115.0 docs/s
+Shard 2: 466944/2803775 documents; 122.3 docs/s
+Shard 1: 458752/2803775 documents; 120.1 docs/s
+Shard 3: 471040/2803775 documents; 122.9 docs/s
+Shard 0: 442368/2803774 documents; 115.0 docs/s
+Shard 2: 471040/2803775 documents; 122.4 docs/s
+Shard 1: 462848/2803775 documents; 120.1 docs/s
+Shard 3: 475136/2803775 documents; 122.9 docs/s
+Shard 2: 475136/2803775 documents; 122.4 docs/s
+Shard 0: 446464/2803774 documents; 115.0 docs/s
+Shard 1: 466944/2803775 documents; 120.0 docs/s
+Shard 3: 479232/2803775 documents; 122.9 docs/s
+Shard 2: 479232/2803775 documents; 122.4 docs/s
+Shard 0: 450560/2803774 documents; 115.0 docs/s
+Shard 1: 471040/2803775 documents; 120.1 docs/s
+Shard 3: 483328/2803775 documents; 123.0 docs/s
+Shard 2: 483328/2803775 documents; 122.4 docs/s
+Shard 0: 454656/2803774 documents; 115.0 docs/s
+Shard 1: 475136/2803775 documents; 120.0 docs/s
+Shard 3: 487424/2803775 documents; 123.0 docs/s
+Shard 2: 487424/2803775 documents; 122.4 docs/s
+Shard 0: 458752/2803774 documents; 115.1 docs/s
+Shard 1: 479232/2803775 documents; 120.1 docs/s
+Shard 3: 491520/2803775 documents; 123.0 docs/s
+Shard 2: 491520/2803775 documents; 122.4 docs/s
+Shard 0: 462848/2803774 documents; 115.1 docs/s
+Shard 1: 483328/2803775 documents; 120.1 docs/s
+Shard 3: 495616/2803775 documents; 123.0 docs/s
+Shard 2: 495616/2803775 documents; 122.4 docs/s
+Shard 0: 466944/2803774 documents; 115.1 docs/s
+Shard 1: 487424/2803775 documents; 120.1 docs/s
+Shard 3: 499712/2803775 documents; 123.0 docs/s
+Shard 2: 499712/2803775 documents; 122.5 docs/s
+Shard 0: 471040/2803774 documents; 115.1 docs/s
+Shard 1: 491520/2803775 documents; 120.1 docs/s
+Shard 3: 503808/2803775 documents; 123.0 docs/s
+Shard 2: 503808/2803775 documents; 122.5 docs/s
+Shard 1: 495616/2803775 documents; 120.1 docs/s
+Shard 0: 475136/2803774 documents; 115.1 docs/s
+Shard 3: 507904/2803775 documents; 123.0 docs/s
+Shard 2: 507904/2803775 documents; 122.5 docs/s
+Shard 1: 499712/2803775 documents; 120.1 docs/s
+Shard 0: 479232/2803774 documents; 115.2 docs/s
+Shard 3: 512000/2803775 documents; 123.0 docs/s
+Shard 2: 512000/2803775 documents; 122.5 docs/s
+Shard 1: 503808/2803775 documents; 120.1 docs/s
+Shard 3: 516096/2803775 documents; 123.0 docs/s
+Shard 0: 483328/2803774 documents; 115.2 docs/s
+Shard 2: 516096/2803775 documents; 122.4 docs/s
+Shard 3: 520192/2803775 documents; 123.0 docs/s
+Shard 1: 507904/2803775 documents; 120.1 docs/s
+Shard 0: 487424/2803774 documents; 115.2 docs/s
+Shard 2: 520192/2803775 documents; 122.5 docs/s
+Shard 3: 524288/2803775 documents; 123.0 docs/s
+Shard 1: 512000/2803775 documents; 120.1 docs/s
+Shard 0: 491520/2803774 documents; 115.2 docs/s
+Shard 2: 524288/2803775 documents; 122.5 docs/s
+Shard 3: 528384/2803775 documents; 123.0 docs/s
+Shard 1: 516096/2803775 documents; 120.1 docs/s
+Shard 0: 495616/2803774 documents; 115.2 docs/s
+Shard 2: 528384/2803775 documents; 122.5 docs/s
+Shard 3: 532480/2803775 documents; 123.0 docs/s
+Shard 1: 520192/2803775 documents; 120.1 docs/s
+Shard 0: 499712/2803774 documents; 115.2 docs/s
+Shard 2: 532480/2803775 documents; 122.5 docs/s
+Shard 3: 536576/2803775 documents; 123.1 docs/s
+Shard 1: 524288/2803775 documents; 120.1 docs/s
+Shard 0: 503808/2803774 documents; 115.2 docs/s
+Shard 2: 536576/2803775 documents; 122.5 docs/s
+Shard 3: 540672/2803775 documents; 123.1 docs/s
+Shard 1: 528384/2803775 documents; 120.1 docs/s
+Shard 0: 507904/2803774 documents; 115.2 docs/s
+Shard 2: 540672/2803775 documents; 122.5 docs/s
+Shard 3: 544768/2803775 documents; 123.0 docs/s
+Shard 1: 532480/2803775 documents; 120.1 docs/s
+Shard 0: 512000/2803774 documents; 115.2 docs/s
+Shard 2: 544768/2803775 documents; 122.5 docs/s
+Shard 3: 548864/2803775 documents; 123.0 docs/s
+Shard 1: 536576/2803775 documents; 120.1 docs/s
+Shard 0: 516096/2803774 documents; 115.2 docs/s
+Shard 2: 548864/2803775 documents; 122.5 docs/s
+Shard 3: 552960/2803775 documents; 123.1 docs/s
+Shard 1: 540672/2803775 documents; 120.2 docs/s
+Shard 2: 552960/2803775 documents; 122.4 docs/s
+Shard 0: 520192/2803774 documents; 115.2 docs/s
+Shard 3: 557056/2803775 documents; 123.1 docs/s
+Shard 1: 544768/2803775 documents; 120.2 docs/s
+Shard 2: 557056/2803775 documents; 122.4 docs/s
+Shard 0: 524288/2803774 documents; 115.2 docs/s
+Shard 3: 561152/2803775 documents; 123.1 docs/s
+Shard 1: 548864/2803775 documents; 120.2 docs/s
+Shard 2: 561152/2803775 documents; 122.4 docs/s
+Shard 0: 528384/2803774 documents; 115.2 docs/s
+Shard 3: 565248/2803775 documents; 123.1 docs/s
+Shard 1: 552960/2803775 documents; 120.2 docs/s
+Shard 2: 565248/2803775 documents; 122.4 docs/s
+Shard 0: 532480/2803774 documents; 115.2 docs/s
+Shard 3: 569344/2803775 documents; 123.1 docs/s
+Shard 1: 557056/2803775 documents; 120.2 docs/s
+Shard 2: 569344/2803775 documents; 122.4 docs/s
+Shard 0: 536576/2803774 documents; 115.3 docs/s
+Shard 3: 573440/2803775 documents; 123.2 docs/s
+Shard 1: 561152/2803775 documents; 120.2 docs/s
+Shard 2: 573440/2803775 documents; 122.4 docs/s
+Shard 3: 577536/2803775 documents; 123.2 docs/s
+Shard 0: 540672/2803774 documents; 115.3 docs/s
+Shard 1: 565248/2803775 documents; 120.2 docs/s
+Shard 2: 577536/2803775 documents; 122.4 docs/s
+Shard 3: 581632/2803775 documents; 123.2 docs/s
+Shard 0: 544768/2803774 documents; 115.3 docs/s
+Shard 1: 569344/2803775 documents; 120.2 docs/s
+Shard 2: 581632/2803775 documents; 122.5 docs/s
+Shard 3: 585728/2803775 documents; 123.2 docs/s
+Shard 0: 548864/2803774 documents; 115.3 docs/s
+Shard 1: 573440/2803775 documents; 120.2 docs/s
+Shard 2: 585728/2803775 documents; 122.5 docs/s
+Shard 3: 589824/2803775 documents; 123.2 docs/s
+Shard 0: 552960/2803774 documents; 115.3 docs/s
+Shard 1: 577536/2803775 documents; 120.2 docs/s
+Shard 2: 589824/2803775 documents; 122.5 docs/s
+Shard 3: 593920/2803775 documents; 123.2 docs/s
+Shard 0: 557056/2803774 documents; 115.3 docs/s
+Shard 1: 581632/2803775 documents; 120.2 docs/s
+Shard 2: 593920/2803775 documents; 122.5 docs/s
+Shard 3: 598016/2803775 documents; 123.2 docs/s
+Shard 0: 561152/2803774 documents; 115.3 docs/s
+Shard 1: 585728/2803775 documents; 120.2 docs/s
+Shard 2: 598016/2803775 documents; 122.5 docs/s
+Shard 3: 602112/2803775 documents; 123.2 docs/s
+Shard 0: 565248/2803774 documents; 115.3 docs/s
+Shard 1: 589824/2803775 documents; 120.2 docs/s
+Shard 2: 602112/2803775 documents; 122.5 docs/s
+Shard 3: 606208/2803775 documents; 123.2 docs/s
+Shard 0: 569344/2803774 documents; 115.3 docs/s
+Shard 1: 593920/2803775 documents; 120.2 docs/s
+Shard 2: 606208/2803775 documents; 122.5 docs/s
+Shard 3: 610304/2803775 documents; 123.2 docs/s
+Shard 0: 573440/2803774 documents; 115.3 docs/s
+Shard 1: 598016/2803775 documents; 120.2 docs/s
+Shard 2: 610304/2803775 documents; 122.5 docs/s
+Shard 3: 614400/2803775 documents; 123.2 docs/s
+Shard 0: 577536/2803774 documents; 115.3 docs/s
+Shard 1: 602112/2803775 documents; 120.2 docs/s
+Shard 2: 614400/2803775 documents; 122.5 docs/s
+Shard 3: 618496/2803775 documents; 123.2 docs/s
+Shard 1: 606208/2803775 documents; 120.2 docs/s
+Shard 0: 581632/2803774 documents; 115.3 docs/s
+Shard 2: 618496/2803775 documents; 122.5 docs/s
+Shard 3: 622592/2803775 documents; 123.2 docs/s
+Shard 1: 610304/2803775 documents; 120.2 docs/s
+Shard 0: 585728/2803774 documents; 115.3 docs/s
+Shard 2: 622592/2803775 documents; 122.5 docs/s
+Shard 3: 626688/2803775 documents; 123.3 docs/s
+Shard 1: 614400/2803775 documents; 120.2 docs/s
+Shard 2: 626688/2803775 documents; 122.5 docs/s
+Shard 0: 589824/2803774 documents; 115.3 docs/s
+Shard 3: 630784/2803775 documents; 123.3 docs/s
+Shard 1: 618496/2803775 documents; 120.2 docs/s
+Shard 2: 630784/2803775 documents; 122.5 docs/s
+Shard 0: 593920/2803774 documents; 115.3 docs/s
+Shard 3: 634880/2803775 documents; 123.3 docs/s
+Shard 1: 622592/2803775 documents; 120.3 docs/s
+Shard 2: 634880/2803775 documents; 122.6 docs/s
+Shard 3: 638976/2803775 documents; 123.3 docs/s
+Shard 0: 598016/2803774 documents; 115.3 docs/s
+Shard 1: 626688/2803775 documents; 120.3 docs/s
+Shard 2: 638976/2803775 documents; 122.6 docs/s
+Shard 3: 643072/2803775 documents; 123.3 docs/s
+Shard 0: 602112/2803774 documents; 115.4 docs/s
+Shard 1: 630784/2803775 documents; 120.3 docs/s
+Shard 2: 643072/2803775 documents; 122.6 docs/s
+Shard 3: 647168/2803775 documents; 123.3 docs/s
+Shard 0: 606208/2803774 documents; 115.4 docs/s
+Shard 1: 634880/2803775 documents; 120.3 docs/s
+Shard 2: 647168/2803775 documents; 122.6 docs/s
+Shard 3: 651264/2803775 documents; 123.3 docs/s
+Shard 0: 610304/2803774 documents; 115.4 docs/s
+Shard 1: 638976/2803775 documents; 120.3 docs/s
+Shard 2: 651264/2803775 documents; 122.6 docs/s
+Shard 3: 655360/2803775 documents; 123.3 docs/s
+Shard 0: 614400/2803774 documents; 115.4 docs/s
+Shard 1: 643072/2803775 documents; 120.3 docs/s
+Shard 2: 655360/2803775 documents; 122.6 docs/s
+Shard 3: 659456/2803775 documents; 123.3 docs/s
+Shard 0: 618496/2803774 documents; 115.4 docs/s
+Shard 1: 647168/2803775 documents; 120.3 docs/s
+Shard 2: 659456/2803775 documents; 122.6 docs/s
+Shard 3: 663552/2803775 documents; 123.3 docs/s
+Shard 0: 622592/2803774 documents; 115.4 docs/s
+Shard 2: 663552/2803775 documents; 122.6 docs/s
+Shard 1: 651264/2803775 documents; 120.3 docs/s
+Shard 3: 667648/2803775 documents; 123.3 docs/s
+Shard 0: 626688/2803774 documents; 115.4 docs/s
+Shard 2: 667648/2803775 documents; 122.6 docs/s
+Shard 3: 671744/2803775 documents; 123.4 docs/s
+Shard 1: 655360/2803775 documents; 120.3 docs/s
+Shard 0: 630784/2803774 documents; 115.4 docs/s
+Shard 2: 671744/2803775 documents; 122.6 docs/s
+Shard 3: 675840/2803775 documents; 123.4 docs/s
+Shard 1: 659456/2803775 documents; 120.3 docs/s
+Shard 0: 634880/2803774 documents; 115.4 docs/s
+Shard 3: 679936/2803775 documents; 123.4 docs/s
+Shard 2: 675840/2803775 documents; 122.7 docs/s
+Shard 1: 663552/2803775 documents; 120.3 docs/s
+Shard 0: 638976/2803774 documents; 115.4 docs/s
+Shard 3: 684032/2803775 documents; 123.4 docs/s
+Shard 2: 679936/2803775 documents; 122.7 docs/s
+Shard 1: 667648/2803775 documents; 120.3 docs/s
+Shard 0: 643072/2803774 documents; 115.4 docs/s
+Shard 3: 688128/2803775 documents; 123.4 docs/s
+Shard 2: 684032/2803775 documents; 122.7 docs/s
+Shard 1: 671744/2803775 documents; 120.3 docs/s
+Shard 0: 647168/2803774 documents; 115.4 docs/s
+Shard 3: 692224/2803775 documents; 123.5 docs/s
+Shard 2: 688128/2803775 documents; 122.6 docs/s
+Shard 1: 675840/2803775 documents; 120.3 docs/s
+Shard 3: 696320/2803775 documents; 123.5 docs/s
+Shard 0: 651264/2803774 documents; 115.4 docs/s
+Shard 2: 692224/2803775 documents; 122.6 docs/s
+Shard 1: 679936/2803775 documents; 120.3 docs/s
+Shard 3: 700416/2803775 documents; 123.5 docs/s
+Shard 2: 696320/2803775 documents; 122.6 docs/s
+Shard 0: 655360/2803774 documents; 115.4 docs/s
+Shard 1: 684032/2803775 documents; 120.3 docs/s
+Shard 3: 704512/2803775 documents; 123.6 docs/s
+Shard 2: 700416/2803775 documents; 122.6 docs/s
+Shard 0: 659456/2803774 documents; 115.4 docs/s
+Shard 1: 688128/2803775 documents; 120.3 docs/s
+Shard 3: 708608/2803775 documents; 123.6 docs/s
+Shard 2: 704512/2803775 documents; 122.6 docs/s
+Shard 0: 663552/2803774 documents; 115.4 docs/s
+Shard 1: 692224/2803775 documents; 120.3 docs/s
+Shard 3: 712704/2803775 documents; 123.6 docs/s
+Shard 2: 708608/2803775 documents; 122.6 docs/s
+Shard 0: 667648/2803774 documents; 115.4 docs/s
+Shard 1: 696320/2803775 documents; 120.3 docs/s
+Shard 3: 716800/2803775 documents; 123.6 docs/s
+Shard 2: 712704/2803775 documents; 122.6 docs/s
+Shard 0: 671744/2803774 documents; 115.4 docs/s
+Shard 1: 700416/2803775 documents; 120.3 docs/s
+Shard 3: 720896/2803775 documents; 123.6 docs/s
+Shard 2: 716800/2803775 documents; 122.6 docs/s
+Shard 0: 675840/2803774 documents; 115.4 docs/s
+Shard 1: 704512/2803775 documents; 120.3 docs/s
+Shard 3: 724992/2803775 documents; 123.6 docs/s
+Shard 2: 720896/2803775 documents; 122.6 docs/s
+Shard 1: 708608/2803775 documents; 120.3 docs/s
+Shard 0: 679936/2803774 documents; 115.4 docs/s
+Shard 3: 729088/2803775 documents; 123.6 docs/s
+Shard 2: 724992/2803775 documents; 122.6 docs/s
+Shard 1: 712704/2803775 documents; 120.3 docs/s
+Shard 0: 684032/2803774 documents; 115.4 docs/s
+Shard 3: 733184/2803775 documents; 123.6 docs/s
+Shard 2: 729088/2803775 documents; 122.7 docs/s
+Shard 1: 716800/2803775 documents; 120.3 docs/s
+Shard 3: 737280/2803775 documents; 123.6 docs/s
+Shard 0: 688128/2803774 documents; 115.3 docs/s
+Shard 2: 733184/2803775 documents; 122.7 docs/s
+Shard 1: 720896/2803775 documents; 120.4 docs/s
+Shard 3: 741376/2803775 documents; 123.6 docs/s
+Shard 0: 692224/2803774 documents; 115.3 docs/s
+Shard 2: 737280/2803775 documents; 122.6 docs/s
+Shard 1: 724992/2803775 documents; 120.3 docs/s
+Shard 3: 745472/2803775 documents; 123.6 docs/s
+Shard 0: 696320/2803774 documents; 115.3 docs/s
+Shard 2: 741376/2803775 documents; 122.6 docs/s
+Shard 1: 729088/2803775 documents; 120.3 docs/s
+Shard 3: 749568/2803775 documents; 123.6 docs/s
+Shard 0: 700416/2803774 documents; 115.3 docs/s
+Shard 2: 745472/2803775 documents; 122.6 docs/s
+Shard 1: 733184/2803775 documents; 120.3 docs/s
+Shard 3: 753664/2803775 documents; 123.6 docs/s
+Shard 0: 704512/2803774 documents; 115.3 docs/s
+Shard 2: 749568/2803775 documents; 122.6 docs/s
+Shard 1: 737280/2803775 documents; 120.3 docs/s
+Shard 3: 757760/2803775 documents; 123.5 docs/s
+Shard 2: 753664/2803775 documents; 122.7 docs/s
+Shard 0: 708608/2803774 documents; 115.3 docs/s
+Shard 1: 741376/2803775 documents; 120.2 docs/s
+Shard 3: 761856/2803775 documents; 123.4 docs/s
+Shard 2: 757760/2803775 documents; 122.7 docs/s
+Shard 0: 712704/2803774 documents; 115.3 docs/s
+Shard 1: 745472/2803775 documents; 120.2 docs/s
+Shard 3: 765952/2803775 documents; 123.4 docs/s
+Shard 2: 761856/2803775 documents; 122.7 docs/s
+Shard 0: 716800/2803774 documents; 115.3 docs/s
+Shard 1: 749568/2803775 documents; 120.3 docs/s
+Shard 3: 770048/2803775 documents; 123.5 docs/s
+Shard 2: 765952/2803775 documents; 122.7 docs/s
+Shard 0: 720896/2803774 documents; 115.3 docs/s
+Shard 1: 753664/2803775 documents; 120.2 docs/s
+Shard 3: 774144/2803775 documents; 123.5 docs/s
+Shard 2: 770048/2803775 documents; 122.7 docs/s
+Shard 0: 724992/2803774 documents; 115.3 docs/s
+Shard 1: 757760/2803775 documents; 120.2 docs/s
+Shard 3: 778240/2803775 documents; 123.5 docs/s
+Shard 2: 774144/2803775 documents; 122.7 docs/s
+Shard 0: 729088/2803774 documents; 115.3 docs/s
+Shard 3: 782336/2803775 documents; 123.5 docs/s
+Shard 1: 761856/2803775 documents; 120.2 docs/s
+Shard 2: 778240/2803775 documents; 122.7 docs/s
+Shard 0: 733184/2803774 documents; 115.3 docs/s
+Shard 3: 786432/2803775 documents; 123.4 docs/s
+Shard 1: 765952/2803775 documents; 120.1 docs/s
+Shard 2: 782336/2803775 documents; 122.7 docs/s
+Shard 0: 737280/2803774 documents; 115.3 docs/s
+Shard 3: 790528/2803775 documents; 123.4 docs/s
+Shard 1: 770048/2803775 documents; 120.2 docs/s
+Shard 2: 786432/2803775 documents; 122.7 docs/s
+Shard 0: 741376/2803774 documents; 115.3 docs/s
+Shard 3: 794624/2803775 documents; 123.4 docs/s
+Shard 1: 774144/2803775 documents; 120.1 docs/s
+Shard 2: 790528/2803775 documents; 122.7 docs/s
+Shard 0: 745472/2803774 documents; 115.3 docs/s
+Shard 3: 798720/2803775 documents; 123.4 docs/s
+Shard 2: 794624/2803775 documents; 122.7 docs/s
+Shard 1: 778240/2803775 documents; 120.1 docs/s
+Shard 0: 749568/2803774 documents; 115.3 docs/s
+Shard 3: 802816/2803775 documents; 123.4 docs/s
+Shard 2: 798720/2803775 documents; 122.7 docs/s
+Shard 1: 782336/2803775 documents; 120.1 docs/s
+Shard 0: 753664/2803774 documents; 115.3 docs/s
+Shard 3: 806912/2803775 documents; 123.4 docs/s
+Shard 2: 802816/2803775 documents; 122.7 docs/s
+Shard 1: 786432/2803775 documents; 120.1 docs/s
+Shard 3: 811008/2803775 documents; 123.4 docs/s
+Shard 0: 757760/2803774 documents; 115.3 docs/s
+Shard 2: 806912/2803775 documents; 122.7 docs/s
+Shard 1: 790528/2803775 documents; 120.1 docs/s
+Shard 3: 815104/2803775 documents; 123.4 docs/s
+Shard 0: 761856/2803774 documents; 115.3 docs/s
+Shard 2: 811008/2803775 documents; 122.7 docs/s
+Shard 1: 794624/2803775 documents; 120.1 docs/s
+Shard 3: 819200/2803775 documents; 123.4 docs/s
+Shard 2: 815104/2803775 documents; 122.8 docs/s
+Shard 0: 765952/2803774 documents; 115.2 docs/s
+Shard 1: 798720/2803775 documents; 120.1 docs/s
+Shard 2: 819200/2803775 documents; 122.8 docs/s
+Shard 3: 823296/2803775 documents; 123.3 docs/s
+Shard 0: 770048/2803774 documents; 115.2 docs/s
+Shard 1: 802816/2803775 documents; 120.1 docs/s
+Shard 2: 823296/2803775 documents; 122.8 docs/s
+Shard 3: 827392/2803775 documents; 123.3 docs/s
+Shard 1: 806912/2803775 documents; 120.1 docs/s
+Shard 0: 774144/2803774 documents; 115.2 docs/s
+Shard 2: 827392/2803775 documents; 122.8 docs/s
+Shard 3: 831488/2803775 documents; 123.3 docs/s
+Shard 1: 811008/2803775 documents; 120.1 docs/s
+Shard 0: 778240/2803774 documents; 115.0 docs/s
+Shard 2: 831488/2803775 documents; 122.8 docs/s
+Shard 3: 835584/2803775 documents; 123.3 docs/s
+Shard 1: 815104/2803775 documents; 120.1 docs/s
+Shard 0: 782336/2803774 documents; 115.0 docs/s
+Shard 2: 835584/2803775 documents; 122.8 docs/s
+Shard 3: 839680/2803775 documents; 123.3 docs/s
+Shard 1: 819200/2803775 documents; 120.1 docs/s
+Shard 0: 786432/2803774 documents; 115.0 docs/s
+Shard 2: 839680/2803775 documents; 122.8 docs/s
+Shard 3: 843776/2803775 documents; 123.3 docs/s
+Shard 1: 823296/2803775 documents; 120.0 docs/s
+Shard 0: 790528/2803774 documents; 115.0 docs/s
+Shard 2: 843776/2803775 documents; 122.8 docs/s
+Shard 3: 847872/2803775 documents; 123.3 docs/s
+Shard 1: 827392/2803775 documents; 120.1 docs/s
+Shard 2: 847872/2803775 documents; 122.8 docs/s
+Shard 3: 851968/2803775 documents; 123.4 docs/s
+Shard 0: 794624/2803774 documents; 115.0 docs/s
+Shard 1: 831488/2803775 documents; 120.1 docs/s
+Shard 3: 856064/2803775 documents; 123.4 docs/s
+Shard 2: 851968/2803775 documents; 122.8 docs/s
+Shard 0: 798720/2803774 documents; 115.0 docs/s
+Shard 1: 835584/2803775 documents; 120.1 docs/s
+Shard 3: 860160/2803775 documents; 123.4 docs/s
+Shard 2: 856064/2803775 documents; 122.8 docs/s
+Shard 0: 802816/2803774 documents; 115.0 docs/s
+Shard 1: 839680/2803775 documents; 120.1 docs/s
+Shard 3: 864256/2803775 documents; 123.4 docs/s
+Shard 2: 860160/2803775 documents; 122.8 docs/s
+Shard 0: 806912/2803774 documents; 115.0 docs/s
+Shard 1: 843776/2803775 documents; 120.1 docs/s
+Shard 3: 868352/2803775 documents; 123.3 docs/s
+Shard 2: 864256/2803775 documents; 122.7 docs/s
+Shard 0: 811008/2803774 documents; 115.0 docs/s
+Shard 1: 847872/2803775 documents; 120.1 docs/s
+Shard 3: 872448/2803775 documents; 123.3 docs/s
+Shard 2: 868352/2803775 documents; 122.7 docs/s
+Shard 0: 815104/2803774 documents; 115.0 docs/s
+Shard 1: 851968/2803775 documents; 120.1 docs/s
+Shard 3: 876544/2803775 documents; 123.4 docs/s
+Shard 2: 872448/2803775 documents; 122.8 docs/s
+Shard 0: 819200/2803774 documents; 115.0 docs/s
+Shard 1: 856064/2803775 documents; 120.1 docs/s
+Shard 3: 880640/2803775 documents; 123.4 docs/s
+Shard 2: 876544/2803775 documents; 122.8 docs/s
+Shard 0: 823296/2803774 documents; 115.0 docs/s
+Shard 1: 860160/2803775 documents; 120.0 docs/s
+Shard 3: 884736/2803775 documents; 123.4 docs/s
+Shard 2: 880640/2803775 documents; 122.8 docs/s
+Shard 0: 827392/2803774 documents; 115.0 docs/s
+Shard 1: 864256/2803775 documents; 120.0 docs/s
+Shard 3: 888832/2803775 documents; 123.4 docs/s
+Shard 2: 884736/2803775 documents; 122.8 docs/s
+Shard 0: 831488/2803774 documents; 115.0 docs/s
+Shard 1: 868352/2803775 documents; 120.0 docs/s
+Shard 3: 892928/2803775 documents; 123.4 docs/s
+Shard 2: 888832/2803775 documents; 122.8 docs/s
+Shard 0: 835584/2803774 documents; 115.0 docs/s
+Shard 1: 872448/2803775 documents; 120.1 docs/s
+Shard 2: 892928/2803775 documents; 122.8 docs/s
+Shard 3: 897024/2803775 documents; 123.4 docs/s
+Shard 1: 876544/2803775 documents; 120.0 docs/s
+Shard 0: 839680/2803774 documents; 115.0 docs/s
+Shard 2: 897024/2803775 documents; 122.8 docs/s
+Shard 3: 901120/2803775 documents; 123.4 docs/s
+Shard 1: 880640/2803775 documents; 120.0 docs/s
+Shard 0: 843776/2803774 documents; 115.0 docs/s
+Shard 3: 905216/2803775 documents; 123.4 docs/s
+Shard 2: 901120/2803775 documents; 122.8 docs/s
+Shard 3: 909312/2803775 documents; 123.4 docs/s
+Shard 1: 884736/2803775 documents; 120.0 docs/s
+Shard 2: 905216/2803775 documents; 122.8 docs/s
+Shard 0: 847872/2803774 documents; 115.0 docs/s
+Shard 3: 913408/2803775 documents; 123.4 docs/s
+Shard 1: 888832/2803775 documents; 120.0 docs/s
+Shard 2: 909312/2803775 documents; 122.8 docs/s
+Shard 0: 851968/2803774 documents; 115.0 docs/s
+Shard 3: 917504/2803775 documents; 123.4 docs/s
+Shard 2: 913408/2803775 documents; 122.8 docs/s
+Shard 1: 892928/2803775 documents; 120.0 docs/s
+Shard 0: 856064/2803774 documents; 115.0 docs/s
+Shard 3: 921600/2803775 documents; 123.4 docs/s
+Shard 2: 917504/2803775 documents; 122.8 docs/s
+Shard 1: 897024/2803775 documents; 120.1 docs/s
+Shard 0: 860160/2803774 documents; 115.0 docs/s
+Shard 3: 925696/2803775 documents; 123.4 docs/s
+Shard 2: 921600/2803775 documents; 122.8 docs/s
+Shard 1: 901120/2803775 documents; 120.1 docs/s
+Shard 0: 864256/2803774 documents; 115.0 docs/s
+Shard 3: 929792/2803775 documents; 123.4 docs/s
+Shard 2: 925696/2803775 documents; 122.8 docs/s
+Shard 1: 905216/2803775 documents; 120.1 docs/s
+Shard 0: 868352/2803774 documents; 115.0 docs/s
+Shard 3: 933888/2803775 documents; 123.4 docs/s
+Shard 1: 909312/2803775 documents; 119.9 docs/s
+Shard 2: 929792/2803775 documents; 122.6 docs/s
+Shard 0: 872448/2803774 documents; 114.8 docs/s
+Shard 3: 937984/2803775 documents; 123.3 docs/s
+Shard 2: 933888/2803775 documents; 122.6 docs/s
+Shard 1: 913408/2803775 documents; 119.7 docs/s
+Shard 0: 876544/2803774 documents; 114.8 docs/s
+Shard 3: 942080/2803775 documents; 123.3 docs/s
+Shard 1: 917504/2803775 documents; 119.8 docs/s
+Shard 2: 937984/2803775 documents; 122.4 docs/s
+Shard 0: 880640/2803774 documents; 114.7 docs/s
+Shard 3: 946176/2803775 documents; 122.9 docs/s
+Shard 1: 921600/2803775 documents; 119.7 docs/s
+Shard 2: 942080/2803775 documents; 122.3 docs/s
+Shard 0: 884736/2803774 documents; 114.7 docs/s
+Shard 3: 950272/2803775 documents; 122.9 docs/s
+Shard 1: 925696/2803775 documents; 119.7 docs/s
+Shard 2: 946176/2803775 documents; 122.3 docs/s
+Shard 0: 888832/2803774 documents; 114.7 docs/s
+Shard 1: 929792/2803775 documents; 119.7 docs/s
+Shard 3: 954368/2803775 documents; 122.9 docs/s
+Shard 2: 950272/2803775 documents; 122.3 docs/s
+Shard 0: 892928/2803774 documents; 114.7 docs/s
+Shard 3: 958464/2803775 documents; 122.9 docs/s
+Shard 1: 933888/2803775 documents; 119.7 docs/s
+Shard 2: 954368/2803775 documents; 122.2 docs/s
+Shard 0: 897024/2803774 documents; 114.6 docs/s
+Shard 3: 962560/2803775 documents; 122.9 docs/s
+Shard 1: 937984/2803775 documents; 119.7 docs/s
+Shard 2: 958464/2803775 documents; 122.3 docs/s
+Shard 0: 901120/2803774 documents; 114.7 docs/s
+Shard 3: 966656/2803775 documents; 122.9 docs/s
+Shard 2: 962560/2803775 documents; 122.3 docs/s
+Shard 1: 942080/2803775 documents; 119.7 docs/s
+Shard 0: 905216/2803774 documents; 114.7 docs/s
+Shard 3: 970752/2803775 documents; 122.9 docs/s
+Shard 2: 966656/2803775 documents; 122.3 docs/s
+Shard 1: 946176/2803775 documents; 119.7 docs/s
+Shard 0: 909312/2803774 documents; 114.7 docs/s
+Shard 3: 974848/2803775 documents; 122.9 docs/s
+Shard 2: 970752/2803775 documents; 122.3 docs/s
+Shard 1: 950272/2803775 documents; 119.7 docs/s
+Shard 0: 913408/2803774 documents; 114.7 docs/s
+Shard 3: 978944/2803775 documents; 122.9 docs/s
+Shard 2: 974848/2803775 documents; 122.3 docs/s
+Shard 1: 954368/2803775 documents; 119.7 docs/s
+Shard 0: 917504/2803774 documents; 114.7 docs/s
+Shard 3: 983040/2803775 documents; 122.9 docs/s
+Shard 2: 978944/2803775 documents; 122.2 docs/s
+Shard 1: 958464/2803775 documents; 119.7 docs/s
+Shard 3: 987136/2803775 documents; 122.9 docs/s
+Shard 0: 921600/2803774 documents; 114.7 docs/s
+Shard 1: 962560/2803775 documents; 119.7 docs/s
+Shard 2: 983040/2803775 documents; 122.3 docs/s
+Shard 3: 991232/2803775 documents; 122.9 docs/s
+Shard 0: 925696/2803774 documents; 114.7 docs/s
+Shard 2: 987136/2803775 documents; 122.3 docs/s
+Shard 1: 966656/2803775 documents; 119.7 docs/s
+Shard 3: 995328/2803775 documents; 122.9 docs/s
+Shard 0: 929792/2803774 documents; 114.7 docs/s
+Shard 2: 991232/2803775 documents; 122.3 docs/s
+Shard 1: 970752/2803775 documents; 119.7 docs/s
+Shard 3: 999424/2803775 documents; 122.9 docs/s
+Shard 0: 933888/2803774 documents; 114.7 docs/s
+Shard 1: 974848/2803775 documents; 119.8 docs/s
+Shard 2: 995328/2803775 documents; 122.3 docs/s
+Shard 3: 1003520/2803775 documents; 122.9 docs/s
+Shard 2: 999424/2803775 documents; 122.3 docs/s
+Shard 1: 978944/2803775 documents; 119.8 docs/s
+Shard 0: 937984/2803774 documents; 114.8 docs/s
+Shard 3: 1007616/2803775 documents; 122.9 docs/s
+Shard 2: 1003520/2803775 documents; 122.3 docs/s
+Shard 1: 983040/2803775 documents; 119.8 docs/s
+Shard 0: 942080/2803774 documents; 114.8 docs/s
+Shard 3: 1011712/2803775 documents; 122.9 docs/s
+Shard 2: 1007616/2803775 documents; 122.3 docs/s
+Shard 1: 987136/2803775 documents; 119.8 docs/s
+Shard 0: 946176/2803774 documents; 114.8 docs/s
+Shard 3: 1015808/2803775 documents; 122.8 docs/s
+Shard 2: 1011712/2803775 documents; 122.3 docs/s
+Shard 1: 991232/2803775 documents; 119.8 docs/s
+Shard 0: 950272/2803774 documents; 114.8 docs/s
+Shard 3: 1019904/2803775 documents; 122.8 docs/s
+Shard 2: 1015808/2803775 documents; 122.3 docs/s
+Shard 1: 995328/2803775 documents; 119.9 docs/s
+Shard 0: 954368/2803774 documents; 114.8 docs/s
+Shard 3: 1024000/2803775 documents; 122.8 docs/s
+Shard 2: 1019904/2803775 documents; 122.3 docs/s
+Shard 1: 999424/2803775 documents; 119.9 docs/s
+Shard 0: 958464/2803774 documents; 114.8 docs/s
+Shard 3: 1028096/2803775 documents; 122.8 docs/s
+Shard 2: 1024000/2803775 documents; 122.3 docs/s
+Shard 1: 1003520/2803775 documents; 119.9 docs/s
+Shard 0: 962560/2803774 documents; 114.8 docs/s
+Shard 3: 1032192/2803775 documents; 122.9 docs/s
+Shard 2: 1028096/2803775 documents; 122.3 docs/s
+Shard 1: 1007616/2803775 documents; 119.9 docs/s
+Shard 0: 966656/2803774 documents; 114.8 docs/s
+Shard 3: 1036288/2803775 documents; 122.9 docs/s
+Shard 2: 1032192/2803775 documents; 122.3 docs/s
+Shard 1: 1011712/2803775 documents; 119.9 docs/s
+Shard 0: 970752/2803774 documents; 114.8 docs/s
+Shard 3: 1040384/2803775 documents; 122.9 docs/s
+Shard 2: 1036288/2803775 documents; 122.3 docs/s
+Shard 1: 1015808/2803775 documents; 119.9 docs/s
+Shard 0: 974848/2803774 documents; 114.8 docs/s
+Shard 3: 1044480/2803775 documents; 122.8 docs/s
+Shard 2: 1040384/2803775 documents; 122.3 docs/s
+Shard 1: 1019904/2803775 documents; 119.9 docs/s
+Shard 0: 978944/2803774 documents; 114.8 docs/s
+Shard 3: 1048576/2803775 documents; 122.8 docs/s
+Shard 2: 1044480/2803775 documents; 122.3 docs/s
+Shard 1: 1024000/2803775 documents; 119.9 docs/s
+Shard 0: 983040/2803774 documents; 114.8 docs/s
+Shard 3: 1052672/2803775 documents; 122.9 docs/s
+Shard 2: 1048576/2803775 documents; 122.3 docs/s
+Shard 1: 1028096/2803775 documents; 119.9 docs/s
+Shard 0: 987136/2803774 documents; 114.8 docs/s
+Shard 3: 1056768/2803775 documents; 122.8 docs/s
+Shard 2: 1052672/2803775 documents; 122.3 docs/s
+Shard 1: 1032192/2803775 documents; 119.9 docs/s
+Shard 0: 991232/2803774 documents; 114.8 docs/s
+Shard 3: 1060864/2803775 documents; 122.9 docs/s
+Shard 2: 1056768/2803775 documents; 122.3 docs/s
+Shard 1: 1036288/2803775 documents; 119.9 docs/s
+Shard 3: 1064960/2803775 documents; 122.9 docs/s
+Shard 0: 995328/2803774 documents; 114.8 docs/s
+Shard 2: 1060864/2803775 documents; 122.3 docs/s
+Shard 1: 1040384/2803775 documents; 119.9 docs/s
+Shard 3: 1069056/2803775 documents; 122.9 docs/s
+Shard 0: 999424/2803774 documents; 114.8 docs/s
+Shard 2: 1064960/2803775 documents; 122.3 docs/s
+Shard 1: 1044480/2803775 documents; 119.9 docs/s
+Shard 3: 1073152/2803775 documents; 122.8 docs/s
+Shard 2: 1069056/2803775 documents; 122.3 docs/s
+Shard 0: 1003520/2803774 documents; 114.8 docs/s
+Shard 1: 1048576/2803775 documents; 119.9 docs/s
+Shard 3: 1077248/2803775 documents; 122.9 docs/s
+Shard 2: 1073152/2803775 documents; 122.3 docs/s
+Shard 0: 1007616/2803774 documents; 114.8 docs/s
+Shard 1: 1052672/2803775 documents; 119.9 docs/s
+Shard 3: 1081344/2803775 documents; 122.9 docs/s
+Shard 2: 1077248/2803775 documents; 122.3 docs/s
+Shard 1: 1056768/2803775 documents; 120.0 docs/s
+Shard 0: 1011712/2803774 documents; 114.8 docs/s
+Shard 3: 1085440/2803775 documents; 122.8 docs/s
+Shard 2: 1081344/2803775 documents; 122.3 docs/s
+Shard 1: 1060864/2803775 documents; 120.0 docs/s
+Shard 0: 1015808/2803774 documents; 114.8 docs/s
+Shard 3: 1089536/2803775 documents; 122.8 docs/s
+Shard 2: 1085440/2803775 documents; 122.3 docs/s
+Shard 1: 1064960/2803775 documents; 120.0 docs/s
+Shard 0: 1019904/2803774 documents; 114.8 docs/s
+Shard 3: 1093632/2803775 documents; 122.8 docs/s
+Shard 2: 1089536/2803775 documents; 122.3 docs/s
+Shard 1: 1069056/2803775 documents; 120.0 docs/s
+Shard 0: 1024000/2803774 documents; 114.8 docs/s
+Shard 3: 1097728/2803775 documents; 122.8 docs/s
+Shard 2: 1093632/2803775 documents; 122.3 docs/s
+Shard 1: 1073152/2803775 documents; 120.0 docs/s
+Shard 0: 1028096/2803774 documents; 114.8 docs/s
+Shard 3: 1101824/2803775 documents; 122.8 docs/s
+Shard 2: 1097728/2803775 documents; 122.3 docs/s
+Shard 1: 1077248/2803775 documents; 120.0 docs/s
+Shard 0: 1032192/2803774 documents; 114.8 docs/s
+Shard 3: 1105920/2803775 documents; 122.8 docs/s
+Shard 2: 1101824/2803775 documents; 122.3 docs/s
+Shard 1: 1081344/2803775 documents; 120.0 docs/s
+Shard 0: 1036288/2803774 documents; 114.8 docs/s
+Shard 3: 1110016/2803775 documents; 122.8 docs/s
+Shard 2: 1105920/2803775 documents; 122.3 docs/s
+Shard 1: 1085440/2803775 documents; 120.1 docs/s
+Shard 0: 1040384/2803774 documents; 114.8 docs/s
+Shard 3: 1114112/2803775 documents; 122.8 docs/s
+Shard 1: 1089536/2803775 documents; 120.1 docs/s
+Shard 2: 1110016/2803775 documents; 122.3 docs/s
+Shard 0: 1044480/2803774 documents; 114.8 docs/s
+Shard 3: 1118208/2803775 documents; 122.8 docs/s
+Shard 2: 1114112/2803775 documents; 122.3 docs/s
+Shard 1: 1093632/2803775 documents; 120.1 docs/s
+Shard 0: 1048576/2803774 documents; 114.9 docs/s
+Shard 3: 1122304/2803775 documents; 122.8 docs/s
+Shard 2: 1118208/2803775 documents; 122.3 docs/s
+Shard 1: 1097728/2803775 documents; 120.1 docs/s
+Shard 0: 1052672/2803774 documents; 114.9 docs/s
+Shard 3: 1126400/2803775 documents; 122.8 docs/s
+Shard 2: 1122304/2803775 documents; 122.3 docs/s
+Shard 1: 1101824/2803775 documents; 120.1 docs/s
+Shard 0: 1056768/2803774 documents; 114.9 docs/s
+Shard 3: 1130496/2803775 documents; 122.8 docs/s
+Shard 2: 1126400/2803775 documents; 122.3 docs/s
+Shard 1: 1105920/2803775 documents; 120.1 docs/s
+Shard 3: 1134592/2803775 documents; 122.8 docs/s
+Shard 0: 1060864/2803774 documents; 114.8 docs/s
+Shard 2: 1130496/2803775 documents; 122.3 docs/s
+Shard 1: 1110016/2803775 documents; 120.1 docs/s
+Shard 3: 1138688/2803775 documents; 122.8 docs/s
+Shard 2: 1134592/2803775 documents; 122.3 docs/s
+Shard 0: 1064960/2803774 documents; 114.8 docs/s
+Shard 1: 1114112/2803775 documents; 120.1 docs/s
+Shard 3: 1142784/2803775 documents; 122.8 docs/s
+Shard 2: 1138688/2803775 documents; 122.3 docs/s
+Shard 0: 1069056/2803774 documents; 114.8 docs/s
+Shard 1: 1118208/2803775 documents; 120.1 docs/s
+Shard 3: 1146880/2803775 documents; 122.8 docs/s
+Shard 2: 1142784/2803775 documents; 122.3 docs/s
+Shard 0: 1073152/2803774 documents; 114.8 docs/s
+Shard 1: 1122304/2803775 documents; 120.1 docs/s
+Shard 3: 1150976/2803775 documents; 122.8 docs/s
+Shard 2: 1146880/2803775 documents; 122.4 docs/s
+Shard 1: 1126400/2803775 documents; 120.1 docs/s
+Shard 0: 1077248/2803774 documents; 114.8 docs/s
+Shard 3: 1155072/2803775 documents; 122.8 docs/s
+Shard 2: 1150976/2803775 documents; 122.4 docs/s
+Shard 1: 1130496/2803775 documents; 120.1 docs/s
+Shard 0: 1081344/2803774 documents; 114.9 docs/s
+Shard 2: 1155072/2803775 documents; 122.4 docs/s
+Shard 3: 1159168/2803775 documents; 122.7 docs/s
+Shard 1: 1134592/2803775 documents; 120.1 docs/s
+Shard 0: 1085440/2803774 documents; 114.8 docs/s
+Shard 3: 1163264/2803775 documents; 122.8 docs/s
+Shard 1: 1138688/2803775 documents; 120.1 docs/s
+Shard 2: 1159168/2803775 documents; 122.3 docs/s
+Shard 0: 1089536/2803774 documents; 114.7 docs/s
+Shard 3: 1167360/2803775 documents; 122.7 docs/s
+Shard 2: 1163264/2803775 documents; 122.3 docs/s
+Shard 1: 1142784/2803775 documents; 120.0 docs/s
+Shard 0: 1093632/2803774 documents; 114.7 docs/s
+Shard 3: 1171456/2803775 documents; 122.7 docs/s
+Shard 2: 1167360/2803775 documents; 122.3 docs/s
+Shard 1: 1146880/2803775 documents; 120.1 docs/s
+Shard 0: 1097728/2803774 documents; 114.7 docs/s
+Shard 3: 1175552/2803775 documents; 122.8 docs/s
+Shard 2: 1171456/2803775 documents; 122.3 docs/s
+Shard 1: 1150976/2803775 documents; 120.1 docs/s
+Shard 0: 1101824/2803774 documents; 114.7 docs/s
+Shard 3: 1179648/2803775 documents; 122.7 docs/s
+Shard 2: 1175552/2803775 documents; 122.3 docs/s
+Shard 1: 1155072/2803775 documents; 120.1 docs/s
+Shard 0: 1105920/2803774 documents; 114.7 docs/s
+Shard 3: 1183744/2803775 documents; 122.7 docs/s
+Shard 2: 1179648/2803775 documents; 122.3 docs/s
+Shard 1: 1159168/2803775 documents; 120.1 docs/s
+Shard 0: 1110016/2803774 documents; 114.7 docs/s
+Shard 3: 1187840/2803775 documents; 122.7 docs/s
+Shard 2: 1183744/2803775 documents; 122.3 docs/s
+Shard 1: 1163264/2803775 documents; 120.1 docs/s
+Shard 0: 1114112/2803774 documents; 114.8 docs/s
+Shard 3: 1191936/2803775 documents; 122.7 docs/s
+Shard 2: 1187840/2803775 documents; 122.3 docs/s
+Shard 1: 1167360/2803775 documents; 120.1 docs/s
+Shard 0: 1118208/2803774 documents; 114.8 docs/s
+Shard 3: 1196032/2803775 documents; 122.7 docs/s
+Shard 2: 1191936/2803775 documents; 122.3 docs/s
+Shard 1: 1171456/2803775 documents; 120.1 docs/s
+Shard 3: 1200128/2803775 documents; 122.7 docs/s
+Shard 2: 1196032/2803775 documents; 122.3 docs/s
+Shard 0: 1122304/2803774 documents; 114.8 docs/s
+Shard 1: 1175552/2803775 documents; 120.1 docs/s
+Shard 3: 1204224/2803775 documents; 122.7 docs/s
+Shard 2: 1200128/2803775 documents; 122.3 docs/s
+Shard 0: 1126400/2803774 documents; 114.8 docs/s
+Shard 1: 1179648/2803775 documents; 120.1 docs/s
+Shard 2: 1204224/2803775 documents; 122.3 docs/s
+Shard 3: 1208320/2803775 documents; 122.7 docs/s
+Shard 0: 1130496/2803774 documents; 114.8 docs/s
+Shard 1: 1183744/2803775 documents; 120.1 docs/s
+Shard 2: 1208320/2803775 documents; 122.3 docs/s
+Shard 3: 1212416/2803775 documents; 122.7 docs/s
+Shard 0: 1134592/2803774 documents; 114.8 docs/s
+Shard 1: 1187840/2803775 documents; 120.0 docs/s
+Shard 2: 1212416/2803775 documents; 122.3 docs/s
+Shard 3: 1216512/2803775 documents; 122.7 docs/s
+Shard 0: 1138688/2803774 documents; 114.8 docs/s
+Shard 1: 1191936/2803775 documents; 120.0 docs/s
+Shard 2: 1216512/2803775 documents; 122.3 docs/s
+Shard 0: 1142784/2803774 documents; 114.8 docs/s
+Shard 3: 1220608/2803775 documents; 122.6 docs/s
+Shard 1: 1196032/2803775 documents; 120.0 docs/s
+Shard 2: 1220608/2803775 documents; 122.3 docs/s
+Shard 3: 1224704/2803775 documents; 122.6 docs/s
+Shard 0: 1146880/2803774 documents; 114.8 docs/s
+Shard 1: 1200128/2803775 documents; 120.0 docs/s
+Shard 2: 1224704/2803775 documents; 122.3 docs/s
+Shard 3: 1228800/2803775 documents; 122.6 docs/s
+Shard 0: 1150976/2803774 documents; 114.8 docs/s
+Shard 1: 1204224/2803775 documents; 120.0 docs/s
+Shard 2: 1228800/2803775 documents; 122.3 docs/s
+Shard 3: 1232896/2803775 documents; 122.6 docs/s
+Shard 0: 1155072/2803774 documents; 114.8 docs/s
+Shard 1: 1208320/2803775 documents; 120.0 docs/s
+Shard 2: 1232896/2803775 documents; 122.3 docs/s
+Shard 3: 1236992/2803775 documents; 122.6 docs/s
+Shard 0: 1159168/2803774 documents; 114.8 docs/s
+Shard 1: 1212416/2803775 documents; 119.9 docs/s
+Shard 2: 1236992/2803775 documents; 122.3 docs/s
+Shard 3: 1241088/2803775 documents; 122.6 docs/s
+Shard 0: 1163264/2803774 documents; 114.8 docs/s
+Shard 1: 1216512/2803775 documents; 119.9 docs/s
+Shard 2: 1241088/2803775 documents; 122.3 docs/s
+Shard 3: 1245184/2803775 documents; 122.6 docs/s
+Shard 0: 1167360/2803774 documents; 114.8 docs/s
+Shard 1: 1220608/2803775 documents; 119.9 docs/s
+Shard 2: 1245184/2803775 documents; 122.3 docs/s
+Shard 3: 1249280/2803775 documents; 122.6 docs/s
+Shard 0: 1171456/2803774 documents; 114.8 docs/s
+Shard 1: 1224704/2803775 documents; 119.9 docs/s
+Shard 2: 1249280/2803775 documents; 122.3 docs/s
+Shard 3: 1253376/2803775 documents; 122.6 docs/s
+Shard 0: 1175552/2803774 documents; 114.8 docs/s
+Shard 1: 1228800/2803775 documents; 119.9 docs/s
+Shard 2: 1253376/2803775 documents; 122.3 docs/s
+Shard 3: 1257472/2803775 documents; 122.6 docs/s
+Shard 0: 1179648/2803774 documents; 114.8 docs/s
+Shard 1: 1232896/2803775 documents; 119.9 docs/s
+Shard 2: 1257472/2803775 documents; 122.3 docs/s
+Shard 3: 1261568/2803775 documents; 122.5 docs/s
+Shard 0: 1183744/2803774 documents; 114.7 docs/s
+Shard 1: 1236992/2803775 documents; 119.9 docs/s
+Shard 2: 1261568/2803775 documents; 122.2 docs/s
+Shard 3: 1265664/2803775 documents; 122.4 docs/s
+Shard 1: 1241088/2803775 documents; 119.9 docs/s
+Shard 2: 1265664/2803775 documents; 122.2 docs/s
+Shard 0: 1187840/2803774 documents; 114.7 docs/s
+Shard 3: 1269760/2803775 documents; 122.3 docs/s
+Shard 2: 1269760/2803775 documents; 122.2 docs/s
+Shard 1: 1245184/2803775 documents; 119.9 docs/s
+Shard 0: 1191936/2803774 documents; 114.7 docs/s
+Shard 3: 1273856/2803775 documents; 122.3 docs/s
+Shard 2: 1273856/2803775 documents; 122.2 docs/s
+Shard 1: 1249280/2803775 documents; 119.9 docs/s
+Shard 0: 1196032/2803774 documents; 114.7 docs/s
+Shard 3: 1277952/2803775 documents; 122.3 docs/s
+Shard 2: 1277952/2803775 documents; 122.2 docs/s
+Shard 1: 1253376/2803775 documents; 119.9 docs/s
+Shard 0: 1200128/2803774 documents; 114.6 docs/s
+Shard 3: 1282048/2803775 documents; 122.2 docs/s
+Shard 2: 1282048/2803775 documents; 122.2 docs/s
+Shard 1: 1257472/2803775 documents; 119.8 docs/s
+Shard 0: 1204224/2803774 documents; 114.5 docs/s
+Shard 3: 1286144/2803775 documents; 122.2 docs/s
+Shard 2: 1286144/2803775 documents; 122.2 docs/s
+Shard 1: 1261568/2803775 documents; 119.8 docs/s
+Shard 0: 1208320/2803774 documents; 114.5 docs/s
+Shard 3: 1290240/2803775 documents; 122.2 docs/s
+Shard 2: 1290240/2803775 documents; 122.2 docs/s
+Shard 1: 1265664/2803775 documents; 119.7 docs/s
+Shard 0: 1212416/2803774 documents; 114.4 docs/s
+Shard 2: 1294336/2803775 documents; 122.1 docs/s
+Shard 3: 1294336/2803775 documents; 122.1 docs/s
+Shard 1: 1269760/2803775 documents; 119.7 docs/s
+Shard 2: 1298432/2803775 documents; 122.1 docs/s
+Shard 3: 1298432/2803775 documents; 122.1 docs/s
+Shard 0: 1216512/2803774 documents; 114.4 docs/s
+Shard 1: 1273856/2803775 documents; 119.7 docs/s
+Shard 2: 1302528/2803775 documents; 122.1 docs/s
+Shard 3: 1302528/2803775 documents; 122.0 docs/s
+Shard 0: 1220608/2803774 documents; 114.4 docs/s
+Shard 1: 1277952/2803775 documents; 119.7 docs/s
+Shard 3: 1306624/2803775 documents; 122.0 docs/s
+Shard 2: 1306624/2803775 documents; 122.0 docs/s
+Shard 0: 1224704/2803774 documents; 114.3 docs/s
+Shard 1: 1282048/2803775 documents; 119.7 docs/s
+Shard 2: 1310720/2803775 documents; 122.0 docs/s
+Shard 3: 1310720/2803775 documents; 122.0 docs/s
+Shard 1: 1286144/2803775 documents; 119.7 docs/s
+Shard 0: 1228800/2803774 documents; 114.3 docs/s
+Shard 2: 1314816/2803775 documents; 122.0 docs/s
+Shard 3: 1314816/2803775 documents; 122.0 docs/s
+Shard 1: 1290240/2803775 documents; 119.6 docs/s
+Shard 0: 1232896/2803774 documents; 114.3 docs/s
+Shard 2: 1318912/2803775 documents; 122.0 docs/s
+Shard 3: 1318912/2803775 documents; 121.8 docs/s
+Shard 1: 1294336/2803775 documents; 119.4 docs/s
+Shard 3: 1323008/2803775 documents; 121.5 docs/s
+Shard 0: 1236992/2803774 documents; 113.6 docs/s
+Shard 2: 1323008/2803775 documents; 121.5 docs/s
+Shard 1: 1298432/2803775 documents; 119.2 docs/s
+Shard 3: 1327104/2803775 documents; 121.5 docs/s
+Shard 0: 1241088/2803774 documents; 113.6 docs/s
+Shard 1: 1302528/2803775 documents; 119.2 docs/s
+Shard 2: 1327104/2803775 documents; 121.5 docs/s
+Shard 3: 1331200/2803775 documents; 121.5 docs/s
+Shard 0: 1245184/2803774 documents; 113.6 docs/s
+Shard 1: 1306624/2803775 documents; 119.2 docs/s
+Shard 2: 1331200/2803775 documents; 121.4 docs/s
+Shard 0: 1249280/2803774 documents; 113.6 docs/s
+Shard 3: 1335296/2803775 documents; 121.4 docs/s
+Shard 2: 1335296/2803775 documents; 121.4 docs/s
+Shard 1: 1310720/2803775 documents; 119.2 docs/s
+Shard 3: 1339392/2803775 documents; 121.4 docs/s
+Shard 0: 1253376/2803774 documents; 113.6 docs/s
+Shard 2: 1339392/2803775 documents; 121.4 docs/s
+Shard 1: 1314816/2803775 documents; 119.1 docs/s
+Shard 2: 1343488/2803775 documents; 121.4 docs/s
+Shard 3: 1343488/2803775 documents; 121.4 docs/s
+Shard 0: 1257472/2803774 documents; 113.6 docs/s
+Shard 1: 1318912/2803775 documents; 119.0 docs/s
+Shard 3: 1347584/2803775 documents; 121.4 docs/s
+Shard 0: 1261568/2803774 documents; 113.6 docs/s
+Shard 2: 1347584/2803775 documents; 121.2 docs/s
+Shard 1: 1323008/2803775 documents; 119.0 docs/s
+Shard 3: 1351680/2803775 documents; 121.4 docs/s
+Shard 0: 1265664/2803774 documents; 113.6 docs/s
+Shard 2: 1351680/2803775 documents; 121.2 docs/s
+Shard 1: 1327104/2803775 documents; 119.0 docs/s
+Shard 3: 1355776/2803775 documents; 121.4 docs/s
+Shard 0: 1269760/2803774 documents; 113.6 docs/s
+Shard 2: 1355776/2803775 documents; 121.2 docs/s
+Shard 1: 1331200/2803775 documents; 119.0 docs/s
+Shard 3: 1359872/2803775 documents; 121.3 docs/s
+Shard 0: 1273856/2803774 documents; 113.6 docs/s
+Shard 2: 1359872/2803775 documents; 121.2 docs/s
+Shard 1: 1335296/2803775 documents; 119.0 docs/s
+Shard 3: 1363968/2803775 documents; 121.3 docs/s
+Shard 0: 1277952/2803774 documents; 113.6 docs/s
+Shard 2: 1363968/2803775 documents; 121.2 docs/s
+Shard 1: 1339392/2803775 documents; 119.0 docs/s
+Shard 3: 1368064/2803775 documents; 121.4 docs/s
+Shard 0: 1282048/2803774 documents; 113.6 docs/s
+Shard 1: 1343488/2803775 documents; 119.0 docs/s
+Shard 2: 1368064/2803775 documents; 121.1 docs/s
+Shard 3: 1372160/2803775 documents; 121.3 docs/s
+Shard 1: 1347584/2803775 documents; 119.0 docs/s
+Shard 0: 1286144/2803774 documents; 113.6 docs/s
+Shard 2: 1372160/2803775 documents; 121.1 docs/s
+Shard 3: 1376256/2803775 documents; 121.3 docs/s
+Shard 1: 1351680/2803775 documents; 119.0 docs/s
+Shard 0: 1290240/2803774 documents; 113.6 docs/s
+Shard 2: 1376256/2803775 documents; 121.1 docs/s
+Shard 3: 1380352/2803775 documents; 121.1 docs/s
+Shard 1: 1355776/2803775 documents; 119.0 docs/s
+Shard 0: 1294336/2803774 documents; 113.6 docs/s
+Shard 2: 1380352/2803775 documents; 121.0 docs/s
+Shard 3: 1384448/2803775 documents; 121.1 docs/s
+Shard 1: 1359872/2803775 documents; 118.9 docs/s
+Shard 0: 1298432/2803774 documents; 113.5 docs/s
+Shard 2: 1384448/2803775 documents; 121.0 docs/s
+Shard 3: 1388544/2803775 documents; 121.1 docs/s
+Shard 1: 1363968/2803775 documents; 118.9 docs/s
+Shard 2: 1388544/2803775 documents; 121.0 docs/s
+Shard 0: 1302528/2803774 documents; 113.5 docs/s
+Shard 3: 1392640/2803775 documents; 121.1 docs/s
+Shard 1: 1368064/2803775 documents; 118.9 docs/s
+Shard 2: 1392640/2803775 documents; 121.0 docs/s
+Shard 0: 1306624/2803774 documents; 113.5 docs/s
+Shard 3: 1396736/2803775 documents; 121.1 docs/s
+Shard 2: 1396736/2803775 documents; 121.0 docs/s
+Shard 1: 1372160/2803775 documents; 118.9 docs/s
+Shard 0: 1310720/2803774 documents; 113.5 docs/s
+Shard 3: 1400832/2803775 documents; 121.1 docs/s
+Shard 1: 1376256/2803775 documents; 118.9 docs/s
+Shard 2: 1400832/2803775 documents; 121.0 docs/s
+Shard 0: 1314816/2803774 documents; 113.5 docs/s
+Shard 3: 1404928/2803775 documents; 121.1 docs/s
+Shard 1: 1380352/2803775 documents; 118.9 docs/s
+Shard 2: 1404928/2803775 documents; 120.9 docs/s
+Shard 0: 1318912/2803774 documents; 113.5 docs/s
+Shard 3: 1409024/2803775 documents; 121.0 docs/s
+Shard 1: 1384448/2803775 documents; 118.9 docs/s
+Shard 2: 1409024/2803775 documents; 120.8 docs/s
+Shard 0: 1323008/2803774 documents; 113.4 docs/s
+Shard 3: 1413120/2803775 documents; 121.0 docs/s
+Shard 1: 1388544/2803775 documents; 118.8 docs/s
+Shard 2: 1413120/2803775 documents; 120.8 docs/s
+Shard 0: 1327104/2803774 documents; 113.4 docs/s
+Shard 3: 1417216/2803775 documents; 121.0 docs/s
+Shard 1: 1392640/2803775 documents; 118.8 docs/s
+Shard 2: 1417216/2803775 documents; 120.8 docs/s
+Shard 0: 1331200/2803774 documents; 113.5 docs/s
+Shard 3: 1421312/2803775 documents; 121.0 docs/s
+Shard 1: 1396736/2803775 documents; 118.8 docs/s
+Shard 2: 1421312/2803775 documents; 120.8 docs/s
+Shard 0: 1335296/2803774 documents; 113.5 docs/s
+Shard 3: 1425408/2803775 documents; 121.0 docs/s
+Shard 1: 1400832/2803775 documents; 118.8 docs/s
+Shard 2: 1425408/2803775 documents; 120.8 docs/s
+Shard 0: 1339392/2803774 documents; 113.4 docs/s
+Shard 3: 1429504/2803775 documents; 121.1 docs/s
+Shard 1: 1404928/2803775 documents; 118.8 docs/s
+Shard 2: 1429504/2803775 documents; 120.7 docs/s
+Shard 0: 1343488/2803774 documents; 113.4 docs/s
+Shard 3: 1433600/2803775 documents; 121.0 docs/s
+Shard 1: 1409024/2803775 documents; 118.8 docs/s
+Shard 3: 1437696/2803775 documents; 121.0 docs/s
+Shard 0: 1347584/2803774 documents; 113.4 docs/s
+Shard 2: 1433600/2803775 documents; 120.6 docs/s
+Shard 1: 1413120/2803775 documents; 118.8 docs/s
+Shard 3: 1441792/2803775 documents; 121.0 docs/s
+Shard 2: 1437696/2803775 documents; 120.6 docs/s
+Shard 0: 1351680/2803774 documents; 113.4 docs/s
+Shard 1: 1417216/2803775 documents; 118.8 docs/s
+Shard 3: 1445888/2803775 documents; 121.0 docs/s
+Shard 2: 1441792/2803775 documents; 120.6 docs/s
+Shard 0: 1355776/2803774 documents; 113.4 docs/s
+Shard 1: 1421312/2803775 documents; 118.8 docs/s
+Shard 3: 1449984/2803775 documents; 121.0 docs/s
+Shard 2: 1445888/2803775 documents; 120.6 docs/s
+Shard 0: 1359872/2803774 documents; 113.4 docs/s
+Shard 1: 1425408/2803775 documents; 118.8 docs/s
+Shard 2: 1449984/2803775 documents; 120.6 docs/s
+Shard 3: 1454080/2803775 documents; 120.9 docs/s
+Shard 0: 1363968/2803774 documents; 113.4 docs/s
+Shard 1: 1429504/2803775 documents; 118.7 docs/s
+Shard 2: 1454080/2803775 documents; 120.6 docs/s
+Shard 3: 1458176/2803775 documents; 120.9 docs/s
+Shard 0: 1368064/2803774 documents; 113.3 docs/s
+Shard 1: 1433600/2803775 documents; 118.7 docs/s
+Shard 2: 1458176/2803775 documents; 120.6 docs/s
+Shard 3: 1462272/2803775 documents; 120.9 docs/s
+Shard 0: 1372160/2803774 documents; 113.3 docs/s
+Shard 1: 1437696/2803775 documents; 118.7 docs/s
+Shard 2: 1462272/2803775 documents; 120.6 docs/s
+Shard 3: 1466368/2803775 documents; 120.8 docs/s
+Shard 0: 1376256/2803774 documents; 113.4 docs/s
+Shard 1: 1441792/2803775 documents; 118.7 docs/s
+Shard 2: 1466368/2803775 documents; 120.6 docs/s
+Shard 3: 1470464/2803775 documents; 120.8 docs/s
+Shard 0: 1380352/2803774 documents; 113.4 docs/s
+Shard 1: 1445888/2803775 documents; 118.7 docs/s
+Shard 2: 1470464/2803775 documents; 120.6 docs/s
+Shard 3: 1474560/2803775 documents; 120.8 docs/s
+Shard 0: 1384448/2803774 documents; 113.3 docs/s
+Shard 1: 1449984/2803775 documents; 118.7 docs/s
+Shard 2: 1474560/2803775 documents; 120.6 docs/s
+Shard 3: 1478656/2803775 documents; 120.8 docs/s
+Shard 0: 1388544/2803774 documents; 113.3 docs/s
+Shard 1: 1454080/2803775 documents; 118.7 docs/s
+Shard 2: 1478656/2803775 documents; 120.5 docs/s
+Shard 3: 1482752/2803775 documents; 120.8 docs/s
+Shard 0: 1392640/2803774 documents; 113.3 docs/s
+Shard 1: 1458176/2803775 documents; 118.6 docs/s
+Shard 2: 1482752/2803775 documents; 120.5 docs/s
+Shard 3: 1486848/2803775 documents; 120.8 docs/s
+Shard 1: 1462272/2803775 documents; 118.6 docs/s
+Shard 0: 1396736/2803774 documents; 113.3 docs/s
+Shard 2: 1486848/2803775 documents; 120.5 docs/s
+Shard 3: 1490944/2803775 documents; 120.7 docs/s
+Shard 0: 1400832/2803774 documents; 113.3 docs/s
+Shard 1: 1466368/2803775 documents; 118.6 docs/s
+Shard 2: 1490944/2803775 documents; 120.5 docs/s
+Shard 3: 1495040/2803775 documents; 120.7 docs/s
+Shard 1: 1470464/2803775 documents; 118.6 docs/s
+Shard 0: 1404928/2803774 documents; 113.3 docs/s
+Shard 2: 1495040/2803775 documents; 120.5 docs/s
+Shard 3: 1499136/2803775 documents; 120.7 docs/s
+Shard 1: 1474560/2803775 documents; 118.6 docs/s
+Shard 0: 1409024/2803774 documents; 113.3 docs/s
+Shard 2: 1499136/2803775 documents; 120.5 docs/s
+Shard 3: 1503232/2803775 documents; 120.7 docs/s
+Shard 1: 1478656/2803775 documents; 118.6 docs/s
+Shard 2: 1503232/2803775 documents; 120.5 docs/s
+Shard 0: 1413120/2803774 documents; 113.3 docs/s
+Shard 3: 1507328/2803775 documents; 120.7 docs/s
+Shard 1: 1482752/2803775 documents; 118.6 docs/s
+Shard 2: 1507328/2803775 documents; 120.5 docs/s
+Shard 0: 1417216/2803774 documents; 113.2 docs/s
+Shard 3: 1511424/2803775 documents; 120.7 docs/s
+Shard 1: 1486848/2803775 documents; 118.6 docs/s
+Shard 2: 1511424/2803775 documents; 120.5 docs/s
+Shard 0: 1421312/2803774 documents; 113.2 docs/s
+Shard 3: 1515520/2803775 documents; 120.7 docs/s
+Shard 1: 1490944/2803775 documents; 118.6 docs/s
+Shard 2: 1515520/2803775 documents; 120.5 docs/s
+Shard 0: 1425408/2803774 documents; 113.2 docs/s
+Shard 3: 1519616/2803775 documents; 120.7 docs/s
+Shard 1: 1495040/2803775 documents; 118.6 docs/s
+Shard 2: 1519616/2803775 documents; 120.5 docs/s
+Shard 0: 1429504/2803774 documents; 113.2 docs/s
+Shard 3: 1523712/2803775 documents; 120.7 docs/s
+Shard 1: 1499136/2803775 documents; 118.6 docs/s
+Shard 2: 1523712/2803775 documents; 120.5 docs/s
+Shard 3: 1527808/2803775 documents; 120.6 docs/s
+Shard 0: 1433600/2803774 documents; 113.2 docs/s
+Shard 1: 1503232/2803775 documents; 118.6 docs/s
+Shard 2: 1527808/2803775 documents; 120.5 docs/s
+Shard 3: 1531904/2803775 documents; 120.6 docs/s
+Shard 0: 1437696/2803774 documents; 113.2 docs/s
+Shard 1: 1507328/2803775 documents; 118.6 docs/s
+Shard 2: 1531904/2803775 documents; 120.5 docs/s
+Shard 3: 1536000/2803775 documents; 120.6 docs/s
+Shard 1: 1511424/2803775 documents; 118.7 docs/s
+Shard 0: 1441792/2803774 documents; 113.2 docs/s
+Shard 2: 1536000/2803775 documents; 120.5 docs/s
+Shard 3: 1540096/2803775 documents; 120.6 docs/s
+Shard 1: 1515520/2803775 documents; 118.7 docs/s
+Shard 0: 1445888/2803774 documents; 113.2 docs/s
+Shard 2: 1540096/2803775 documents; 120.5 docs/s
+Shard 3: 1544192/2803775 documents; 120.6 docs/s
+Shard 1: 1519616/2803775 documents; 118.7 docs/s
+Shard 0: 1449984/2803774 documents; 113.2 docs/s
+Shard 2: 1544192/2803775 documents; 120.5 docs/s
+Shard 3: 1548288/2803775 documents; 120.6 docs/s
+Shard 1: 1523712/2803775 documents; 118.7 docs/s
+Shard 0: 1454080/2803774 documents; 113.2 docs/s
+Shard 2: 1548288/2803775 documents; 120.5 docs/s
+Shard 3: 1552384/2803775 documents; 120.6 docs/s
+Shard 1: 1527808/2803775 documents; 118.7 docs/s
+Shard 0: 1458176/2803774 documents; 113.2 docs/s
+Shard 2: 1552384/2803775 documents; 120.4 docs/s
+Shard 3: 1556480/2803775 documents; 120.6 docs/s
+Shard 1: 1531904/2803775 documents; 118.7 docs/s
+Shard 0: 1462272/2803774 documents; 113.2 docs/s
+Shard 2: 1556480/2803775 documents; 120.4 docs/s
+Shard 3: 1560576/2803775 documents; 120.6 docs/s
+Shard 1: 1536000/2803775 documents; 118.7 docs/s
+Shard 0: 1466368/2803774 documents; 113.2 docs/s
+Shard 2: 1560576/2803775 documents; 120.4 docs/s
+Shard 3: 1564672/2803775 documents; 120.6 docs/s
+Shard 1: 1540096/2803775 documents; 118.7 docs/s
+Shard 0: 1470464/2803774 documents; 113.1 docs/s
+Shard 2: 1564672/2803775 documents; 120.3 docs/s
+Shard 3: 1568768/2803775 documents; 120.6 docs/s
+Shard 1: 1544192/2803775 documents; 118.7 docs/s
+Shard 2: 1568768/2803775 documents; 120.3 docs/s
+Shard 3: 1572864/2803775 documents; 120.6 docs/s
+Shard 0: 1474560/2803774 documents; 113.1 docs/s
+Shard 1: 1548288/2803775 documents; 118.7 docs/s
+Shard 2: 1572864/2803775 documents; 120.3 docs/s
+Shard 3: 1576960/2803775 documents; 120.6 docs/s
+Shard 1: 1552384/2803775 documents; 118.7 docs/s
+Shard 0: 1478656/2803774 documents; 113.0 docs/s
+Shard 2: 1576960/2803775 documents; 120.3 docs/s
+Shard 3: 1581056/2803775 documents; 120.6 docs/s
+Shard 1: 1556480/2803775 documents; 118.7 docs/s
+Shard 0: 1482752/2803774 documents; 113.0 docs/s
+Shard 2: 1581056/2803775 documents; 120.3 docs/s
+Shard 3: 1585152/2803775 documents; 120.6 docs/s
+Shard 1: 1560576/2803775 documents; 118.7 docs/s
+Shard 0: 1486848/2803774 documents; 113.0 docs/s
+Shard 2: 1585152/2803775 documents; 120.3 docs/s
+Shard 3: 1589248/2803775 documents; 120.6 docs/s
+Shard 1: 1564672/2803775 documents; 118.7 docs/s
+Shard 0: 1490944/2803774 documents; 113.0 docs/s
+Shard 2: 1589248/2803775 documents; 120.3 docs/s
+Shard 3: 1593344/2803775 documents; 120.6 docs/s
+Shard 0: 1495040/2803774 documents; 113.0 docs/s
+Shard 1: 1568768/2803775 documents; 118.6 docs/s
+Shard 2: 1593344/2803775 documents; 120.3 docs/s
+Shard 3: 1597440/2803775 documents; 120.6 docs/s
+Shard 0: 1499136/2803774 documents; 113.0 docs/s
+Shard 1: 1572864/2803775 documents; 118.5 docs/s
+Shard 2: 1597440/2803775 documents; 120.3 docs/s
+Shard 3: 1601536/2803775 documents; 120.6 docs/s
+Shard 1: 1576960/2803775 documents; 118.6 docs/s
+Shard 0: 1503232/2803774 documents; 113.0 docs/s
+Shard 2: 1601536/2803775 documents; 120.4 docs/s
+Shard 3: 1605632/2803775 documents; 120.6 docs/s
+Shard 1: 1581056/2803775 documents; 118.6 docs/s
+Shard 3: 1609728/2803775 documents; 120.7 docs/s
+Shard 2: 1605632/2803775 documents; 120.2 docs/s
+Shard 1: 1585152/2803775 documents; 118.6 docs/s
+Shard 3: 1613824/2803775 documents; 120.6 docs/s
+Shard 2: 1609728/2803775 documents; 120.2 docs/s
+Shard 1: 1589248/2803775 documents; 118.6 docs/s
+Shard 0: 1507328/2803774 documents; 112.4 docs/s
+Shard 3: 1617920/2803775 documents; 120.6 docs/s
+Shard 2: 1613824/2803775 documents; 119.8 docs/s
+Shard 3: 1622016/2803775 documents; 120.4 docs/s
+Shard 0: 1511424/2803774 documents; 112.2 docs/s
+Shard 1: 1593344/2803775 documents; 118.3 docs/s
+Shard 2: 1617920/2803775 documents; 119.8 docs/s
+Shard 3: 1626112/2803775 documents; 120.4 docs/s
+Shard 0: 1515520/2803774 documents; 112.2 docs/s
+Shard 1: 1597440/2803775 documents; 118.3 docs/s
+Shard 3: 1630208/2803775 documents; 120.4 docs/s
+Shard 2: 1622016/2803775 documents; 119.8 docs/s
+Shard 0: 1519616/2803774 documents; 112.2 docs/s
+Shard 1: 1601536/2803775 documents; 118.2 docs/s
+Shard 2: 1626112/2803775 documents; 119.8 docs/s
+Shard 3: 1634304/2803775 documents; 120.4 docs/s
+Shard 0: 1523712/2803774 documents; 112.2 docs/s
+Shard 1: 1605632/2803775 documents; 118.2 docs/s
+Shard 2: 1630208/2803775 documents; 119.8 docs/s
+Shard 3: 1638400/2803775 documents; 120.4 docs/s
+Shard 1: 1609728/2803775 documents; 118.2 docs/s
+Shard 0: 1527808/2803774 documents; 112.2 docs/s
+Shard 2: 1634304/2803775 documents; 119.8 docs/s
+Shard 3: 1642496/2803775 documents; 120.4 docs/s
+Shard 1: 1613824/2803775 documents; 118.2 docs/s
+Shard 0: 1531904/2803774 documents; 112.1 docs/s
+Shard 2: 1638400/2803775 documents; 119.8 docs/s
+Shard 3: 1646592/2803775 documents; 120.4 docs/s
+Shard 1: 1617920/2803775 documents; 118.2 docs/s
+Shard 0: 1536000/2803774 documents; 112.1 docs/s
+Shard 3: 1650688/2803775 documents; 120.4 docs/s
+Shard 2: 1642496/2803775 documents; 119.8 docs/s
+Shard 1: 1622016/2803775 documents; 118.2 docs/s
+Shard 0: 1540096/2803774 documents; 112.1 docs/s
+Shard 3: 1654784/2803775 documents; 120.4 docs/s
+Shard 2: 1646592/2803775 documents; 119.8 docs/s
+Shard 1: 1626112/2803775 documents; 118.2 docs/s
+Shard 0: 1544192/2803774 documents; 112.1 docs/s
+Shard 3: 1658880/2803775 documents; 120.4 docs/s
+Shard 2: 1650688/2803775 documents; 119.8 docs/s
+Shard 1: 1630208/2803775 documents; 118.2 docs/s
+Shard 0: 1548288/2803774 documents; 112.2 docs/s
+Shard 2: 1654784/2803775 documents; 119.8 docs/s
+Shard 1: 1634304/2803775 documents; 118.2 docs/s
+Shard 0: 1552384/2803774 documents; 112.2 docs/s
+Shard 2: 1658880/2803775 documents; 119.8 docs/s
+Shard 1: 1638400/2803775 documents; 118.2 docs/s
+Shard 0: 1556480/2803774 documents; 112.2 docs/s
+Shard 2: 1662976/2803775 documents; 119.8 docs/s
+Shard 1: 1642496/2803775 documents; 118.2 docs/s
+Shard 0: 1560576/2803774 documents; 112.2 docs/s
+Shard 2: 1667072/2803775 documents; 119.8 docs/s
+Shard 1: 1646592/2803775 documents; 118.2 docs/s
+Shard 3: 1662976/2803775 documents; 119.3 docs/s
+Shard 0: 1564672/2803774 documents; 112.2 docs/s
+Shard 2: 1671168/2803775 documents; 119.8 docs/s
+Shard 1: 1650688/2803775 documents; 118.2 docs/s
+Shard 3: 1667072/2803775 documents; 119.3 docs/s
+Shard 0: 1568768/2803774 documents; 112.2 docs/s
+Shard 2: 1675264/2803775 documents; 119.8 docs/s
+Shard 1: 1654784/2803775 documents; 118.3 docs/s
+Shard 3: 1671168/2803775 documents; 119.3 docs/s
+Shard 0: 1572864/2803774 documents; 112.2 docs/s
+Shard 2: 1679360/2803775 documents; 119.8 docs/s
+Shard 1: 1658880/2803775 documents; 118.2 docs/s
+Shard 3: 1675264/2803775 documents; 119.4 docs/s
+Shard 2: 1683456/2803775 documents; 119.8 docs/s
+Shard 0: 1576960/2803774 documents; 112.2 docs/s
+Shard 1: 1662976/2803775 documents; 118.3 docs/s
+Shard 3: 1679360/2803775 documents; 119.4 docs/s
+Shard 2: 1687552/2803775 documents; 119.8 docs/s
+Shard 0: 1581056/2803774 documents; 112.2 docs/s
+Shard 1: 1667072/2803775 documents; 118.3 docs/s
+Shard 3: 1683456/2803775 documents; 119.4 docs/s
+Shard 2: 1691648/2803775 documents; 119.8 docs/s
+Shard 0: 1585152/2803774 documents; 112.2 docs/s
+Shard 1: 1671168/2803775 documents; 118.3 docs/s
+Shard 3: 1687552/2803775 documents; 119.4 docs/s
+Shard 2: 1695744/2803775 documents; 119.8 docs/s
+Shard 0: 1589248/2803774 documents; 112.3 docs/s
+Shard 1: 1675264/2803775 documents; 118.3 docs/s
+Shard 3: 1691648/2803775 documents; 119.4 docs/s
+Shard 2: 1699840/2803775 documents; 119.9 docs/s
+Shard 0: 1593344/2803774 documents; 112.3 docs/s
+Shard 1: 1679360/2803775 documents; 118.3 docs/s
+Shard 3: 1695744/2803775 documents; 119.4 docs/s
+Shard 2: 1703936/2803775 documents; 119.8 docs/s
+Shard 0: 1597440/2803774 documents; 112.3 docs/s
+Shard 1: 1683456/2803775 documents; 118.3 docs/s
+Shard 3: 1699840/2803775 documents; 119.4 docs/s
+Shard 2: 1708032/2803775 documents; 119.8 docs/s
+Shard 0: 1601536/2803774 documents; 112.3 docs/s
+Shard 1: 1687552/2803775 documents; 118.3 docs/s
+Shard 3: 1703936/2803775 documents; 119.4 docs/s
+Shard 2: 1712128/2803775 documents; 119.8 docs/s
+Shard 0: 1605632/2803774 documents; 112.1 docs/s
+Shard 3: 1708032/2803775 documents; 119.2 docs/s
+Shard 2: 1716224/2803775 documents; 119.8 docs/s
+Shard 1: 1691648/2803775 documents; 118.0 docs/s
+Shard 0: 1609728/2803774 documents; 112.1 docs/s
+Shard 2: 1720320/2803775 documents; 119.8 docs/s
+Shard 3: 1712128/2803775 documents; 119.2 docs/s
+Shard 1: 1695744/2803775 documents; 118.0 docs/s
+Shard 0: 1613824/2803774 documents; 112.1 docs/s
+Shard 1: 1699840/2803775 documents; 118.1 docs/s
+Shard 3: 1716224/2803775 documents; 119.2 docs/s
+Shard 2: 1724416/2803775 documents; 119.8 docs/s
+Shard 1: 1703936/2803775 documents; 118.1 docs/s
+Shard 3: 1720320/2803775 documents; 119.2 docs/s
+Shard 0: 1617920/2803774 documents; 112.1 docs/s
+Shard 2: 1728512/2803775 documents; 119.7 docs/s
+Shard 3: 1724416/2803775 documents; 119.2 docs/s
+Shard 1: 1708032/2803775 documents; 118.1 docs/s
+Shard 0: 1622016/2803774 documents; 112.1 docs/s
+Shard 2: 1732608/2803775 documents; 119.7 docs/s
+Shard 3: 1728512/2803775 documents; 119.2 docs/s
+Shard 1: 1712128/2803775 documents; 118.1 docs/s
+Shard 2: 1736704/2803775 documents; 119.8 docs/s
+Shard 0: 1626112/2803774 documents; 112.1 docs/s
+Shard 3: 1732608/2803775 documents; 119.0 docs/s
+Shard 2: 1740800/2803775 documents; 119.6 docs/s
+Shard 0: 1630208/2803774 documents; 112.0 docs/s
+Shard 1: 1716224/2803775 documents; 117.9 docs/s
+Shard 2: 1744896/2803775 documents; 119.6 docs/s
+Shard 3: 1736704/2803775 documents; 119.0 docs/s
+Shard 1: 1720320/2803775 documents; 117.9 docs/s
+Shard 0: 1634304/2803774 documents; 112.0 docs/s
+Shard 2: 1748992/2803775 documents; 119.6 docs/s
+Shard 3: 1740800/2803775 documents; 119.0 docs/s
+Shard 1: 1724416/2803775 documents; 117.9 docs/s
+Shard 0: 1638400/2803774 documents; 112.0 docs/s
+Shard 2: 1753088/2803775 documents; 119.6 docs/s
+Shard 3: 1744896/2803775 documents; 119.0 docs/s
+Shard 1: 1728512/2803775 documents; 117.9 docs/s
+Shard 0: 1642496/2803774 documents; 112.0 docs/s
+Shard 2: 1757184/2803775 documents; 119.6 docs/s
+Shard 3: 1748992/2803775 documents; 119.0 docs/s
+Shard 1: 1732608/2803775 documents; 117.9 docs/s
+Shard 0: 1646592/2803774 documents; 112.0 docs/s
+Shard 2: 1761280/2803775 documents; 119.6 docs/s
+Shard 3: 1753088/2803775 documents; 119.0 docs/s
+Shard 1: 1736704/2803775 documents; 117.9 docs/s
+Shard 0: 1650688/2803774 documents; 112.0 docs/s
+Shard 2: 1765376/2803775 documents; 119.6 docs/s
+Shard 3: 1757184/2803775 documents; 119.0 docs/s
+Shard 1: 1740800/2803775 documents; 117.9 docs/s
+Shard 0: 1654784/2803774 documents; 112.0 docs/s
+Shard 2: 1769472/2803775 documents; 119.6 docs/s
+Shard 1: 1744896/2803775 documents; 117.9 docs/s
+Shard 3: 1761280/2803775 documents; 119.0 docs/s
+Shard 0: 1658880/2803774 documents; 112.0 docs/s
+Shard 2: 1773568/2803775 documents; 119.6 docs/s
+Shard 1: 1748992/2803775 documents; 117.9 docs/s
+Shard 3: 1765376/2803775 documents; 119.0 docs/s
+Shard 0: 1662976/2803774 documents; 112.0 docs/s
+Shard 1: 1753088/2803775 documents; 117.9 docs/s
+Shard 3: 1769472/2803775 documents; 119.0 docs/s
+Shard 2: 1777664/2803775 documents; 119.6 docs/s
+Shard 0: 1667072/2803774 documents; 112.0 docs/s
+Shard 1: 1757184/2803775 documents; 117.9 docs/s
+Shard 2: 1781760/2803775 documents; 119.6 docs/s
+Shard 3: 1773568/2803775 documents; 119.0 docs/s
+Shard 0: 1671168/2803774 documents; 112.0 docs/s
+Shard 1: 1761280/2803775 documents; 117.9 docs/s
+Shard 2: 1785856/2803775 documents; 119.6 docs/s
+Shard 3: 1777664/2803775 documents; 119.0 docs/s
+Shard 0: 1675264/2803774 documents; 112.0 docs/s
+Shard 2: 1789952/2803775 documents; 119.6 docs/s
+Shard 3: 1781760/2803775 documents; 119.0 docs/s
+Shard 1: 1765376/2803775 documents; 117.9 docs/s
+Shard 0: 1679360/2803774 documents; 112.0 docs/s
+Shard 2: 1794048/2803775 documents; 119.6 docs/s
+Shard 3: 1785856/2803775 documents; 119.0 docs/s
+Shard 1: 1769472/2803775 documents; 117.9 docs/s
+Shard 0: 1683456/2803774 documents; 112.0 docs/s
+Shard 3: 1789952/2803775 documents; 119.0 docs/s
+Shard 2: 1798144/2803775 documents; 119.6 docs/s
+Shard 1: 1773568/2803775 documents; 117.9 docs/s
+Shard 0: 1687552/2803774 documents; 112.0 docs/s
+Shard 3: 1794048/2803775 documents; 119.1 docs/s
+Shard 2: 1802240/2803775 documents; 119.6 docs/s
+Shard 1: 1777664/2803775 documents; 118.0 docs/s
+Shard 0: 1691648/2803774 documents; 112.1 docs/s
+Shard 3: 1798144/2803775 documents; 119.1 docs/s
+Shard 2: 1806336/2803775 documents; 119.6 docs/s
+Shard 1: 1781760/2803775 documents; 118.0 docs/s
+Shard 0: 1695744/2803774 documents; 112.1 docs/s
+Shard 3: 1802240/2803775 documents; 119.1 docs/s
+Shard 2: 1810432/2803775 documents; 119.6 docs/s
+Shard 1: 1785856/2803775 documents; 118.0 docs/s
+Shard 0: 1699840/2803774 documents; 112.1 docs/s
+Shard 2: 1814528/2803775 documents; 119.6 docs/s
+Shard 3: 1806336/2803775 documents; 119.1 docs/s
+Shard 1: 1789952/2803775 documents; 118.0 docs/s
+Shard 3: 1810432/2803775 documents; 119.1 docs/s
+Shard 2: 1818624/2803775 documents; 119.6 docs/s
+Shard 0: 1703936/2803774 documents; 112.1 docs/s
+Shard 1: 1794048/2803775 documents; 118.0 docs/s
+Shard 3: 1814528/2803775 documents; 119.1 docs/s
+Shard 2: 1822720/2803775 documents; 119.7 docs/s
+Shard 0: 1708032/2803774 documents; 112.1 docs/s
+Shard 1: 1798144/2803775 documents; 118.0 docs/s
+Shard 3: 1818624/2803775 documents; 119.1 docs/s
+Shard 2: 1826816/2803775 documents; 119.7 docs/s
+Shard 1: 1802240/2803775 documents; 118.0 docs/s
+Shard 0: 1712128/2803774 documents; 112.1 docs/s
+Shard 3: 1822720/2803775 documents; 119.1 docs/s
+Shard 2: 1830912/2803775 documents; 119.7 docs/s
+Shard 1: 1806336/2803775 documents; 118.0 docs/s
+Shard 0: 1716224/2803774 documents; 112.1 docs/s
+Shard 2: 1835008/2803775 documents; 119.7 docs/s
+Shard 3: 1826816/2803775 documents; 119.2 docs/s
+Shard 1: 1810432/2803775 documents; 118.1 docs/s
+Shard 0: 1720320/2803774 documents; 112.2 docs/s
+Shard 3: 1830912/2803775 documents; 119.2 docs/s
+Shard 2: 1839104/2803775 documents; 119.7 docs/s
+Shard 1: 1814528/2803775 documents; 118.1 docs/s
+Shard 0: 1724416/2803774 documents; 112.2 docs/s
+Shard 3: 1835008/2803775 documents; 119.2 docs/s
+Shard 1: 1818624/2803775 documents; 118.1 docs/s
+Shard 2: 1843200/2803775 documents; 119.7 docs/s
+Shard 0: 1728512/2803774 documents; 112.2 docs/s
+Shard 3: 1839104/2803775 documents; 119.2 docs/s
+Shard 2: 1847296/2803775 documents; 119.7 docs/s
+Shard 1: 1822720/2803775 documents; 118.1 docs/s
+Shard 0: 1732608/2803774 documents; 112.2 docs/s
+Shard 2: 1851392/2803775 documents; 117.9 docs/s
+Shard 3: 1843200/2803775 documents; 117.3 docs/s
+Shard 1: 1826816/2803775 documents; 116.3 docs/s
+Shard 0: 1736704/2803774 documents; 110.6 docs/s
+Shard 2: 1855488/2803775 documents; 117.9 docs/s
+Shard 3: 1847296/2803775 documents; 117.4 docs/s
+Shard 1: 1830912/2803775 documents; 116.3 docs/s
+Shard 0: 1740800/2803774 documents; 110.5 docs/s
+Shard 2: 1859584/2803775 documents; 117.9 docs/s
+Shard 3: 1851392/2803775 documents; 117.4 docs/s
+Shard 1: 1835008/2803775 documents; 116.3 docs/s
+Shard 0: 1744896/2803774 documents; 110.6 docs/s
+Shard 3: 1855488/2803775 documents; 117.4 docs/s
+Shard 2: 1863680/2803775 documents; 117.9 docs/s
+Shard 1: 1839104/2803775 documents; 116.3 docs/s
+Shard 0: 1748992/2803774 documents; 110.6 docs/s
+Shard 3: 1859584/2803775 documents; 117.4 docs/s
+Shard 2: 1867776/2803775 documents; 117.9 docs/s
+Shard 1: 1843200/2803775 documents; 116.3 docs/s
+Shard 0: 1753088/2803774 documents; 110.6 docs/s
+Shard 3: 1863680/2803775 documents; 117.4 docs/s
+Shard 2: 1871872/2803775 documents; 117.9 docs/s
+Shard 1: 1847296/2803775 documents; 116.3 docs/s
+Shard 0: 1757184/2803774 documents; 110.6 docs/s
+Shard 3: 1867776/2803775 documents; 117.4 docs/s
+Shard 2: 1875968/2803775 documents; 117.9 docs/s
+Shard 1: 1851392/2803775 documents; 116.3 docs/s
+Shard 0: 1761280/2803774 documents; 110.6 docs/s
+Shard 3: 1871872/2803775 documents; 117.4 docs/s
+Shard 2: 1880064/2803775 documents; 117.9 docs/s
+Shard 1: 1855488/2803775 documents; 116.3 docs/s
+Shard 0: 1765376/2803774 documents; 110.6 docs/s
+Shard 2: 1884160/2803775 documents; 117.9 docs/s
+Shard 3: 1875968/2803775 documents; 117.4 docs/s
+Shard 1: 1859584/2803775 documents; 116.3 docs/s
+Shard 0: 1769472/2803774 documents; 110.6 docs/s
+Shard 2: 1888256/2803775 documents; 118.0 docs/s
+Shard 3: 1880064/2803775 documents; 117.4 docs/s
+Shard 1: 1863680/2803775 documents; 116.3 docs/s
+Shard 0: 1773568/2803774 documents; 110.6 docs/s
+Shard 3: 1884160/2803775 documents; 117.5 docs/s
+Shard 2: 1892352/2803775 documents; 118.0 docs/s
+Shard 1: 1867776/2803775 documents; 116.4 docs/s
+Shard 0: 1777664/2803774 documents; 110.6 docs/s
+Shard 2: 1896448/2803775 documents; 118.0 docs/s
+Shard 3: 1888256/2803775 documents; 117.5 docs/s
+Shard 1: 1871872/2803775 documents; 116.4 docs/s
+Shard 0: 1781760/2803774 documents; 110.7 docs/s
+Shard 2: 1900544/2803775 documents; 118.0 docs/s
+Shard 3: 1892352/2803775 documents; 117.4 docs/s
+Shard 1: 1875968/2803775 documents; 116.4 docs/s
+Shard 0: 1785856/2803774 documents; 110.7 docs/s
+Shard 1: 1880064/2803775 documents; 116.4 docs/s
+Shard 3: 1896448/2803775 documents; 117.4 docs/s
+Shard 2: 1904640/2803775 documents; 117.9 docs/s
+Shard 0: 1789952/2803774 documents; 110.7 docs/s
+Shard 1: 1884160/2803775 documents; 116.4 docs/s
+Shard 3: 1900544/2803775 documents; 117.4 docs/s
+Shard 2: 1908736/2803775 documents; 117.9 docs/s
+Shard 0: 1794048/2803774 documents; 110.7 docs/s
+Shard 1: 1888256/2803775 documents; 116.5 docs/s
+Shard 3: 1904640/2803775 documents; 117.5 docs/s
+Shard 2: 1912832/2803775 documents; 117.9 docs/s
+Shard 0: 1798144/2803774 documents; 110.7 docs/s
+Shard 1: 1892352/2803775 documents; 116.5 docs/s
+Shard 0: 1802240/2803774 documents; 110.6 docs/s
+Shard 1: 1896448/2803775 documents; 116.4 docs/s
+Shard 3: 1908736/2803775 documents; 117.2 docs/s
+Shard 2: 1916928/2803775 documents; 117.7 docs/s
+Shard 3: 1912832/2803775 documents; 117.2 docs/s
+Shard 1: 1900544/2803775 documents; 116.4 docs/s
+Shard 2: 1921024/2803775 documents; 117.6 docs/s
+Shard 0: 1806336/2803774 documents; 110.6 docs/s
+Shard 3: 1916928/2803775 documents; 117.2 docs/s
+Shard 1: 1904640/2803775 documents; 116.4 docs/s
+Shard 2: 1925120/2803775 documents; 117.6 docs/s
+Shard 0: 1810432/2803774 documents; 110.6 docs/s
+Shard 3: 1921024/2803775 documents; 117.2 docs/s
+Shard 1: 1908736/2803775 documents; 116.4 docs/s
+Shard 2: 1929216/2803775 documents; 117.6 docs/s
+Shard 0: 1814528/2803774 documents; 110.6 docs/s
+Shard 3: 1925120/2803775 documents; 117.2 docs/s
+Shard 1: 1912832/2803775 documents; 116.4 docs/s
+Shard 0: 1818624/2803774 documents; 110.6 docs/s
+Shard 2: 1933312/2803775 documents; 117.6 docs/s
+Shard 3: 1929216/2803775 documents; 117.2 docs/s
+Shard 1: 1916928/2803775 documents; 116.4 docs/s
+Shard 0: 1822720/2803774 documents; 110.6 docs/s
+Shard 2: 1937408/2803775 documents; 117.6 docs/s
+Shard 3: 1933312/2803775 documents; 117.2 docs/s
+Shard 1: 1921024/2803775 documents; 116.4 docs/s
+Shard 0: 1826816/2803774 documents; 110.7 docs/s
+Shard 2: 1941504/2803775 documents; 117.6 docs/s
+Shard 3: 1937408/2803775 documents; 117.2 docs/s
+Shard 1: 1925120/2803775 documents; 116.4 docs/s
+Shard 2: 1945600/2803775 documents; 117.6 docs/s
+Shard 0: 1830912/2803774 documents; 110.7 docs/s
+Shard 3: 1941504/2803775 documents; 117.2 docs/s
+Shard 1: 1929216/2803775 documents; 116.4 docs/s
+Shard 2: 1949696/2803775 documents; 117.6 docs/s
+Shard 0: 1835008/2803774 documents; 110.7 docs/s
+Shard 3: 1945600/2803775 documents; 117.3 docs/s
+Shard 1: 1933312/2803775 documents; 116.4 docs/s
+Shard 2: 1953792/2803775 documents; 117.6 docs/s
+Shard 0: 1839104/2803774 documents; 110.7 docs/s
+Shard 3: 1949696/2803775 documents; 117.3 docs/s
+Shard 1: 1937408/2803775 documents; 116.4 docs/s
+Shard 2: 1957888/2803775 documents; 117.6 docs/s
+Shard 3: 1953792/2803775 documents; 117.3 docs/s
+Shard 0: 1843200/2803774 documents; 110.6 docs/s
+Shard 1: 1941504/2803775 documents; 116.4 docs/s
+Shard 2: 1961984/2803775 documents; 117.7 docs/s
+Shard 3: 1957888/2803775 documents; 117.2 docs/s
+Shard 0: 1847296/2803774 documents; 110.6 docs/s
+Shard 2: 1966080/2803775 documents; 117.6 docs/s
+Shard 1: 1945600/2803775 documents; 116.4 docs/s
+Shard 3: 1961984/2803775 documents; 117.2 docs/s
+Shard 0: 1851392/2803774 documents; 110.6 docs/s
+Shard 2: 1970176/2803775 documents; 117.6 docs/s
+Shard 1: 1949696/2803775 documents; 116.4 docs/s
+Shard 3: 1966080/2803775 documents; 117.2 docs/s
+Shard 0: 1855488/2803774 documents; 110.6 docs/s
+Shard 2: 1974272/2803775 documents; 117.6 docs/s
+Shard 1: 1953792/2803775 documents; 116.4 docs/s
+Shard 3: 1970176/2803775 documents; 117.2 docs/s
+Shard 0: 1859584/2803774 documents; 110.6 docs/s
+Shard 2: 1978368/2803775 documents; 117.7 docs/s
+Shard 1: 1957888/2803775 documents; 116.4 docs/s
+Shard 0: 1863680/2803774 documents; 110.6 docs/s
+Shard 2: 1982464/2803775 documents; 117.7 docs/s
+Shard 3: 1974272/2803775 documents; 117.1 docs/s
+Shard 1: 1961984/2803775 documents; 116.4 docs/s
+Shard 0: 1867776/2803774 documents; 110.7 docs/s
+Shard 2: 1986560/2803775 documents; 117.7 docs/s
+Shard 3: 1978368/2803775 documents; 117.1 docs/s
+Shard 1: 1966080/2803775 documents; 116.4 docs/s
+Shard 0: 1871872/2803774 documents; 110.7 docs/s
+Shard 2: 1990656/2803775 documents; 117.7 docs/s
+Shard 3: 1982464/2803775 documents; 117.1 docs/s
+Shard 1: 1970176/2803775 documents; 116.4 docs/s
+Shard 0: 1875968/2803774 documents; 110.7 docs/s
+Shard 2: 1994752/2803775 documents; 117.7 docs/s
+Shard 3: 1986560/2803775 documents; 117.0 docs/s
+Shard 2: 1998848/2803775 documents; 117.7 docs/s
+Shard 1: 1974272/2803775 documents; 116.2 docs/s
+Shard 0: 1880064/2803774 documents; 110.7 docs/s
+Shard 1: 1978368/2803775 documents; 116.3 docs/s
+Shard 3: 1990656/2803775 documents; 117.0 docs/s
+Shard 2: 2002944/2803775 documents; 117.6 docs/s
+Shard 0: 1884160/2803774 documents; 110.6 docs/s
+Shard 1: 1982464/2803775 documents; 116.3 docs/s
+Shard 3: 1994752/2803775 documents; 117.0 docs/s
+Shard 2: 2007040/2803775 documents; 117.6 docs/s
+Shard 0: 1888256/2803774 documents; 110.6 docs/s
+Shard 1: 1986560/2803775 documents; 116.3 docs/s
+Shard 3: 1998848/2803775 documents; 117.0 docs/s
+Shard 2: 2011136/2803775 documents; 117.6 docs/s
+Shard 0: 1892352/2803774 documents; 110.6 docs/s
+Shard 1: 1990656/2803775 documents; 116.3 docs/s
+Shard 3: 2002944/2803775 documents; 117.0 docs/s
+Shard 2: 2015232/2803775 documents; 117.6 docs/s
+Shard 0: 1896448/2803774 documents; 110.7 docs/s
+Shard 1: 1994752/2803775 documents; 116.4 docs/s
+Shard 3: 2007040/2803775 documents; 117.0 docs/s
+Shard 2: 2019328/2803775 documents; 117.6 docs/s
+Shard 0: 1900544/2803774 documents; 110.7 docs/s
+Shard 1: 1998848/2803775 documents; 116.4 docs/s
+Shard 3: 2011136/2803775 documents; 117.0 docs/s
+Shard 2: 2023424/2803775 documents; 117.6 docs/s
+Shard 0: 1904640/2803774 documents; 110.7 docs/s
+Shard 1: 2002944/2803775 documents; 116.4 docs/s
+Shard 3: 2015232/2803775 documents; 117.1 docs/s
+Shard 2: 2027520/2803775 documents; 117.7 docs/s
+Shard 0: 1908736/2803774 documents; 110.7 docs/s
+Shard 1: 2007040/2803775 documents; 116.4 docs/s
+Shard 3: 2019328/2803775 documents; 117.1 docs/s
+Shard 2: 2031616/2803775 documents; 117.7 docs/s
+Shard 0: 1912832/2803774 documents; 110.7 docs/s
+Shard 1: 2011136/2803775 documents; 116.4 docs/s
+Shard 3: 2023424/2803775 documents; 117.1 docs/s
+Shard 2: 2035712/2803775 documents; 117.7 docs/s
+Shard 0: 1916928/2803774 documents; 110.7 docs/s
+Shard 3: 2027520/2803775 documents; 117.1 docs/s
+Shard 1: 2015232/2803775 documents; 116.3 docs/s
+Shard 2: 2039808/2803775 documents; 117.7 docs/s
+Shard 0: 1921024/2803774 documents; 110.7 docs/s
+Shard 3: 2031616/2803775 documents; 117.1 docs/s
+Shard 1: 2019328/2803775 documents; 116.3 docs/s
+Shard 2: 2043904/2803775 documents; 117.7 docs/s
+Shard 0: 1925120/2803774 documents; 110.7 docs/s
+Shard 3: 2035712/2803775 documents; 117.1 docs/s
+Shard 1: 2023424/2803775 documents; 116.4 docs/s
+Shard 2: 2048000/2803775 documents; 117.6 docs/s
+Shard 0: 1929216/2803774 documents; 110.8 docs/s
+Shard 3: 2039808/2803775 documents; 117.1 docs/s
+Shard 1: 2027520/2803775 documents; 116.4 docs/s
+Shard 2: 2052096/2803775 documents; 117.3 docs/s
+Shard 1: 2031616/2803775 documents; 116.1 docs/s
+Shard 0: 1933312/2803774 documents; 110.5 docs/s
+Shard 3: 2043904/2803775 documents; 116.8 docs/s
+Shard 1: 2035712/2803775 documents; 116.1 docs/s
+Shard 2: 2056192/2803775 documents; 117.2 docs/s
+Shard 0: 1937408/2803774 documents; 110.5 docs/s
+Shard 1: 2039808/2803775 documents; 116.1 docs/s
+Shard 0: 1941504/2803774 documents; 110.5 docs/s
+Shard 2: 2060288/2803775 documents; 117.1 docs/s
+Shard 1: 2043904/2803775 documents; 116.1 docs/s
+Shard 0: 1945600/2803774 documents; 110.5 docs/s
+Shard 2: 2064384/2803775 documents; 117.2 docs/s
+Shard 1: 2048000/2803775 documents; 116.1 docs/s
+Shard 0: 1949696/2803774 documents; 110.5 docs/s
+Shard 2: 2068480/2803775 documents; 117.2 docs/s
+Shard 1: 2052096/2803775 documents; 116.1 docs/s
+Shard 0: 1953792/2803774 documents; 110.5 docs/s
+Shard 2: 2072576/2803775 documents; 117.2 docs/s
+Shard 1: 2056192/2803775 documents; 116.1 docs/s
+Shard 2: 2076672/2803775 documents; 117.2 docs/s
+Shard 0: 1957888/2803774 documents; 110.5 docs/s
+Shard 1: 2060288/2803775 documents; 116.1 docs/s
+Shard 2: 2080768/2803775 documents; 117.2 docs/s
+Shard 0: 1961984/2803774 documents; 110.5 docs/s
+Shard 1: 2064384/2803775 documents; 116.1 docs/s
+Shard 2: 2084864/2803775 documents; 117.2 docs/s
+Shard 0: 1966080/2803774 documents; 110.5 docs/s
+Shard 1: 2068480/2803775 documents; 116.1 docs/s
+Shard 2: 2088960/2803775 documents; 117.2 docs/s
+Shard 0: 1970176/2803774 documents; 110.5 docs/s
+Shard 1: 2072576/2803775 documents; 116.1 docs/s
+Shard 2: 2093056/2803775 documents; 117.2 docs/s
+Shard 0: 1974272/2803774 documents; 110.5 docs/s
+Shard 1: 2076672/2803775 documents; 116.2 docs/s
+Shard 2: 2097152/2803775 documents; 117.2 docs/s
+Shard 0: 1978368/2803774 documents; 110.5 docs/s
+Shard 1: 2080768/2803775 documents; 116.2 docs/s
+Shard 2: 2101248/2803775 documents; 117.3 docs/s
+Shard 0: 1982464/2803774 documents; 110.5 docs/s
+Shard 1: 2084864/2803775 documents; 116.2 docs/s
+Shard 2: 2105344/2803775 documents; 117.3 docs/s
+Shard 0: 1986560/2803774 documents; 110.6 docs/s
+Shard 1: 2088960/2803775 documents; 116.2 docs/s
+Shard 2: 2109440/2803775 documents; 117.3 docs/s
+Shard 3: 2048000/2803775 documents; 113.8 docs/s
+Shard 0: 1990656/2803774 documents; 110.6 docs/s
+Shard 1: 2093056/2803775 documents; 116.2 docs/s
+Shard 2: 2113536/2803775 documents; 117.3 docs/s
+Shard 3: 2052096/2803775 documents; 113.8 docs/s
+Shard 0: 1994752/2803774 documents; 110.6 docs/s
+Shard 1: 2097152/2803775 documents; 116.2 docs/s
+Shard 2: 2117632/2803775 documents; 117.3 docs/s
+Shard 3: 2056192/2803775 documents; 113.9 docs/s
+Shard 0: 1998848/2803774 documents; 110.6 docs/s
+Shard 1: 2101248/2803775 documents; 116.2 docs/s
+Shard 2: 2121728/2803775 documents; 117.3 docs/s
+Shard 3: 2060288/2803775 documents; 113.9 docs/s
+Shard 2: 2125824/2803775 documents; 117.4 docs/s
+Shard 0: 2002944/2803774 documents; 110.6 docs/s
+Shard 1: 2105344/2803775 documents; 116.2 docs/s
+Shard 3: 2064384/2803775 documents; 113.9 docs/s
+Shard 2: 2129920/2803775 documents; 117.4 docs/s
+Shard 1: 2109440/2803775 documents; 116.2 docs/s
+Shard 0: 2007040/2803774 documents; 110.6 docs/s
+Shard 3: 2068480/2803775 documents; 113.9 docs/s
+Shard 2: 2134016/2803775 documents; 117.4 docs/s
+Shard 1: 2113536/2803775 documents; 116.2 docs/s
+Shard 0: 2011136/2803774 documents; 110.6 docs/s
+Shard 3: 2072576/2803775 documents; 113.9 docs/s
+Shard 1: 2117632/2803775 documents; 116.1 docs/s
+Shard 2: 2138112/2803775 documents; 117.3 docs/s
+Shard 0: 2015232/2803774 documents; 110.5 docs/s
+Shard 3: 2076672/2803775 documents; 113.9 docs/s
+Shard 1: 2121728/2803775 documents; 116.2 docs/s
+Shard 2: 2142208/2803775 documents; 117.3 docs/s
+Shard 0: 2019328/2803774 documents; 110.5 docs/s
+Shard 3: 2080768/2803775 documents; 113.9 docs/s
+Shard 1: 2125824/2803775 documents; 116.2 docs/s
+Shard 2: 2146304/2803775 documents; 117.3 docs/s
+Shard 0: 2023424/2803774 documents; 110.6 docs/s
+Shard 3: 2084864/2803775 documents; 113.9 docs/s
+Shard 1: 2129920/2803775 documents; 116.2 docs/s
+Shard 2: 2150400/2803775 documents; 117.3 docs/s
+Shard 3: 2088960/2803775 documents; 113.9 docs/s
+Shard 0: 2027520/2803774 documents; 110.6 docs/s
+Shard 3: 2093056/2803775 documents; 113.9 docs/s
+Shard 2: 2154496/2803775 documents; 117.3 docs/s
+Shard 0: 2031616/2803774 documents; 110.6 docs/s
+Shard 1: 2134016/2803775 documents; 116.0 docs/s
+Shard 3: 2097152/2803775 documents; 114.0 docs/s
+Shard 2: 2158592/2803775 documents; 117.3 docs/s
+Shard 0: 2035712/2803774 documents; 110.5 docs/s
+Shard 1: 2138112/2803775 documents; 116.1 docs/s
+Shard 3: 2101248/2803775 documents; 113.9 docs/s
+Shard 2: 2162688/2803775 documents; 117.2 docs/s
+Shard 1: 2142208/2803775 documents; 116.1 docs/s
+Shard 0: 2039808/2803774 documents; 110.5 docs/s
+Shard 3: 2105344/2803775 documents; 113.9 docs/s
+Shard 2: 2166784/2803775 documents; 117.2 docs/s
+Shard 1: 2146304/2803775 documents; 116.1 docs/s
+Shard 0: 2043904/2803774 documents; 110.5 docs/s
+Shard 3: 2109440/2803775 documents; 113.9 docs/s
+Shard 2: 2170880/2803775 documents; 117.2 docs/s
+Shard 1: 2150400/2803775 documents; 116.1 docs/s
+Shard 0: 2048000/2803774 documents; 110.5 docs/s
+Shard 3: 2113536/2803775 documents; 113.9 docs/s
+Shard 2: 2174976/2803775 documents; 117.2 docs/s
+Shard 1: 2154496/2803775 documents; 116.1 docs/s
+Shard 0: 2052096/2803774 documents; 110.5 docs/s
+Shard 3: 2117632/2803775 documents; 114.0 docs/s
+Shard 2: 2179072/2803775 documents; 117.2 docs/s
+Shard 1: 2158592/2803775 documents; 116.1 docs/s
+Shard 0: 2056192/2803774 documents; 110.5 docs/s
+Shard 3: 2121728/2803775 documents; 114.0 docs/s
+Shard 2: 2183168/2803775 documents; 117.3 docs/s
+Shard 1: 2162688/2803775 documents; 116.1 docs/s
+Shard 0: 2060288/2803774 documents; 110.6 docs/s
+Shard 3: 2125824/2803775 documents; 114.0 docs/s
+Shard 2: 2187264/2803775 documents; 117.3 docs/s
+Shard 1: 2166784/2803775 documents; 116.1 docs/s
+Shard 0: 2064384/2803774 documents; 110.6 docs/s
+Shard 3: 2129920/2803775 documents; 114.0 docs/s
+Shard 2: 2191360/2803775 documents; 117.3 docs/s
+Shard 1: 2170880/2803775 documents; 116.2 docs/s
+Shard 0: 2068480/2803774 documents; 110.6 docs/s
+Shard 2: 2195456/2803775 documents; 117.3 docs/s
+Shard 3: 2134016/2803775 documents; 114.0 docs/s
+Shard 1: 2174976/2803775 documents; 116.2 docs/s
+Shard 0: 2072576/2803774 documents; 110.6 docs/s
+Shard 2: 2199552/2803775 documents; 117.3 docs/s
+Shard 3: 2138112/2803775 documents; 114.0 docs/s
+Shard 1: 2179072/2803775 documents; 116.2 docs/s
+Shard 0: 2076672/2803774 documents; 110.6 docs/s
+Shard 2: 2203648/2803775 documents; 117.3 docs/s
+Shard 3: 2142208/2803775 documents; 114.0 docs/s
+Shard 1: 2183168/2803775 documents; 116.2 docs/s
+Shard 0: 2080768/2803774 documents; 110.6 docs/s
+Shard 2: 2207744/2803775 documents; 117.4 docs/s
+Shard 3: 2146304/2803775 documents; 114.1 docs/s
+Shard 1: 2187264/2803775 documents; 116.2 docs/s
+Shard 0: 2084864/2803774 documents; 110.7 docs/s
+Shard 2: 2211840/2803775 documents; 117.4 docs/s
+Shard 3: 2150400/2803775 documents; 114.1 docs/s
+Shard 1: 2191360/2803775 documents; 116.2 docs/s
+Shard 0: 2088960/2803774 documents; 110.7 docs/s
+Shard 2: 2215936/2803775 documents; 117.4 docs/s
+Shard 3: 2154496/2803775 documents; 114.1 docs/s
+Shard 1: 2195456/2803775 documents; 116.2 docs/s
+Shard 0: 2093056/2803774 documents; 110.7 docs/s
+Shard 2: 2220032/2803775 documents; 117.4 docs/s
+Shard 3: 2158592/2803775 documents; 114.1 docs/s
+Shard 1: 2199552/2803775 documents; 116.2 docs/s
+Shard 0: 2097152/2803774 documents; 110.7 docs/s
+Shard 2: 2224128/2803775 documents; 117.4 docs/s
+Shard 3: 2162688/2803775 documents; 114.1 docs/s
+Shard 1: 2203648/2803775 documents; 116.2 docs/s
+Shard 2: 2228224/2803775 documents; 117.4 docs/s
+Shard 0: 2101248/2803774 documents; 110.7 docs/s
+Shard 3: 2166784/2803775 documents; 114.1 docs/s
+Shard 1: 2207744/2803775 documents; 116.3 docs/s
+Shard 2: 2232320/2803775 documents; 117.4 docs/s
+Shard 0: 2105344/2803774 documents; 110.7 docs/s
+Shard 3: 2170880/2803775 documents; 114.2 docs/s
+Shard 1: 2211840/2803775 documents; 116.3 docs/s
+Shard 2: 2236416/2803775 documents; 117.4 docs/s
+Shard 0: 2109440/2803774 documents; 110.8 docs/s
+Shard 3: 2174976/2803775 documents; 114.2 docs/s
+Shard 1: 2215936/2803775 documents; 115.9 docs/s
+Shard 2: 2240512/2803775 documents; 117.2 docs/s
+Shard 3: 2179072/2803775 documents; 114.0 docs/s
+Shard 0: 2113536/2803774 documents; 110.6 docs/s
+Shard 1: 2220032/2803775 documents; 115.9 docs/s
+Shard 2: 2244608/2803775 documents; 117.2 docs/s
+Shard 3: 2183168/2803775 documents; 114.0 docs/s
+Shard 0: 2117632/2803774 documents; 110.6 docs/s
+Shard 1: 2224128/2803775 documents; 116.0 docs/s
+Shard 3: 2187264/2803775 documents; 114.0 docs/s
+Shard 2: 2248704/2803775 documents; 117.2 docs/s
+Shard 0: 2121728/2803774 documents; 110.5 docs/s
+Shard 1: 2228224/2803775 documents; 115.9 docs/s
+Shard 3: 2191360/2803775 documents; 114.0 docs/s
+Shard 2: 2252800/2803775 documents; 117.2 docs/s
+Shard 0: 2125824/2803774 documents; 110.5 docs/s
+Shard 1: 2232320/2803775 documents; 115.9 docs/s
+Shard 3: 2195456/2803775 documents; 114.0 docs/s
+Shard 2: 2256896/2803775 documents; 117.2 docs/s
+Shard 0: 2129920/2803774 documents; 110.5 docs/s
+Shard 3: 2199552/2803775 documents; 114.0 docs/s
+Shard 1: 2236416/2803775 documents; 115.9 docs/s
+Shard 2: 2260992/2803775 documents; 117.2 docs/s
+Shard 0: 2134016/2803774 documents; 110.5 docs/s
+Shard 1: 2240512/2803775 documents; 116.0 docs/s
+Shard 3: 2203648/2803775 documents; 114.1 docs/s
+Shard 2: 2265088/2803775 documents; 117.2 docs/s
+Shard 0: 2138112/2803774 documents; 110.5 docs/s
+Shard 1: 2244608/2803775 documents; 116.0 docs/s
+Shard 3: 2207744/2803775 documents; 114.1 docs/s
+Shard 2: 2269184/2803775 documents; 117.2 docs/s
+Shard 0: 2142208/2803774 documents; 110.5 docs/s
+Shard 1: 2248704/2803775 documents; 116.0 docs/s
+Shard 2: 2273280/2803775 documents; 117.1 docs/s
+Shard 0: 2146304/2803774 documents; 110.6 docs/s
+Shard 1: 2252800/2803775 documents; 116.0 docs/s
+Shard 2: 2277376/2803775 documents; 117.1 docs/s
+Shard 1: 2256896/2803775 documents; 116.0 docs/s
+Shard 0: 2150400/2803774 documents; 110.6 docs/s
+Shard 2: 2281472/2803775 documents; 117.1 docs/s
+Shard 1: 2260992/2803775 documents; 116.1 docs/s
+Shard 0: 2154496/2803774 documents; 110.6 docs/s
+Shard 2: 2285568/2803775 documents; 117.1 docs/s
+Shard 1: 2265088/2803775 documents; 116.1 docs/s
+Shard 0: 2158592/2803774 documents; 110.6 docs/s
+Shard 2: 2289664/2803775 documents; 117.2 docs/s
+Shard 1: 2269184/2803775 documents; 116.1 docs/s
+Shard 0: 2162688/2803774 documents; 110.6 docs/s
+Shard 2: 2293760/2803775 documents; 117.2 docs/s
+Shard 1: 2273280/2803775 documents; 116.1 docs/s
+Shard 0: 2166784/2803774 documents; 110.6 docs/s
+Shard 2: 2297856/2803775 documents; 117.2 docs/s
+Shard 1: 2277376/2803775 documents; 116.1 docs/s
+Shard 0: 2170880/2803774 documents; 110.6 docs/s
+Shard 2: 2301952/2803775 documents; 117.2 docs/s
+Shard 1: 2281472/2803775 documents; 116.1 docs/s
+Shard 0: 2174976/2803774 documents; 110.7 docs/s
+Shard 2: 2306048/2803775 documents; 117.2 docs/s
+Shard 1: 2285568/2803775 documents; 116.2 docs/s
+Shard 0: 2179072/2803774 documents; 110.7 docs/s
+Shard 2: 2310144/2803775 documents; 117.2 docs/s
+Shard 1: 2289664/2803775 documents; 116.2 docs/s
+Shard 0: 2183168/2803774 documents; 110.7 docs/s
+Shard 2: 2314240/2803775 documents; 117.3 docs/s
+Shard 1: 2293760/2803775 documents; 116.2 docs/s
+Shard 1: 2297856/2803775 documents; 116.2 docs/s
+Shard 2: 2318336/2803775 documents; 117.2 docs/s
+Shard 0: 2187264/2803774 documents; 110.5 docs/s
+Shard 1: 2301952/2803775 documents; 116.2 docs/s
+Shard 2: 2322432/2803775 documents; 117.2 docs/s
+Shard 1: 2306048/2803775 documents; 116.3 docs/s
+Shard 2: 2326528/2803775 documents; 117.3 docs/s
+Shard 0: 2191360/2803774 documents; 110.4 docs/s
+Shard 1: 2310144/2803775 documents; 116.3 docs/s
+Shard 2: 2330624/2803775 documents; 117.3 docs/s
+Shard 0: 2195456/2803774 documents; 110.4 docs/s
+Shard 1: 2314240/2803775 documents; 116.3 docs/s
+Shard 2: 2334720/2803775 documents; 117.3 docs/s
+Shard 0: 2199552/2803774 documents; 110.5 docs/s
+Shard 1: 2318336/2803775 documents; 116.3 docs/s
+Shard 2: 2338816/2803775 documents; 117.3 docs/s
+Shard 0: 2203648/2803774 documents; 110.4 docs/s
+Shard 1: 2322432/2803775 documents; 116.3 docs/s
+Shard 2: 2342912/2803775 documents; 117.3 docs/s
+Shard 0: 2207744/2803774 documents; 110.5 docs/s
+Shard 1: 2326528/2803775 documents; 116.3 docs/s
+Shard 2: 2347008/2803775 documents; 117.3 docs/s
+Shard 0: 2211840/2803774 documents; 110.5 docs/s
+Shard 1: 2330624/2803775 documents; 116.3 docs/s
+Shard 2: 2351104/2803775 documents; 117.3 docs/s
+Shard 0: 2215936/2803774 documents; 110.5 docs/s
+Shard 1: 2334720/2803775 documents; 116.4 docs/s
+Shard 2: 2355200/2803775 documents; 117.3 docs/s
+Shard 0: 2220032/2803774 documents; 110.5 docs/s
+Shard 1: 2338816/2803775 documents; 116.4 docs/s
+Shard 2: 2359296/2803775 documents; 117.4 docs/s
+Shard 0: 2224128/2803774 documents; 110.5 docs/s
+Shard 1: 2342912/2803775 documents; 116.4 docs/s
+Shard 2: 2363392/2803775 documents; 117.4 docs/s
+Shard 0: 2228224/2803774 documents; 110.5 docs/s
+Shard 1: 2347008/2803775 documents; 116.4 docs/s
+Shard 2: 2367488/2803775 documents; 117.4 docs/s
+Shard 0: 2232320/2803774 documents; 110.6 docs/s
+Shard 1: 2351104/2803775 documents; 116.4 docs/s
+Shard 2: 2371584/2803775 documents; 117.4 docs/s
+Shard 1: 2355200/2803775 documents; 116.4 docs/s
+Shard 0: 2236416/2803774 documents; 110.6 docs/s
+Shard 2: 2375680/2803775 documents; 117.4 docs/s
+Shard 1: 2359296/2803775 documents; 116.5 docs/s
+Shard 0: 2240512/2803774 documents; 110.6 docs/s
+Shard 2: 2379776/2803775 documents; 117.4 docs/s
+Shard 1: 2363392/2803775 documents; 116.5 docs/s
+Shard 0: 2244608/2803774 documents; 110.6 docs/s
+Shard 2: 2383872/2803775 documents; 117.4 docs/s
+Shard 1: 2367488/2803775 documents; 116.5 docs/s
+Shard 0: 2248704/2803774 documents; 110.6 docs/s
+Shard 2: 2387968/2803775 documents; 117.5 docs/s
+Shard 1: 2371584/2803775 documents; 116.5 docs/s
+Shard 0: 2252800/2803774 documents; 110.6 docs/s
+Shard 2: 2392064/2803775 documents; 117.5 docs/s
+Shard 1: 2375680/2803775 documents; 116.5 docs/s
+Shard 2: 2396160/2803775 documents; 117.5 docs/s
+Shard 0: 2256896/2803774 documents; 110.6 docs/s
+Shard 1: 2379776/2803775 documents; 116.5 docs/s
+Shard 2: 2400256/2803775 documents; 117.5 docs/s
+Shard 0: 2260992/2803774 documents; 110.6 docs/s
+Shard 1: 2383872/2803775 documents; 116.5 docs/s
+Shard 2: 2404352/2803775 documents; 117.5 docs/s
+Shard 0: 2265088/2803774 documents; 110.7 docs/s
+Shard 1: 2387968/2803775 documents; 116.6 docs/s
+Shard 2: 2408448/2803775 documents; 117.5 docs/s
+Shard 0: 2269184/2803774 documents; 110.7 docs/s
+Shard 1: 2392064/2803775 documents; 116.6 docs/s
+Shard 2: 2412544/2803775 documents; 117.5 docs/s
+Shard 0: 2273280/2803774 documents; 110.7 docs/s
+Shard 1: 2396160/2803775 documents; 116.6 docs/s
+Shard 2: 2416640/2803775 documents; 117.6 docs/s
+Shard 0: 2277376/2803774 documents; 110.7 docs/s
+Shard 1: 2400256/2803775 documents; 116.6 docs/s
+Shard 2: 2420736/2803775 documents; 117.6 docs/s
+Shard 0: 2281472/2803774 documents; 110.7 docs/s
+Shard 2: 2424832/2803775 documents; 117.5 docs/s
+Shard 3: 2211840/2803775 documents; 114.1 docs/s
+Shard 1: 2404352/2803775 documents; 116.5 docs/s
+Shard 0: 2285568/2803774 documents; 110.7 docs/s
+Shard 2: 2428928/2803775 documents; 117.5 docs/s
+Shard 3: 2215936/2803775 documents; 107.2 docs/s
+Shard 1: 2408448/2803775 documents; 116.5 docs/s
+Shard 0: 2289664/2803774 documents; 110.7 docs/s
+Shard 2: 2433024/2803775 documents; 117.6 docs/s
+Shard 1: 2412544/2803775 documents; 116.5 docs/s
+Shard 3: 2220032/2803775 documents; 107.2 docs/s
+Shard 0: 2293760/2803774 documents; 110.8 docs/s
+Shard 2: 2437120/2803775 documents; 117.6 docs/s
+Shard 1: 2416640/2803775 documents; 116.5 docs/s
+Shard 3: 2224128/2803775 documents; 107.2 docs/s
+Shard 0: 2297856/2803774 documents; 110.8 docs/s
+Shard 2: 2441216/2803775 documents; 117.6 docs/s
+Shard 1: 2420736/2803775 documents; 116.5 docs/s
+Shard 3: 2228224/2803775 documents; 107.2 docs/s
+Shard 0: 2301952/2803774 documents; 110.8 docs/s
+Shard 2: 2445312/2803775 documents; 117.6 docs/s
+Shard 1: 2424832/2803775 documents; 116.5 docs/s
+Shard 3: 2232320/2803775 documents; 107.2 docs/s
+Shard 0: 2306048/2803774 documents; 110.8 docs/s
+Shard 2: 2449408/2803775 documents; 117.6 docs/s
+Shard 3: 2236416/2803775 documents; 107.3 docs/s
+Shard 0: 2310144/2803774 documents; 110.8 docs/s
+Shard 1: 2428928/2803775 documents; 116.5 docs/s
+Shard 2: 2453504/2803775 documents; 117.6 docs/s
+Shard 3: 2240512/2803775 documents; 107.3 docs/s
+Shard 1: 2433024/2803775 documents; 116.5 docs/s
+Shard 0: 2314240/2803774 documents; 110.8 docs/s
+Shard 2: 2457600/2803775 documents; 117.6 docs/s
+Shard 1: 2437120/2803775 documents; 116.5 docs/s
+Shard 3: 2244608/2803775 documents; 107.3 docs/s
+Shard 0: 2318336/2803774 documents; 110.8 docs/s
+Shard 2: 2461696/2803775 documents; 117.6 docs/s
+Shard 1: 2441216/2803775 documents; 116.5 docs/s
+Shard 3: 2248704/2803775 documents; 107.3 docs/s
+Shard 0: 2322432/2803774 documents; 110.8 docs/s
+Shard 2: 2465792/2803775 documents; 117.6 docs/s
+Shard 1: 2445312/2803775 documents; 116.5 docs/s
+Shard 3: 2252800/2803775 documents; 107.3 docs/s
+Shard 0: 2326528/2803774 documents; 110.8 docs/s
+Shard 2: 2469888/2803775 documents; 117.6 docs/s
+Shard 1: 2449408/2803775 documents; 116.5 docs/s
+Shard 3: 2256896/2803775 documents; 107.4 docs/s
+Shard 0: 2330624/2803774 documents; 110.8 docs/s
+Shard 2: 2473984/2803775 documents; 117.6 docs/s
+Shard 1: 2453504/2803775 documents; 116.5 docs/s
+Shard 3: 2260992/2803775 documents; 107.4 docs/s
+Shard 0: 2334720/2803774 documents; 110.9 docs/s
+Shard 2: 2478080/2803775 documents; 117.6 docs/s
+Shard 3: 2265088/2803775 documents; 107.4 docs/s
+Shard 1: 2457600/2803775 documents; 116.5 docs/s
+Shard 2: 2482176/2803775 documents; 117.6 docs/s
+Shard 0: 2338816/2803774 documents; 110.8 docs/s
+Shard 3: 2269184/2803775 documents; 107.4 docs/s
+Shard 1: 2461696/2803775 documents; 116.5 docs/s
+Shard 2: 2486272/2803775 documents; 117.6 docs/s
+Shard 0: 2342912/2803774 documents; 110.8 docs/s
+Shard 3: 2273280/2803775 documents; 107.5 docs/s
+Shard 1: 2465792/2803775 documents; 116.6 docs/s
+Shard 0: 2347008/2803774 documents; 110.8 docs/s
+Shard 2: 2490368/2803775 documents; 117.6 docs/s
+Shard 1: 2469888/2803775 documents; 116.6 docs/s
+Shard 3: 2277376/2803775 documents; 107.5 docs/s
+Shard 0: 2351104/2803774 documents; 110.9 docs/s
+Shard 2: 2494464/2803775 documents; 117.6 docs/s
+Shard 1: 2473984/2803775 documents; 116.6 docs/s
+Shard 3: 2281472/2803775 documents; 107.5 docs/s
+Shard 0: 2355200/2803774 documents; 110.9 docs/s
+Shard 2: 2498560/2803775 documents; 117.6 docs/s
+Shard 1: 2478080/2803775 documents; 116.6 docs/s
+Shard 3: 2285568/2803775 documents; 107.5 docs/s
+Shard 0: 2359296/2803774 documents; 110.9 docs/s
+Shard 2: 2502656/2803775 documents; 117.6 docs/s
+Shard 1: 2482176/2803775 documents; 116.6 docs/s
+Shard 3: 2289664/2803775 documents; 107.6 docs/s
+Shard 0: 2363392/2803774 documents; 110.9 docs/s
+Shard 1: 2486272/2803775 documents; 116.7 docs/s
+Shard 2: 2506752/2803775 documents; 117.6 docs/s
+Shard 3: 2293760/2803775 documents; 107.6 docs/s
+Shard 0: 2367488/2803774 documents; 110.9 docs/s
+Shard 1: 2490368/2803775 documents; 116.7 docs/s
+Shard 2: 2510848/2803775 documents; 117.6 docs/s
+Shard 3: 2297856/2803775 documents; 107.6 docs/s
+Shard 1: 2494464/2803775 documents; 116.7 docs/s
+Shard 2: 2514944/2803775 documents; 117.6 docs/s
+Shard 0: 2371584/2803774 documents; 110.9 docs/s
+Shard 3: 2301952/2803775 documents; 107.6 docs/s
+Shard 1: 2498560/2803775 documents; 116.7 docs/s
+Shard 2: 2519040/2803775 documents; 117.6 docs/s
+Shard 0: 2375680/2803774 documents; 110.9 docs/s
+Shard 3: 2306048/2803775 documents; 107.7 docs/s
+Shard 2: 2523136/2803775 documents; 117.7 docs/s
+Shard 0: 2379776/2803774 documents; 110.9 docs/s
+Shard 1: 2502656/2803775 documents; 116.7 docs/s
+Shard 3: 2310144/2803775 documents; 107.7 docs/s
+Shard 2: 2527232/2803775 documents; 117.7 docs/s
+Shard 1: 2506752/2803775 documents; 116.7 docs/s
+Shard 0: 2383872/2803774 documents; 111.0 docs/s
+Shard 3: 2314240/2803775 documents; 107.7 docs/s
+Shard 2: 2531328/2803775 documents; 117.7 docs/s
+Shard 1: 2510848/2803775 documents; 116.7 docs/s
+Shard 0: 2387968/2803774 documents; 111.0 docs/s
+Shard 3: 2318336/2803775 documents; 107.7 docs/s
+Shard 2: 2535424/2803775 documents; 117.7 docs/s
+Shard 1: 2514944/2803775 documents; 116.7 docs/s
+Shard 0: 2392064/2803774 documents; 111.0 docs/s
+Shard 3: 2322432/2803775 documents; 107.8 docs/s
+Shard 2: 2539520/2803775 documents; 117.7 docs/s
+Shard 1: 2519040/2803775 documents; 116.7 docs/s
+Shard 3: 2326528/2803775 documents; 107.8 docs/s
+Shard 0: 2396160/2803774 documents; 111.0 docs/s
+Shard 2: 2543616/2803775 documents; 117.7 docs/s
+Shard 1: 2523136/2803775 documents; 116.7 docs/s
+Shard 3: 2330624/2803775 documents; 107.8 docs/s
+Shard 0: 2400256/2803774 documents; 111.0 docs/s
+Shard 2: 2547712/2803775 documents; 117.7 docs/s
+Shard 1: 2527232/2803775 documents; 116.7 docs/s
+Shard 3: 2334720/2803775 documents; 107.8 docs/s
+Shard 0: 2404352/2803774 documents; 111.0 docs/s
+Shard 2: 2551808/2803775 documents; 117.7 docs/s
+Shard 1: 2531328/2803775 documents; 116.7 docs/s
+Shard 3: 2338816/2803775 documents; 107.9 docs/s
+Shard 0: 2408448/2803774 documents; 111.0 docs/s
+Shard 2: 2555904/2803775 documents; 117.7 docs/s
+Shard 1: 2535424/2803775 documents; 116.8 docs/s
+Shard 3: 2342912/2803775 documents; 107.9 docs/s
+Shard 0: 2412544/2803774 documents; 111.0 docs/s
+Shard 2: 2560000/2803775 documents; 117.7 docs/s
+Shard 1: 2539520/2803775 documents; 116.8 docs/s
+Shard 3: 2347008/2803775 documents; 107.9 docs/s
+Shard 0: 2416640/2803774 documents; 111.0 docs/s
+Shard 2: 2564096/2803775 documents; 117.7 docs/s
+Shard 1: 2543616/2803775 documents; 116.8 docs/s
+Shard 3: 2351104/2803775 documents; 107.9 docs/s
+Shard 0: 2420736/2803774 documents; 111.0 docs/s
+Shard 2: 2568192/2803775 documents; 117.8 docs/s
+Shard 1: 2547712/2803775 documents; 116.8 docs/s
+Shard 3: 2355200/2803775 documents; 107.9 docs/s
+Shard 0: 2424832/2803774 documents; 111.0 docs/s
+Shard 2: 2572288/2803775 documents; 117.8 docs/s
+Shard 1: 2551808/2803775 documents; 116.8 docs/s
+Shard 3: 2359296/2803775 documents; 107.9 docs/s
+Shard 0: 2428928/2803774 documents; 111.1 docs/s
+Shard 2: 2576384/2803775 documents; 117.8 docs/s
+Shard 1: 2555904/2803775 documents; 116.8 docs/s
+Shard 3: 2363392/2803775 documents; 107.9 docs/s
+Shard 0: 2433024/2803774 documents; 111.1 docs/s
+Shard 2: 2580480/2803775 documents; 117.8 docs/s
+Shard 1: 2560000/2803775 documents; 116.8 docs/s
+Shard 3: 2367488/2803775 documents; 107.9 docs/s
+Shard 0: 2437120/2803774 documents; 111.1 docs/s
+Shard 2: 2584576/2803775 documents; 117.8 docs/s
+Shard 1: 2564096/2803775 documents; 116.8 docs/s
+Shard 3: 2371584/2803775 documents; 107.9 docs/s
+Shard 0: 2441216/2803774 documents; 111.1 docs/s
+Shard 2: 2588672/2803775 documents; 117.8 docs/s
+Shard 1: 2568192/2803775 documents; 116.8 docs/s
+Shard 3: 2375680/2803775 documents; 108.0 docs/s
+Shard 2: 2592768/2803775 documents; 117.8 docs/s
+Shard 0: 2445312/2803774 documents; 111.1 docs/s
+Shard 1: 2572288/2803775 documents; 116.8 docs/s
+Shard 3: 2379776/2803775 documents; 107.9 docs/s
+Shard 2: 2596864/2803775 documents; 117.7 docs/s
+Shard 1: 2576384/2803775 documents; 116.8 docs/s
+Shard 0: 2449408/2803774 documents; 111.0 docs/s
+Shard 3: 2383872/2803775 documents; 107.7 docs/s
+Shard 0: 2453504/2803774 documents; 110.9 docs/s
+Shard 1: 2580480/2803775 documents; 116.6 docs/s
+Shard 2: 2600960/2803775 documents; 117.5 docs/s
+Shard 1: 2584576/2803775 documents; 116.6 docs/s
+Shard 3: 2387968/2803775 documents; 107.7 docs/s
+Shard 2: 2605056/2803775 documents; 117.5 docs/s
+Shard 0: 2457600/2803774 documents; 110.9 docs/s
+Shard 3: 2392064/2803775 documents; 107.8 docs/s
+Shard 2: 2609152/2803775 documents; 117.5 docs/s
+Shard 1: 2588672/2803775 documents; 116.6 docs/s
+Shard 0: 2461696/2803774 documents; 110.9 docs/s
+Shard 3: 2396160/2803775 documents; 107.8 docs/s
+Shard 1: 2592768/2803775 documents; 116.6 docs/s
+Shard 0: 2465792/2803774 documents; 110.9 docs/s
+Shard 2: 2613248/2803775 documents; 117.5 docs/s
+Shard 3: 2400256/2803775 documents; 107.8 docs/s
+Shard 1: 2596864/2803775 documents; 116.6 docs/s
+Shard 0: 2469888/2803774 documents; 110.9 docs/s
+Shard 2: 2617344/2803775 documents; 117.5 docs/s
+Shard 3: 2404352/2803775 documents; 107.8 docs/s
+Shard 1: 2600960/2803775 documents; 116.6 docs/s
+Shard 2: 2621440/2803775 documents; 117.5 docs/s
+Shard 0: 2473984/2803774 documents; 110.9 docs/s
+Shard 3: 2408448/2803775 documents; 107.9 docs/s
+Shard 1: 2605056/2803775 documents; 116.6 docs/s
+Shard 2: 2625536/2803775 documents; 117.5 docs/s
+Shard 0: 2478080/2803774 documents; 110.9 docs/s
+Shard 3: 2412544/2803775 documents; 107.9 docs/s
+Shard 1: 2609152/2803775 documents; 116.6 docs/s
+Shard 2: 2629632/2803775 documents; 117.5 docs/s
+Shard 0: 2482176/2803774 documents; 110.9 docs/s
+Shard 3: 2416640/2803775 documents; 107.9 docs/s
+Shard 1: 2613248/2803775 documents; 116.6 docs/s
+Shard 2: 2633728/2803775 documents; 117.5 docs/s
+Shard 0: 2486272/2803774 documents; 110.9 docs/s
+Shard 3: 2420736/2803775 documents; 107.9 docs/s
+Shard 1: 2617344/2803775 documents; 116.6 docs/s
+Shard 2: 2637824/2803775 documents; 117.5 docs/s
+Shard 0: 2490368/2803774 documents; 110.9 docs/s
+Shard 3: 2424832/2803775 documents; 107.9 docs/s
+Shard 1: 2621440/2803775 documents; 116.7 docs/s
+Shard 2: 2641920/2803775 documents; 117.5 docs/s
+Shard 0: 2494464/2803774 documents; 110.9 docs/s
+Shard 3: 2428928/2803775 documents; 108.0 docs/s
+Shard 1: 2625536/2803775 documents; 116.7 docs/s
+Shard 2: 2646016/2803775 documents; 117.5 docs/s
+Shard 0: 2498560/2803774 documents; 110.9 docs/s
+Shard 3: 2433024/2803775 documents; 108.0 docs/s
+Shard 1: 2629632/2803775 documents; 116.7 docs/s
+Shard 2: 2650112/2803775 documents; 117.5 docs/s
+Shard 0: 2502656/2803774 documents; 110.9 docs/s
+Shard 3: 2437120/2803775 documents; 108.0 docs/s
+Shard 1: 2633728/2803775 documents; 116.7 docs/s
+Shard 2: 2654208/2803775 documents; 117.5 docs/s
+Shard 0: 2506752/2803774 documents; 110.9 docs/s
+Shard 3: 2441216/2803775 documents; 108.0 docs/s
+Shard 1: 2637824/2803775 documents; 116.7 docs/s
+Shard 2: 2658304/2803775 documents; 117.6 docs/s
+Shard 0: 2510848/2803774 documents; 111.0 docs/s
+Shard 3: 2445312/2803775 documents; 108.0 docs/s
+Shard 1: 2641920/2803775 documents; 116.7 docs/s
+Shard 2: 2662400/2803775 documents; 117.6 docs/s
+Shard 0: 2514944/2803774 documents; 111.0 docs/s
+Shard 3: 2449408/2803775 documents; 108.1 docs/s
+Shard 1: 2646016/2803775 documents; 116.7 docs/s
+Shard 2: 2666496/2803775 documents; 117.6 docs/s
+Shard 3: 2453504/2803775 documents; 108.1 docs/s
+Shard 0: 2519040/2803774 documents; 111.0 docs/s
+Shard 1: 2650112/2803775 documents; 116.7 docs/s
+Shard 2: 2670592/2803775 documents; 117.6 docs/s
+Shard 3: 2457600/2803775 documents; 108.1 docs/s
+Shard 0: 2523136/2803774 documents; 111.0 docs/s
+Shard 1: 2654208/2803775 documents; 116.7 docs/s
+Shard 2: 2674688/2803775 documents; 117.6 docs/s
+Shard 3: 2461696/2803775 documents; 108.1 docs/s
+Shard 0: 2527232/2803774 documents; 111.0 docs/s
+Shard 2: 2678784/2803775 documents; 117.6 docs/s
+Shard 1: 2658304/2803775 documents; 116.7 docs/s
+Shard 3: 2465792/2803775 documents; 108.2 docs/s
+Shard 0: 2531328/2803774 documents; 111.0 docs/s
+Shard 2: 2682880/2803775 documents; 117.6 docs/s
+Shard 1: 2662400/2803775 documents; 116.7 docs/s
+Shard 3: 2469888/2803775 documents; 108.2 docs/s
+Shard 0: 2535424/2803774 documents; 111.0 docs/s
+Shard 2: 2686976/2803775 documents; 117.6 docs/s
+Shard 1: 2666496/2803775 documents; 116.7 docs/s
+Shard 3: 2473984/2803775 documents; 108.2 docs/s
+Shard 0: 2539520/2803774 documents; 111.1 docs/s
+Shard 2: 2691072/2803775 documents; 117.6 docs/s
+Shard 1: 2670592/2803775 documents; 116.7 docs/s
+Shard 3: 2478080/2803775 documents; 108.2 docs/s
+Shard 0: 2543616/2803774 documents; 111.1 docs/s
+Shard 2: 2695168/2803775 documents; 117.7 docs/s
+Shard 1: 2674688/2803775 documents; 116.7 docs/s
+Shard 3: 2482176/2803775 documents; 108.3 docs/s
+Shard 0: 2547712/2803774 documents; 111.1 docs/s
+Shard 2: 2699264/2803775 documents; 117.7 docs/s
+Shard 1: 2678784/2803775 documents; 116.7 docs/s
+Shard 3: 2486272/2803775 documents; 108.3 docs/s
+Shard 2: 2703360/2803775 documents; 117.7 docs/s
+Shard 0: 2551808/2803774 documents; 111.0 docs/s
+Shard 1: 2682880/2803775 documents; 116.7 docs/s
+Shard 3: 2490368/2803775 documents; 108.3 docs/s
+Shard 2: 2707456/2803775 documents; 117.7 docs/s
+Shard 0: 2555904/2803774 documents; 111.1 docs/s
+Shard 1: 2686976/2803775 documents; 116.7 docs/s
+Shard 3: 2494464/2803775 documents; 108.3 docs/s
+Shard 2: 2711552/2803775 documents; 117.7 docs/s
+Shard 0: 2560000/2803774 documents; 111.1 docs/s
+Shard 1: 2691072/2803775 documents; 116.7 docs/s
+Shard 3: 2498560/2803775 documents; 108.3 docs/s
+Shard 2: 2715648/2803775 documents; 117.7 docs/s
+Shard 1: 2695168/2803775 documents; 116.8 docs/s
+Shard 0: 2564096/2803774 documents; 111.1 docs/s
+Shard 3: 2502656/2803775 documents; 108.3 docs/s
+Shard 2: 2719744/2803775 documents; 117.7 docs/s
+Shard 1: 2699264/2803775 documents; 116.8 docs/s
+Shard 0: 2568192/2803774 documents; 111.1 docs/s
+Shard 2: 2723840/2803775 documents; 117.7 docs/s
+Shard 1: 2703360/2803775 documents; 116.8 docs/s
+Shard 0: 2572288/2803774 documents; 111.1 docs/s
+Shard 2: 2727936/2803775 documents; 117.7 docs/s
+Shard 1: 2707456/2803775 documents; 116.8 docs/s
+Shard 0: 2576384/2803774 documents; 111.1 docs/s
+Shard 3: 2506752/2803775 documents; 108.1 docs/s
+Shard 2: 2732032/2803775 documents; 117.7 docs/s
+Shard 1: 2711552/2803775 documents; 116.8 docs/s
+Shard 0: 2580480/2803774 documents; 111.1 docs/s
+Shard 3: 2510848/2803775 documents; 108.1 docs/s
+Shard 2: 2736128/2803775 documents; 117.7 docs/s
+Shard 1: 2715648/2803775 documents; 116.8 docs/s
+Shard 0: 2584576/2803774 documents; 111.1 docs/s
+Shard 3: 2514944/2803775 documents; 108.1 docs/s
+Shard 2: 2740224/2803775 documents; 117.7 docs/s
+Shard 1: 2719744/2803775 documents; 116.8 docs/s
+Shard 0: 2588672/2803774 documents; 111.1 docs/s
+Shard 3: 2519040/2803775 documents; 108.1 docs/s
+Shard 2: 2744320/2803775 documents; 117.7 docs/s
+Shard 1: 2723840/2803775 documents; 116.8 docs/s
+Shard 0: 2592768/2803774 documents; 111.1 docs/s
+Shard 3: 2523136/2803775 documents; 108.1 docs/s
+Shard 2: 2748416/2803775 documents; 117.7 docs/s
+Shard 1: 2727936/2803775 documents; 116.8 docs/s
+Shard 0: 2596864/2803774 documents; 111.2 docs/s
+Shard 3: 2527232/2803775 documents; 108.2 docs/s
+Shard 2: 2752512/2803775 documents; 117.7 docs/s
+Shard 1: 2732032/2803775 documents; 116.8 docs/s
+Shard 0: 2600960/2803774 documents; 111.2 docs/s
+Shard 3: 2531328/2803775 documents; 108.2 docs/s
+Shard 2: 2756608/2803775 documents; 117.7 docs/s
+Shard 1: 2736128/2803775 documents; 116.8 docs/s
+Shard 3: 2535424/2803775 documents; 108.2 docs/s
+Shard 0: 2605056/2803774 documents; 111.2 docs/s
+Shard 2: 2760704/2803775 documents; 117.7 docs/s
+Shard 1: 2740224/2803775 documents; 116.8 docs/s
+Shard 3: 2539520/2803775 documents; 108.2 docs/s
+Shard 0: 2609152/2803774 documents; 111.2 docs/s
+Shard 2: 2764800/2803775 documents; 117.8 docs/s
+Shard 1: 2744320/2803775 documents; 116.8 docs/s
+Shard 3: 2543616/2803775 documents; 108.3 docs/s
+Shard 0: 2613248/2803774 documents; 111.2 docs/s
+Shard 2: 2768896/2803775 documents; 117.8 docs/s
+Shard 1: 2748416/2803775 documents; 116.8 docs/s
+Shard 3: 2547712/2803775 documents; 108.3 docs/s
+Shard 0: 2617344/2803774 documents; 111.2 docs/s
+Shard 2: 2772992/2803775 documents; 117.8 docs/s
+Shard 1: 2752512/2803775 documents; 116.8 docs/s
+Shard 3: 2551808/2803775 documents; 108.3 docs/s
+Shard 0: 2621440/2803774 documents; 111.2 docs/s
+Shard 2: 2777088/2803775 documents; 117.8 docs/s
+Shard 1: 2756608/2803775 documents; 116.9 docs/s
+Shard 3: 2555904/2803775 documents; 108.3 docs/s
+Shard 0: 2625536/2803774 documents; 111.2 docs/s
+Shard 2: 2781184/2803775 documents; 117.8 docs/s
+Shard 1: 2760704/2803775 documents; 116.9 docs/s
+Shard 3: 2560000/2803775 documents; 108.3 docs/s
+Shard 0: 2629632/2803774 documents; 111.2 docs/s
+Shard 2: 2785280/2803775 documents; 117.8 docs/s
+Shard 1: 2764800/2803775 documents; 116.9 docs/s
+Shard 3: 2564096/2803775 documents; 108.3 docs/s
+Shard 0: 2633728/2803774 documents; 111.3 docs/s
+Shard 2: 2789376/2803775 documents; 117.8 docs/s
+Shard 1: 2768896/2803775 documents; 116.9 docs/s
+Shard 3: 2568192/2803775 documents; 108.4 docs/s
+Shard 0: 2637824/2803774 documents; 111.3 docs/s
+Shard 2: 2793472/2803775 documents; 117.8 docs/s
+Shard 1: 2772992/2803775 documents; 116.9 docs/s
+Shard 3: 2572288/2803775 documents; 108.4 docs/s
+Shard 0: 2641920/2803774 documents; 111.3 docs/s
+Shard 2: 2797568/2803775 documents; 117.8 docs/s
+Shard 1: 2777088/2803775 documents; 116.9 docs/s
+Shard 3: 2576384/2803775 documents; 108.4 docs/s
+Shard 0: 2646016/2803774 documents; 111.3 docs/s
+Shard 2: 2801664/2803775 documents; 117.8 docs/s
+Shard 1: 2781184/2803775 documents; 116.9 docs/s
+Shard 2: 2803775/2803775 documents; 117.8 docs/s
+Shard 3: 2580480/2803775 documents; 108.4 docs/s
+Shard 0: 2650112/2803774 documents; 111.3 docs/s
+Shard 1: 2785280/2803775 documents; 116.9 docs/s
+Shard 3: 2584576/2803775 documents; 108.4 docs/s
+Shard 0: 2654208/2803774 documents; 111.3 docs/s
+Shard 1: 2789376/2803775 documents; 116.9 docs/s
+Shard 3: 2588672/2803775 documents; 108.4 docs/s
+Shard 0: 2658304/2803774 documents; 111.3 docs/s
+Shard 1: 2793472/2803775 documents; 116.9 docs/s
+Shard 3: 2592768/2803775 documents; 108.5 docs/s
+Shard 0: 2662400/2803774 documents; 111.3 docs/s
+Shard 1: 2797568/2803775 documents; 116.9 docs/s
+Shard 3: 2596864/2803775 documents; 108.5 docs/s
+Shard 0: 2666496/2803774 documents; 111.3 docs/s
+Shard 1: 2801664/2803775 documents; 116.9 docs/s
+Shard 3: 2600960/2803775 documents; 108.5 docs/s
+Shard 1: 2803775/2803775 documents; 116.9 docs/s
+Shard 0: 2670592/2803774 documents; 111.3 docs/s
+Shard 3: 2605056/2803775 documents; 108.5 docs/s
+Shard 0: 2674688/2803774 documents; 111.4 docs/s
+Shard 3: 2609152/2803775 documents; 108.5 docs/s
+Shard 0: 2678784/2803774 documents; 111.4 docs/s
+Shard 3: 2613248/2803775 documents; 108.5 docs/s
+Shard 0: 2682880/2803774 documents; 111.4 docs/s
+Shard 3: 2617344/2803775 documents; 108.6 docs/s
+Shard 0: 2686976/2803774 documents; 111.4 docs/s
+Shard 3: 2621440/2803775 documents; 108.6 docs/s
+Shard 0: 2691072/2803774 documents; 111.4 docs/s
+Shard 3: 2625536/2803775 documents; 108.6 docs/s
+Shard 0: 2695168/2803774 documents; 111.4 docs/s
+Shard 3: 2629632/2803775 documents; 108.6 docs/s
+Shard 0: 2699264/2803774 documents; 111.4 docs/s
+Shard 3: 2633728/2803775 documents; 108.6 docs/s
+Shard 0: 2703360/2803774 documents; 111.4 docs/s
+Shard 3: 2637824/2803775 documents; 108.6 docs/s
+Shard 0: 2707456/2803774 documents; 111.4 docs/s
+Shard 3: 2641920/2803775 documents; 108.7 docs/s
+Shard 0: 2711552/2803774 documents; 111.4 docs/s
+Shard 3: 2646016/2803775 documents; 108.7 docs/s
+Shard 0: 2715648/2803774 documents; 111.4 docs/s
+Shard 3: 2650112/2803775 documents; 108.7 docs/s
+Shard 0: 2719744/2803774 documents; 111.5 docs/s
+Shard 3: 2654208/2803775 documents; 108.7 docs/s
+Shard 0: 2723840/2803774 documents; 111.5 docs/s
+Shard 3: 2658304/2803775 documents; 108.7 docs/s
+Shard 0: 2727936/2803774 documents; 111.5 docs/s
+Shard 3: 2662400/2803775 documents; 108.8 docs/s
+Shard 0: 2732032/2803774 documents; 111.5 docs/s
+Shard 3: 2666496/2803775 documents; 108.8 docs/s
+Shard 0: 2736128/2803774 documents; 111.5 docs/s
+Shard 3: 2670592/2803775 documents; 108.8 docs/s
+Shard 0: 2740224/2803774 documents; 111.5 docs/s
+Shard 3: 2674688/2803775 documents; 108.8 docs/s
+Shard 0: 2744320/2803774 documents; 111.5 docs/s
+Shard 3: 2678784/2803775 documents; 108.8 docs/s
+Shard 0: 2748416/2803774 documents; 111.5 docs/s
+Shard 3: 2682880/2803775 documents; 108.8 docs/s
+Shard 0: 2752512/2803774 documents; 111.3 docs/s
+Shard 3: 2686976/2803775 documents; 108.7 docs/s
+Shard 0: 2756608/2803774 documents; 111.3 docs/s
+Shard 3: 2691072/2803775 documents; 108.7 docs/s
+Shard 0: 2760704/2803774 documents; 111.3 docs/s
+Shard 3: 2695168/2803775 documents; 108.7 docs/s
+Shard 3: 2699264/2803775 documents; 108.7 docs/s
+Shard 0: 2764800/2803774 documents; 111.4 docs/s
+Shard 0: 2768896/2803774 documents; 111.4 docs/s
+Shard 3: 2703360/2803775 documents; 108.7 docs/s
+Shard 3: 2707456/2803775 documents; 108.8 docs/s
+Shard 0: 2772992/2803774 documents; 111.4 docs/s
+Shard 3: 2711552/2803775 documents; 108.8 docs/s
+Shard 0: 2777088/2803774 documents; 111.4 docs/s
+Shard 3: 2715648/2803775 documents; 108.8 docs/s
+Shard 0: 2781184/2803774 documents; 111.4 docs/s
+Shard 3: 2719744/2803775 documents; 108.8 docs/s
+Shard 0: 2785280/2803774 documents; 111.4 docs/s
+Shard 3: 2723840/2803775 documents; 108.8 docs/s
+Shard 0: 2789376/2803774 documents; 111.4 docs/s
+Shard 3: 2727936/2803775 documents; 108.8 docs/s
+Shard 0: 2793472/2803774 documents; 111.4 docs/s
+Shard 3: 2732032/2803775 documents; 108.9 docs/s
+Shard 0: 2797568/2803774 documents; 111.4 docs/s
+Shard 3: 2736128/2803775 documents; 108.9 docs/s
+Shard 0: 2801664/2803774 documents; 111.4 docs/s
+Shard 0: 2803774/2803774 documents; 111.5 docs/s
+Shard 3: 2740224/2803775 documents; 108.9 docs/s
+Shard 3: 2744320/2803775 documents; 108.9 docs/s
+Shard 3: 2748416/2803775 documents; 108.9 docs/s
+Shard 3: 2752512/2803775 documents; 109.0 docs/s
+Shard 3: 2756608/2803775 documents; 109.0 docs/s
+Shard 3: 2760704/2803775 documents; 109.0 docs/s
+Shard 3: 2764800/2803775 documents; 109.0 docs/s
+Shard 3: 2768896/2803775 documents; 109.0 docs/s
+Shard 3: 2772992/2803775 documents; 109.0 docs/s
+Shard 3: 2777088/2803775 documents; 109.0 docs/s
+Shard 3: 2781184/2803775 documents; 109.1 docs/s
+Shard 3: 2785280/2803775 documents; 109.1 docs/s
+Shard 3: 2789376/2803775 documents; 109.1 docs/s
+Shard 3: 2793472/2803775 documents; 109.1 docs/s
+Shard 3: 2797568/2803775 documents; 109.1 docs/s
+Shard 3: 2801664/2803775 documents; 109.1 docs/s
+Shard 3: 2803775/2803775 documents; 109.2 docs/s
+srun: Job step's --cpus-per-task value exceeds that of job (72 > 18). Job step may never run.
+Merged Wiki vectors: 2803774
+Merged Wiki vectors: 5607549
+Merged Wiki vectors: 8411324
+Merged Wiki vectors: 11215099
+srun: Job step's --cpus-per-task value exceeds that of job (72 > 18). Job step may never run.
+Starting agent server; log: /scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/qwen/full-agent-server.log
+agent: completed 1/300, errors=0
+agent: completed 2/300, errors=0
+agent: completed 3/300, errors=0
+agent: completed 4/300, errors=0
+agent: completed 5/300, errors=0
+agent: completed 6/300, errors=0
+agent: completed 7/300, errors=0
+agent: completed 8/300, errors=0
+agent: completed 9/300, errors=0
+agent: completed 10/300, errors=0
+agent: completed 11/300, errors=0
+agent: completed 12/300, errors=0
+agent: completed 13/300, errors=0
+agent: completed 14/300, errors=0
+agent: completed 15/300, errors=0
+agent: completed 16/300, errors=0
+agent: completed 17/300, errors=0
+agent: completed 18/300, errors=0
+agent: completed 19/300, errors=0
+agent: completed 20/300, errors=0
+agent: completed 21/300, errors=0
+agent: completed 22/300, errors=0
+agent: completed 23/300, errors=0
+agent: completed 24/300, errors=0
+agent: completed 25/300, errors=0
+agent: completed 26/300, errors=0
+agent: completed 27/300, errors=0
+agent: completed 28/300, errors=0
+agent: completed 29/300, errors=0
+agent: completed 30/300, errors=0
+agent: completed 31/300, errors=0
+agent: completed 32/300, errors=0
+agent: completed 33/300, errors=0
+agent: completed 34/300, errors=0
+agent: completed 35/300, errors=0
+agent: completed 36/300, errors=0
+agent: completed 37/300, errors=0
+agent: completed 38/300, errors=0
+agent: completed 39/300, errors=0
+agent: completed 40/300, errors=0
+agent: completed 41/300, errors=0
+agent: completed 42/300, errors=0
+agent: completed 43/300, errors=0
+agent: completed 44/300, errors=0
+agent: completed 45/300, errors=0
+agent: completed 46/300, errors=0
+agent: completed 47/300, errors=0
+agent: completed 48/300, errors=0
+agent: completed 49/300, errors=0
+agent: completed 50/300, errors=0
+agent: completed 51/300, errors=0
+agent: completed 52/300, errors=0
+agent: completed 53/300, errors=0
+agent: completed 54/300, errors=0
+agent: completed 55/300, errors=0
+agent: completed 56/300, errors=0
+agent: completed 57/300, errors=0
+agent: completed 58/300, errors=0
+agent: completed 59/300, errors=0
+agent: completed 60/300, errors=0
+agent: completed 61/300, errors=0
+agent: completed 62/300, errors=0
+agent: completed 63/300, errors=0
+agent: completed 64/300, errors=0
+agent: completed 65/300, errors=0
+agent: completed 66/300, errors=0
+agent: completed 67/300, errors=0
+agent: completed 68/300, errors=0
+agent: completed 69/300, errors=0
+agent: completed 70/300, errors=0
+agent: completed 71/300, errors=0
+agent: completed 72/300, errors=0
+agent: completed 73/300, errors=0
+agent: completed 74/300, errors=0
+agent: completed 75/300, errors=0
+agent: completed 76/300, errors=0
+agent: completed 77/300, errors=0
+agent: completed 78/300, errors=0
+agent: completed 79/300, errors=0
+agent: completed 80/300, errors=0
+agent: completed 81/300, errors=0
+agent: completed 82/300, errors=0
+agent: completed 83/300, errors=0
+agent: completed 84/300, errors=0
+agent: completed 85/300, errors=0
+agent: completed 86/300, errors=0
+agent: completed 87/300, errors=0
+agent: completed 88/300, errors=0
+agent: completed 89/300, errors=0
+agent: completed 90/300, errors=0
+agent: completed 91/300, errors=0
+agent: completed 92/300, errors=0
+agent: completed 93/300, errors=0
+agent: completed 94/300, errors=0
+agent: completed 95/300, errors=0
+agent: completed 96/300, errors=0
+agent: completed 97/300, errors=0
+agent: completed 98/300, errors=0
+agent: completed 99/300, errors=0
+agent: completed 100/300, errors=0
+agent: completed 101/300, errors=0
+agent: completed 102/300, errors=0
+agent: completed 103/300, errors=0
+agent: completed 104/300, errors=0
+agent: completed 105/300, errors=0
+agent: completed 106/300, errors=0
+agent: completed 107/300, errors=0
+agent: completed 108/300, errors=0
+agent: completed 109/300, errors=0
+agent: completed 110/300, errors=0
+agent: completed 111/300, errors=0
+agent: completed 112/300, errors=0
+agent: completed 113/300, errors=0
+agent: completed 114/300, errors=0
+agent: completed 115/300, errors=0
+agent: completed 116/300, errors=0
+agent: completed 117/300, errors=0
+agent: completed 118/300, errors=0
+agent: completed 119/300, errors=0
+agent: completed 120/300, errors=0
+agent: completed 121/300, errors=0
+agent: completed 122/300, errors=0
+agent: completed 123/300, errors=0
+agent: completed 124/300, errors=0
+agent: completed 125/300, errors=0
+agent: completed 126/300, errors=0
+agent: completed 127/300, errors=0
+agent: completed 128/300, errors=0
+agent: completed 129/300, errors=0
+agent: completed 130/300, errors=0
+agent: completed 131/300, errors=0
+agent: completed 132/300, errors=0
+agent: completed 133/300, errors=0
+agent: completed 134/300, errors=0
+agent: completed 135/300, errors=0
+agent: completed 136/300, errors=0
+agent: completed 137/300, errors=0
+agent: completed 138/300, errors=0
+agent: completed 139/300, errors=0
+agent: completed 140/300, errors=0
+agent: completed 141/300, errors=0
+agent: completed 142/300, errors=0
+agent: completed 143/300, errors=0
+agent: completed 144/300, errors=0
+agent: completed 145/300, errors=0
+agent: completed 146/300, errors=0
+agent: completed 147/300, errors=0
+agent: completed 148/300, errors=0
+agent: completed 149/300, errors=0
+agent: completed 150/300, errors=0
+agent: completed 151/300, errors=0
+agent: completed 152/300, errors=0
+agent: completed 153/300, errors=0
+agent: completed 154/300, errors=0
+agent: completed 155/300, errors=0
+agent: completed 156/300, errors=0
+agent: completed 157/300, errors=0
+agent: completed 158/300, errors=0
+agent: completed 159/300, errors=0
+agent: completed 160/300, errors=0
+agent: completed 161/300, errors=0
+agent: completed 162/300, errors=0
+agent: completed 163/300, errors=0
+agent: completed 164/300, errors=0
+agent: completed 165/300, errors=0
+agent: completed 166/300, errors=0
+agent: completed 167/300, errors=0
+agent: completed 168/300, errors=0
+agent: completed 169/300, errors=0
+agent: completed 170/300, errors=0
+agent: completed 171/300, errors=0
+agent: completed 172/300, errors=0
+agent: completed 173/300, errors=0
+agent: completed 174/300, errors=0
+agent: completed 175/300, errors=0
+agent: completed 176/300, errors=0
+agent: completed 177/300, errors=0
+agent: completed 178/300, errors=0
+agent: completed 179/300, errors=0
+agent: completed 180/300, errors=0
+agent: completed 181/300, errors=0
+agent: completed 182/300, errors=0
+agent: completed 183/300, errors=0
+agent: completed 184/300, errors=0
+agent: completed 185/300, errors=0
+agent: completed 186/300, errors=0
+agent: completed 187/300, errors=0
+agent: completed 188/300, errors=0
+agent: completed 189/300, errors=0
+agent: completed 190/300, errors=0
+agent: completed 191/300, errors=0
+agent: completed 192/300, errors=0
+agent: completed 193/300, errors=0
+agent: completed 194/300, errors=0
+agent: completed 195/300, errors=0
+agent: completed 196/300, errors=0
+agent: completed 197/300, errors=0
+agent: completed 198/300, errors=0
+agent: completed 199/300, errors=0
+agent: completed 200/300, errors=0
+agent: completed 201/300, errors=0
+agent: completed 202/300, errors=0
+agent: completed 203/300, errors=0
+agent: completed 204/300, errors=0
+agent: completed 205/300, errors=0
+agent: completed 206/300, errors=0
+agent: completed 207/300, errors=0
+agent: completed 208/300, errors=0
+agent: completed 209/300, errors=0
+agent: completed 210/300, errors=0
+agent: completed 211/300, errors=0
+agent: completed 212/300, errors=0
+agent: completed 213/300, errors=0
+agent: completed 214/300, errors=0
+agent: completed 215/300, errors=0
+agent: completed 216/300, errors=0
+agent: completed 217/300, errors=0
+agent: completed 218/300, errors=0
+agent: completed 219/300, errors=0
+agent: completed 220/300, errors=0
+agent: completed 221/300, errors=0
+agent: completed 222/300, errors=0
+agent: completed 223/300, errors=0
+agent: completed 224/300, errors=0
+agent: completed 225/300, errors=0
+agent: completed 226/300, errors=0
+agent: completed 227/300, errors=0
+agent: completed 228/300, errors=0
+agent: completed 229/300, errors=0
+agent: completed 230/300, errors=0
+agent: completed 231/300, errors=0
+agent: completed 232/300, errors=0
+agent: completed 233/300, errors=0
+agent: completed 234/300, errors=0
+agent: completed 235/300, errors=0
+agent: completed 236/300, errors=0
+agent: completed 237/300, errors=0
+agent: completed 238/300, errors=0
+agent: completed 239/300, errors=0
+agent: completed 240/300, errors=0
+agent: completed 241/300, errors=0
+agent: completed 242/300, errors=0
+agent: completed 243/300, errors=0
+agent: completed 244/300, errors=0
+agent: completed 245/300, errors=0
+agent: completed 246/300, errors=0
+agent: completed 247/300, errors=0
+agent: completed 248/300, errors=0
+agent: completed 249/300, errors=0
+agent: completed 250/300, errors=0
+agent: completed 251/300, errors=0
+agent: completed 252/300, errors=0
+agent: completed 253/300, errors=0
+agent: completed 254/300, errors=0
+agent: completed 255/300, errors=0
+agent: completed 256/300, errors=0
+agent: completed 257/300, errors=0
+agent: completed 258/300, errors=0
+agent: completed 259/300, errors=0
+agent: completed 260/300, errors=0
+agent: completed 261/300, errors=0
+agent: completed 262/300, errors=0
+agent: completed 263/300, errors=0
+agent: completed 264/300, errors=0
+agent: completed 265/300, errors=0
+agent: completed 266/300, errors=0
+agent: completed 267/300, errors=0
+agent: completed 268/300, errors=0
+agent: completed 269/300, errors=0
+agent: completed 270/300, errors=0
+agent: completed 271/300, errors=0
+agent: completed 272/300, errors=0
+agent: completed 273/300, errors=0
+agent: completed 274/300, errors=0
+agent: completed 275/300, errors=0
+agent: completed 276/300, errors=0
+agent: completed 277/300, errors=0
+agent: completed 278/300, errors=0
+agent: completed 279/300, errors=0
+agent: completed 280/300, errors=0
+agent: completed 281/300, errors=0
+agent: completed 282/300, errors=0
+agent: completed 283/300, errors=0
+agent: completed 284/300, errors=0
+agent: completed 285/300, errors=0
+agent: completed 286/300, errors=0
+agent: completed 287/300, errors=0
+agent: completed 288/300, errors=0
+agent: completed 289/300, errors=0
+agent: completed 290/300, errors=0
+agent: completed 291/300, errors=0
+agent: completed 292/300, errors=0
+agent: completed 293/300, errors=0
+agent: completed 294/300, errors=0
+agent: completed 295/300, errors=0
+agent: completed 296/300, errors=0
+agent: completed 297/300, errors=0
+agent: completed 298/300, errors=0
+agent: completed 299/300, errors=0
+agent: completed 300/300, errors=0
+Starting judge server; log: /scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/qwen/full-judge-server.log
+judge: completed 1/300, errors=0
+judge: completed 2/300, errors=0
+judge: completed 3/300, errors=0
+judge: completed 4/300, errors=0
+judge: completed 5/300, errors=0
+judge: completed 6/300, errors=0
+judge: completed 7/300, errors=0
+judge: completed 8/300, errors=0
+judge: completed 9/300, errors=0
+judge: completed 10/300, errors=0
+judge: completed 11/300, errors=0
+judge: completed 12/300, errors=0
+judge: completed 13/300, errors=0
+judge: completed 14/300, errors=0
+judge: completed 15/300, errors=0
+judge: completed 16/300, errors=0
+judge: completed 17/300, errors=0
+judge: completed 18/300, errors=0
+judge: completed 19/300, errors=0
+judge: completed 20/300, errors=0
+judge: completed 21/300, errors=0
+judge: completed 22/300, errors=0
+judge: completed 23/300, errors=0
+judge: completed 24/300, errors=0
+judge: completed 25/300, errors=0
+judge: completed 26/300, errors=0
+judge: completed 27/300, errors=0
+judge: completed 28/300, errors=0
+judge: completed 29/300, errors=0
+judge: completed 30/300, errors=0
+judge: completed 31/300, errors=0
+judge: completed 32/300, errors=0
+judge: completed 33/300, errors=0
+judge: completed 34/300, errors=0
+judge: completed 35/300, errors=0
+judge: completed 36/300, errors=0
+judge: completed 37/300, errors=0
+judge: completed 38/300, errors=0
+judge: completed 39/300, errors=0
+judge: completed 40/300, errors=0
+judge: completed 41/300, errors=0
+judge: completed 42/300, errors=0
+judge: completed 43/300, errors=0
+judge: completed 44/300, errors=0
+judge: completed 45/300, errors=0
+judge: completed 46/300, errors=0
+judge: completed 47/300, errors=0
+judge: completed 48/300, errors=0
+judge: completed 49/300, errors=0
+judge: completed 50/300, errors=0
+judge: completed 51/300, errors=0
+judge: completed 52/300, errors=0
+judge: completed 53/300, errors=0
+judge: completed 54/300, errors=0
+judge: completed 55/300, errors=0
+judge: completed 56/300, errors=0
+judge: completed 57/300, errors=0
+judge: completed 58/300, errors=0
+judge: completed 59/300, errors=0
+judge: completed 60/300, errors=0
+judge: completed 61/300, errors=0
+judge: completed 62/300, errors=0
+judge: completed 63/300, errors=0
+judge: completed 64/300, errors=0
+judge: completed 65/300, errors=0
+judge: completed 66/300, errors=0
+judge: completed 67/300, errors=0
+judge: completed 68/300, errors=0
+judge: completed 69/300, errors=0
+judge: completed 70/300, errors=0
+judge: completed 71/300, errors=0
+judge: completed 72/300, errors=0
+judge: completed 73/300, errors=0
+judge: completed 74/300, errors=0
+judge: completed 75/300, errors=0
+judge: completed 76/300, errors=0
+judge: completed 77/300, errors=0
+judge: completed 78/300, errors=0
+judge: completed 79/300, errors=0
+judge: completed 80/300, errors=0
+judge: completed 81/300, errors=0
+judge: completed 82/300, errors=0
+judge: completed 83/300, errors=0
+judge: completed 84/300, errors=0
+judge: completed 85/300, errors=0
+judge: completed 86/300, errors=0
+judge: completed 87/300, errors=0
+judge: completed 88/300, errors=0
+judge: completed 89/300, errors=0
+judge: completed 90/300, errors=0
+judge: completed 91/300, errors=0
+judge: completed 92/300, errors=0
+judge: completed 93/300, errors=0
+judge: completed 94/300, errors=0
+judge: completed 95/300, errors=0
+judge: completed 96/300, errors=0
+judge: completed 97/300, errors=0
+judge: completed 98/300, errors=0
+judge: completed 99/300, errors=0
+judge: completed 100/300, errors=0
+judge: completed 101/300, errors=0
+judge: completed 102/300, errors=0
+judge: completed 103/300, errors=0
+judge: completed 104/300, errors=0
+judge: completed 105/300, errors=0
+judge: completed 106/300, errors=0
+judge: completed 107/300, errors=0
+judge: completed 108/300, errors=0
+judge: completed 109/300, errors=0
+judge: completed 110/300, errors=0
+judge: completed 111/300, errors=0
+judge: completed 112/300, errors=0
+judge: completed 113/300, errors=0
+judge: completed 114/300, errors=0
+judge: completed 115/300, errors=0
+judge: completed 116/300, errors=0
+judge: completed 117/300, errors=0
+judge: completed 118/300, errors=0
+judge: completed 119/300, errors=0
+judge: completed 120/300, errors=0
+judge: completed 121/300, errors=0
+judge: completed 122/300, errors=0
+judge: completed 123/300, errors=0
+judge: completed 124/300, errors=0
+judge: completed 125/300, errors=0
+judge: completed 126/300, errors=0
+judge: completed 127/300, errors=0
+judge: completed 128/300, errors=0
+judge: completed 129/300, errors=0
+judge: completed 130/300, errors=0
+judge: completed 131/300, errors=0
+judge: completed 132/300, errors=0
+judge: completed 133/300, errors=0
+judge: completed 134/300, errors=0
+judge: completed 135/300, errors=0
+judge: completed 136/300, errors=0
+judge: completed 137/300, errors=0
+judge: completed 138/300, errors=0
+judge: completed 139/300, errors=0
+judge: completed 140/300, errors=0
+judge: completed 141/300, errors=0
+judge: completed 142/300, errors=0
+judge: completed 143/300, errors=0
+judge: completed 144/300, errors=0
+judge: completed 145/300, errors=0
+judge: completed 146/300, errors=0
+judge: completed 147/300, errors=0
+judge: completed 148/300, errors=0
+judge: completed 149/300, errors=0
+judge: completed 150/300, errors=0
+judge: completed 151/300, errors=0
+judge: completed 152/300, errors=0
+judge: completed 153/300, errors=0
+judge: completed 154/300, errors=0
+judge: completed 155/300, errors=0
+judge: completed 156/300, errors=0
+judge: completed 157/300, errors=0
+judge: completed 158/300, errors=0
+judge: completed 159/300, errors=0
+judge: completed 160/300, errors=0
+judge: completed 161/300, errors=0
+judge: completed 162/300, errors=0
+judge: completed 163/300, errors=0
+judge: completed 164/300, errors=0
+judge: completed 165/300, errors=0
+judge: completed 166/300, errors=0
+judge: completed 167/300, errors=0
+judge: completed 168/300, errors=0
+judge: completed 169/300, errors=0
+judge: completed 170/300, errors=0
+judge: completed 171/300, errors=0
+judge: completed 172/300, errors=0
+judge: completed 173/300, errors=0
+judge: completed 174/300, errors=0
+judge: completed 175/300, errors=0
+judge: completed 176/300, errors=0
+judge: completed 177/300, errors=0
+judge: completed 178/300, errors=0
+judge: completed 179/300, errors=0
+judge: completed 180/300, errors=0
+judge: completed 181/300, errors=0
+judge: completed 182/300, errors=0
+judge: completed 183/300, errors=0
+judge: completed 184/300, errors=0
+judge: completed 185/300, errors=0
+judge: completed 186/300, errors=0
+judge: completed 187/300, errors=0
+judge: completed 188/300, errors=0
+judge: completed 189/300, errors=0
+judge: completed 190/300, errors=0
+judge: completed 191/300, errors=0
+judge: completed 192/300, errors=0
+judge: completed 193/300, errors=0
+judge: completed 194/300, errors=0
+judge: completed 195/300, errors=0
+judge: completed 196/300, errors=0
+judge: completed 197/300, errors=0
+judge: completed 198/300, errors=0
+judge: completed 199/300, errors=0
+judge: completed 200/300, errors=0
+judge: completed 201/300, errors=0
+judge: completed 202/300, errors=0
+judge: completed 203/300, errors=0
+judge: completed 204/300, errors=0
+judge: completed 205/300, errors=0
+judge: completed 206/300, errors=0
+judge: completed 207/300, errors=0
+judge: completed 208/300, errors=0
+judge: completed 209/300, errors=0
+judge: completed 210/300, errors=0
+judge: completed 211/300, errors=0
+judge: completed 212/300, errors=0
+judge: completed 213/300, errors=0
+judge: completed 214/300, errors=0
+judge: completed 215/300, errors=0
+judge: completed 216/300, errors=0
+judge: completed 217/300, errors=0
+judge: completed 218/300, errors=0
+judge: completed 219/300, errors=0
+judge: completed 220/300, errors=0
+judge: completed 221/300, errors=0
+judge: completed 222/300, errors=0
+judge: completed 223/300, errors=0
+judge: completed 224/300, errors=0
+judge: completed 225/300, errors=0
+judge: completed 226/300, errors=0
+judge: completed 227/300, errors=0
+judge: completed 228/300, errors=0
+judge: completed 229/300, errors=0
+judge: completed 230/300, errors=0
+judge: completed 231/300, errors=0
+judge: completed 232/300, errors=0
+judge: completed 233/300, errors=0
+judge: completed 234/300, errors=0
+judge: completed 235/300, errors=0
+judge: completed 236/300, errors=0
+judge: completed 237/300, errors=0
+judge: completed 238/300, errors=0
+judge: completed 239/300, errors=0
+judge: completed 240/300, errors=0
+judge: completed 241/300, errors=0
+judge: completed 242/300, errors=0
+judge: completed 243/300, errors=0
+judge: completed 244/300, errors=0
+judge: completed 245/300, errors=0
+judge: completed 246/300, errors=0
+judge: completed 247/300, errors=0
+judge: completed 248/300, errors=0
+judge: completed 249/300, errors=0
+judge: completed 250/300, errors=0
+judge: completed 251/300, errors=0
+judge: completed 252/300, errors=0
+judge: completed 253/300, errors=0
+judge: completed 254/300, errors=0
+judge: completed 255/300, errors=0
+judge: completed 256/300, errors=0
+judge: completed 257/300, errors=0
+judge: completed 258/300, errors=0
+judge: completed 259/300, errors=0
+judge: completed 260/300, errors=0
+judge: completed 261/300, errors=0
+judge: completed 262/300, errors=0
+judge: completed 263/300, errors=0
+judge: completed 264/300, errors=0
+judge: completed 265/300, errors=0
+judge: completed 266/300, errors=0
+judge: completed 267/300, errors=0
+judge: completed 268/300, errors=0
+judge: completed 269/300, errors=0
+judge: completed 270/300, errors=0
+judge: completed 271/300, errors=0
+judge: completed 272/300, errors=0
+judge: completed 273/300, errors=0
+judge: completed 274/300, errors=0
+judge: completed 275/300, errors=0
+judge: completed 276/300, errors=0
+judge: completed 277/300, errors=0
+judge: completed 278/300, errors=0
+judge: completed 279/300, errors=0
+judge: completed 280/300, errors=0
+judge: completed 281/300, errors=0
+judge: completed 282/300, errors=0
+judge: completed 283/300, errors=0
+judge: completed 284/300, errors=0
+judge: completed 285/300, errors=0
+judge: completed 286/300, errors=0
+judge: completed 287/300, errors=0
+judge: completed 288/300, errors=0
+judge: completed 289/300, errors=0
+judge: completed 290/300, errors=0
+judge: completed 291/300, errors=0
+judge: completed 292/300, errors=0
+judge: completed 293/300, errors=0
+judge: completed 294/300, errors=0
+judge: completed 295/300, errors=0
+judge: completed 296/300, errors=0
+judge: completed 297/300, errors=0
+judge: completed 298/300, errors=0
+judge: completed 299/300, errors=0
+judge: completed 300/300, errors=0
+{
+  "queries": 300,
+  "metrics": {
+    "Success Rate": 0.6666666666666666,
+    "Avg Steps": 25.303333333333335,
+    "Avg Model Calls": 31.12
+  }
+}
+Completed trained-model evaluation stage: full

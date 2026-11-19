@@ -1,0 +1,499 @@
+{
+  "agents": {
+    "webexplorer": {
+      "model": "hkust-nlp/WebExplorer-8B",
+      "revision": "c7296358b988ffa5d47679f0d6fc165bfd19243a",
+      "prompt_source": "search_agent/webexplorer_utils/react_agent.py"
+    },
+    "agentcpm": {
+      "model": "openbmb/AgentCPM-Explore",
+      "revision": "f528bbb55317bd291387ba3347551dd3414e698e",
+      "prompt_source": "search_agent/webexplorer_utils/react_agent.py"
+    }
+  },
+  "trials": {
+    "webexplorer-qwen-infoseek": {
+      "agent": "webexplorer",
+      "retriever": "qwen",
+      "benchmark": "infoseek",
+      "index": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/qwen/index",
+      "assets": {
+        "benchmark": "InfoSeek-Eval",
+        "question_count": 300,
+        "questions_file": "InfoSeek-Eval.tsv",
+        "protocol_path": "/home/scur0901/datasets/lrat/InfoSeek-Eval/6949cbe5e52088ba681ff5b2c236cb80785d1b769500655ffa21b7452ef62a02",
+        "questions_sha256": "6949cbe5e52088ba681ff5b2c236cb80785d1b769500655ffa21b7452ef62a02",
+        "corpus_database": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/corpus/corpus.sqlite",
+        "corpus_count": 11215099,
+        "corpus_docids": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/corpus/docids.i64",
+        "corpus_sha256": "4d795938bb89cbd7e7467a8da4e772f7ae95e6b533181aeace2a5e3fd3de6393",
+        "corpus_path": "/home/scur0901/datasets/lrat/Wiki-25-512/fc1e312568b14385c04f41bc09157d8fa4c20658",
+        "trained_model": "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model",
+        "model_sha256": "18e2ec37afcd6789e0f862d7d6f2855e127930fb4715d73a7bbffc8c8e76295b",
+        "retrieval": {
+          "pooling": "last_token",
+          "padding_side": "left",
+          "max_length": 512,
+          "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:",
+          "passage_prefix": "",
+          "normalize": true
+        },
+        "revisions": {
+          "corpus": [
+            "Lk123/wiki-25-512",
+            "fc1e312568b14385c04f41bc09157d8fa4c20658"
+          ],
+          "agent": [
+            "hkust-nlp/WebExplorer-8B",
+            "c7296358b988ffa5d47679f0d6fc165bfd19243a"
+          ],
+          "judge": [
+            "Qwen/Qwen3-30B-A3B-Thinking-2507",
+            "144afc2f379b542fdd4e85a1fcd5e1f79112d95d"
+          ]
+        },
+        "judge_path": "/scratch-shared/scur0901/lrat/cache/huggingface/hub/models--Qwen--Qwen3-30B-A3B-Thinking-2507/snapshots/144afc2f379b542fdd4e85a1fcd5e1f79112d95d",
+        "agent_name": "hkust-nlp/WebExplorer-8B",
+        "agent_prompt": "search_agent/webexplorer_utils/react_agent.py",
+        "answer_mode": "plain_or_tagged",
+        "servers": {
+          "agent": {
+            "gpus": 2,
+            "max_model_len": 120000
+          },
+          "judge": {
+            "gpus": 4,
+            "max_model_len": 32768
+          }
+        }
+      },
+      "agent_hours": 24,
+      "judge_hours": 3
+    },
+    "webexplorer-qwen-browsecomp": {
+      "agent": "webexplorer",
+      "retriever": "qwen",
+      "benchmark": "browsecomp",
+      "index": "/scratch-shared/scur0901/lrat/evaluation/tongyi-trained-28880868/index",
+      "assets": {
+        "corpus_path": "/home/scur0901/datasets/lrat/BrowseComp-Plus/b27b02bc3e45511b8b82a13e6f90ce761df726f6",
+        "corpus_database": "/scratch-shared/scur0901/lrat/evaluation/tongyi-trained-28880868/corpus.sqlite",
+        "corpus_count": 100195,
+        "protocol_path": "/home/scur0901/datasets/lrat/BrowseComp-Plus/b27b02bc3e45511b8b82a13e6f90ce761df726f6/protocol",
+        "trained_model": "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model",
+        "revisions": {
+          "corpus": [
+            "Tevatron/browsecomp-plus-corpus",
+            "b27b02bc3e45511b8b82a13e6f90ce761df726f6"
+          ],
+          "agent": [
+            "hkust-nlp/WebExplorer-8B",
+            "c7296358b988ffa5d47679f0d6fc165bfd19243a"
+          ],
+          "judge": [
+            "Qwen/Qwen3-30B-A3B-Thinking-2507",
+            "144afc2f379b542fdd4e85a1fcd5e1f79112d95d"
+          ]
+        },
+        "judge_path": "/scratch-shared/scur0901/lrat/cache/huggingface/hub/models--Qwen--Qwen3-30B-A3B-Thinking-2507/snapshots/144afc2f379b542fdd4e85a1fcd5e1f79112d95d",
+        "protocol_sha256": {
+          "browsecomp-plus.tsv": "04ea8eec07ace89d09701db0e65f5f583bb2bfb58ec985af77e94d35b4839fe7",
+          "queries.tsv": "d3d47d3cd6a8e14fa24268b75fbbda50dadd280d09c30412257978933b9c0bfa",
+          "qrel_evidence.txt": "a6f594975be57339de9e4e9f67f13c044f647feda77c0b84c45a1581e3041bd1",
+          "qrel_golds.txt": "b875af4a745712bee7a94f464ed989232f8c77977c31824428470e11dcb28c73"
+        },
+        "setup_seconds": 425.54925849099527,
+        "model_sha256": "18e2ec37afcd6789e0f862d7d6f2855e127930fb4715d73a7bbffc8c8e76295b",
+        "retrieval": {
+          "pooling": "last_token",
+          "padding_side": "left",
+          "max_length": 512,
+          "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:",
+          "passage_prefix": "",
+          "normalize": true
+        },
+        "agent_name": "hkust-nlp/WebExplorer-8B",
+        "agent_prompt": "search_agent/webexplorer_utils/react_agent.py",
+        "answer_mode": "plain_or_tagged",
+        "servers": {
+          "agent": {
+            "gpus": 2,
+            "max_model_len": 120000
+          },
+          "judge": {
+            "gpus": 4,
+            "max_model_len": 32768
+          }
+        },
+        "benchmark": "BrowseComp-Plus",
+        "question_count": 830,
+        "questions_file": "browsecomp-plus.tsv"
+      },
+      "agent_hours": 48,
+      "judge_hours": 6
+    },
+    "webexplorer-e5-infoseek": {
+      "agent": "webexplorer",
+      "retriever": "e5",
+      "benchmark": "infoseek",
+      "index": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/e5/index",
+      "assets": {
+        "benchmark": "InfoSeek-Eval",
+        "question_count": 300,
+        "questions_file": "InfoSeek-Eval.tsv",
+        "protocol_path": "/home/scur0901/datasets/lrat/InfoSeek-Eval/6949cbe5e52088ba681ff5b2c236cb80785d1b769500655ffa21b7452ef62a02",
+        "questions_sha256": "6949cbe5e52088ba681ff5b2c236cb80785d1b769500655ffa21b7452ef62a02",
+        "corpus_database": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/corpus/corpus.sqlite",
+        "corpus_count": 11215099,
+        "corpus_docids": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/corpus/docids.i64",
+        "corpus_sha256": "4d795938bb89cbd7e7467a8da4e772f7ae95e6b533181aeace2a5e3fd3de6393",
+        "corpus_path": "/home/scur0901/datasets/lrat/Wiki-25-512/fc1e312568b14385c04f41bc09157d8fa4c20658",
+        "trained_model": "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model",
+        "model_sha256": "e4218c97268512c8f319ac186eec9319ac60dd4c5b606c0febefb373807fc0b1",
+        "retrieval": {
+          "pooling": "mean",
+          "padding_side": "right",
+          "max_length": 512,
+          "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery: ",
+          "passage_prefix": "",
+          "normalize": true
+        },
+        "revisions": {
+          "corpus": [
+            "Lk123/wiki-25-512",
+            "fc1e312568b14385c04f41bc09157d8fa4c20658"
+          ],
+          "agent": [
+            "hkust-nlp/WebExplorer-8B",
+            "c7296358b988ffa5d47679f0d6fc165bfd19243a"
+          ],
+          "judge": [
+            "Qwen/Qwen3-30B-A3B-Thinking-2507",
+            "144afc2f379b542fdd4e85a1fcd5e1f79112d95d"
+          ]
+        },
+        "judge_path": "/scratch-shared/scur0901/lrat/cache/huggingface/hub/models--Qwen--Qwen3-30B-A3B-Thinking-2507/snapshots/144afc2f379b542fdd4e85a1fcd5e1f79112d95d",
+        "agent_name": "hkust-nlp/WebExplorer-8B",
+        "agent_prompt": "search_agent/webexplorer_utils/react_agent.py",
+        "answer_mode": "plain_or_tagged",
+        "servers": {
+          "agent": {
+            "gpus": 2,
+            "max_model_len": 120000
+          },
+          "judge": {
+            "gpus": 4,
+            "max_model_len": 32768
+          }
+        }
+      },
+      "agent_hours": 24,
+      "judge_hours": 3
+    },
+    "webexplorer-e5-browsecomp": {
+      "agent": "webexplorer",
+      "retriever": "e5",
+      "benchmark": "browsecomp",
+      "index": "/scratch-shared/scur0901/lrat/evaluation/e5-large-tongyi-20261104T204422Z/index",
+      "assets": {
+        "corpus_path": "/home/scur0901/datasets/lrat/BrowseComp-Plus/b27b02bc3e45511b8b82a13e6f90ce761df726f6",
+        "corpus_database": "/scratch-shared/scur0901/lrat/evaluation/tongyi-trained-28880868/corpus.sqlite",
+        "corpus_count": 100195,
+        "protocol_path": "/home/scur0901/datasets/lrat/BrowseComp-Plus/b27b02bc3e45511b8b82a13e6f90ce761df726f6/protocol",
+        "trained_model": "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model",
+        "revisions": {
+          "corpus": [
+            "Tevatron/browsecomp-plus-corpus",
+            "b27b02bc3e45511b8b82a13e6f90ce761df726f6"
+          ],
+          "agent": [
+            "hkust-nlp/WebExplorer-8B",
+            "c7296358b988ffa5d47679f0d6fc165bfd19243a"
+          ],
+          "judge": [
+            "Qwen/Qwen3-30B-A3B-Thinking-2507",
+            "144afc2f379b542fdd4e85a1fcd5e1f79112d95d"
+          ]
+        },
+        "judge_path": "/scratch-shared/scur0901/lrat/cache/huggingface/hub/models--Qwen--Qwen3-30B-A3B-Thinking-2507/snapshots/144afc2f379b542fdd4e85a1fcd5e1f79112d95d",
+        "protocol_sha256": {
+          "browsecomp-plus.tsv": "04ea8eec07ace89d09701db0e65f5f583bb2bfb58ec985af77e94d35b4839fe7",
+          "queries.tsv": "d3d47d3cd6a8e14fa24268b75fbbda50dadd280d09c30412257978933b9c0bfa",
+          "qrel_evidence.txt": "a6f594975be57339de9e4e9f67f13c044f647feda77c0b84c45a1581e3041bd1",
+          "qrel_golds.txt": "b875af4a745712bee7a94f464ed989232f8c77977c31824428470e11dcb28c73"
+        },
+        "setup_seconds": 425.54925849099527,
+        "retrieval": {
+          "pooling": "mean",
+          "padding_side": "right",
+          "max_length": 512,
+          "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery: ",
+          "passage_prefix": "",
+          "normalize": true
+        },
+        "training_assets": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/training-assets.json",
+        "model_sha256": "e4218c97268512c8f319ac186eec9319ac60dd4c5b606c0febefb373807fc0b1",
+        "agent_name": "hkust-nlp/WebExplorer-8B",
+        "agent_prompt": "search_agent/webexplorer_utils/react_agent.py",
+        "answer_mode": "plain_or_tagged",
+        "servers": {
+          "agent": {
+            "gpus": 2,
+            "max_model_len": 120000
+          },
+          "judge": {
+            "gpus": 4,
+            "max_model_len": 32768
+          }
+        },
+        "benchmark": "BrowseComp-Plus",
+        "question_count": 830,
+        "questions_file": "browsecomp-plus.tsv"
+      },
+      "agent_hours": 48,
+      "judge_hours": 6
+    },
+    "agentcpm-qwen-infoseek": {
+      "agent": "agentcpm",
+      "retriever": "qwen",
+      "benchmark": "infoseek",
+      "index": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/qwen/index",
+      "assets": {
+        "benchmark": "InfoSeek-Eval",
+        "question_count": 300,
+        "questions_file": "InfoSeek-Eval.tsv",
+        "protocol_path": "/home/scur0901/datasets/lrat/InfoSeek-Eval/6949cbe5e52088ba681ff5b2c236cb80785d1b769500655ffa21b7452ef62a02",
+        "questions_sha256": "6949cbe5e52088ba681ff5b2c236cb80785d1b769500655ffa21b7452ef62a02",
+        "corpus_database": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/corpus/corpus.sqlite",
+        "corpus_count": 11215099,
+        "corpus_docids": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/corpus/docids.i64",
+        "corpus_sha256": "4d795938bb89cbd7e7467a8da4e772f7ae95e6b533181aeace2a5e3fd3de6393",
+        "corpus_path": "/home/scur0901/datasets/lrat/Wiki-25-512/fc1e312568b14385c04f41bc09157d8fa4c20658",
+        "trained_model": "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model",
+        "model_sha256": "18e2ec37afcd6789e0f862d7d6f2855e127930fb4715d73a7bbffc8c8e76295b",
+        "retrieval": {
+          "pooling": "last_token",
+          "padding_side": "left",
+          "max_length": 512,
+          "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:",
+          "passage_prefix": "",
+          "normalize": true
+        },
+        "revisions": {
+          "corpus": [
+            "Lk123/wiki-25-512",
+            "fc1e312568b14385c04f41bc09157d8fa4c20658"
+          ],
+          "agent": [
+            "openbmb/AgentCPM-Explore",
+            "f528bbb55317bd291387ba3347551dd3414e698e"
+          ],
+          "judge": [
+            "Qwen/Qwen3-30B-A3B-Thinking-2507",
+            "144afc2f379b542fdd4e85a1fcd5e1f79112d95d"
+          ]
+        },
+        "judge_path": "/scratch-shared/scur0901/lrat/cache/huggingface/hub/models--Qwen--Qwen3-30B-A3B-Thinking-2507/snapshots/144afc2f379b542fdd4e85a1fcd5e1f79112d95d",
+        "agent_name": "openbmb/AgentCPM-Explore",
+        "agent_prompt": "search_agent/webexplorer_utils/react_agent.py",
+        "answer_mode": "plain_or_tagged",
+        "servers": {
+          "agent": {
+            "gpus": 2,
+            "max_model_len": 120000
+          },
+          "judge": {
+            "gpus": 4,
+            "max_model_len": 32768
+          }
+        }
+      },
+      "agent_hours": 24,
+      "judge_hours": 3
+    },
+    "agentcpm-qwen-browsecomp": {
+      "agent": "agentcpm",
+      "retriever": "qwen",
+      "benchmark": "browsecomp",
+      "index": "/scratch-shared/scur0901/lrat/evaluation/tongyi-trained-28880868/index",
+      "assets": {
+        "corpus_path": "/home/scur0901/datasets/lrat/BrowseComp-Plus/b27b02bc3e45511b8b82a13e6f90ce761df726f6",
+        "corpus_database": "/scratch-shared/scur0901/lrat/evaluation/tongyi-trained-28880868/corpus.sqlite",
+        "corpus_count": 100195,
+        "protocol_path": "/home/scur0901/datasets/lrat/BrowseComp-Plus/b27b02bc3e45511b8b82a13e6f90ce761df726f6/protocol",
+        "trained_model": "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model",
+        "revisions": {
+          "corpus": [
+            "Tevatron/browsecomp-plus-corpus",
+            "b27b02bc3e45511b8b82a13e6f90ce761df726f6"
+          ],
+          "agent": [
+            "openbmb/AgentCPM-Explore",
+            "f528bbb55317bd291387ba3347551dd3414e698e"
+          ],
+          "judge": [
+            "Qwen/Qwen3-30B-A3B-Thinking-2507",
+            "144afc2f379b542fdd4e85a1fcd5e1f79112d95d"
+          ]
+        },
+        "judge_path": "/scratch-shared/scur0901/lrat/cache/huggingface/hub/models--Qwen--Qwen3-30B-A3B-Thinking-2507/snapshots/144afc2f379b542fdd4e85a1fcd5e1f79112d95d",
+        "protocol_sha256": {
+          "browsecomp-plus.tsv": "04ea8eec07ace89d09701db0e65f5f583bb2bfb58ec985af77e94d35b4839fe7",
+          "queries.tsv": "d3d47d3cd6a8e14fa24268b75fbbda50dadd280d09c30412257978933b9c0bfa",
+          "qrel_evidence.txt": "a6f594975be57339de9e4e9f67f13c044f647feda77c0b84c45a1581e3041bd1",
+          "qrel_golds.txt": "b875af4a745712bee7a94f464ed989232f8c77977c31824428470e11dcb28c73"
+        },
+        "setup_seconds": 425.54925849099527,
+        "model_sha256": "18e2ec37afcd6789e0f862d7d6f2855e127930fb4715d73a7bbffc8c8e76295b",
+        "retrieval": {
+          "pooling": "last_token",
+          "padding_side": "left",
+          "max_length": 512,
+          "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:",
+          "passage_prefix": "",
+          "normalize": true
+        },
+        "agent_name": "openbmb/AgentCPM-Explore",
+        "agent_prompt": "search_agent/webexplorer_utils/react_agent.py",
+        "answer_mode": "plain_or_tagged",
+        "servers": {
+          "agent": {
+            "gpus": 2,
+            "max_model_len": 120000
+          },
+          "judge": {
+            "gpus": 4,
+            "max_model_len": 32768
+          }
+        },
+        "benchmark": "BrowseComp-Plus",
+        "question_count": 830,
+        "questions_file": "browsecomp-plus.tsv"
+      },
+      "agent_hours": 48,
+      "judge_hours": 6
+    },
+    "agentcpm-e5-infoseek": {
+      "agent": "agentcpm",
+      "retriever": "e5",
+      "benchmark": "infoseek",
+      "index": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/e5/index",
+      "assets": {
+        "benchmark": "InfoSeek-Eval",
+        "question_count": 300,
+        "questions_file": "InfoSeek-Eval.tsv",
+        "protocol_path": "/home/scur0901/datasets/lrat/InfoSeek-Eval/6949cbe5e52088ba681ff5b2c236cb80785d1b769500655ffa21b7452ef62a02",
+        "questions_sha256": "6949cbe5e52088ba681ff5b2c236cb80785d1b769500655ffa21b7452ef62a02",
+        "corpus_database": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/corpus/corpus.sqlite",
+        "corpus_count": 11215099,
+        "corpus_docids": "/scratch-shared/scur0901/lrat/evaluation/infoseek-tongyi-20261108T205501Z/corpus/docids.i64",
+        "corpus_sha256": "4d795938bb89cbd7e7467a8da4e772f7ae95e6b533181aeace2a5e3fd3de6393",
+        "corpus_path": "/home/scur0901/datasets/lrat/Wiki-25-512/fc1e312568b14385c04f41bc09157d8fa4c20658",
+        "trained_model": "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model",
+        "model_sha256": "e4218c97268512c8f319ac186eec9319ac60dd4c5b606c0febefb373807fc0b1",
+        "retrieval": {
+          "pooling": "mean",
+          "padding_side": "right",
+          "max_length": 512,
+          "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery: ",
+          "passage_prefix": "",
+          "normalize": true
+        },
+        "revisions": {
+          "corpus": [
+            "Lk123/wiki-25-512",
+            "fc1e312568b14385c04f41bc09157d8fa4c20658"
+          ],
+          "agent": [
+            "openbmb/AgentCPM-Explore",
+            "f528bbb55317bd291387ba3347551dd3414e698e"
+          ],
+          "judge": [
+            "Qwen/Qwen3-30B-A3B-Thinking-2507",
+            "144afc2f379b542fdd4e85a1fcd5e1f79112d95d"
+          ]
+        },
+        "judge_path": "/scratch-shared/scur0901/lrat/cache/huggingface/hub/models--Qwen--Qwen3-30B-A3B-Thinking-2507/snapshots/144afc2f379b542fdd4e85a1fcd5e1f79112d95d",
+        "agent_name": "openbmb/AgentCPM-Explore",
+        "agent_prompt": "search_agent/webexplorer_utils/react_agent.py",
+        "answer_mode": "plain_or_tagged",
+        "servers": {
+          "agent": {
+            "gpus": 2,
+            "max_model_len": 120000
+          },
+          "judge": {
+            "gpus": 4,
+            "max_model_len": 32768
+          }
+        }
+      },
+      "agent_hours": 24,
+      "judge_hours": 3
+    },
+    "agentcpm-e5-browsecomp": {
+      "agent": "agentcpm",
+      "retriever": "e5",
+      "benchmark": "browsecomp",
+      "index": "/scratch-shared/scur0901/lrat/evaluation/e5-large-tongyi-20261104T204422Z/index",
+      "assets": {
+        "corpus_path": "/home/scur0901/datasets/lrat/BrowseComp-Plus/b27b02bc3e45511b8b82a13e6f90ce761df726f6",
+        "corpus_database": "/scratch-shared/scur0901/lrat/evaluation/tongyi-trained-28880868/corpus.sqlite",
+        "corpus_count": 100195,
+        "protocol_path": "/home/scur0901/datasets/lrat/BrowseComp-Plus/b27b02bc3e45511b8b82a13e6f90ce761df726f6/protocol",
+        "trained_model": "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model",
+        "revisions": {
+          "corpus": [
+            "Tevatron/browsecomp-plus-corpus",
+            "b27b02bc3e45511b8b82a13e6f90ce761df726f6"
+          ],
+          "agent": [
+            "openbmb/AgentCPM-Explore",
+            "f528bbb55317bd291387ba3347551dd3414e698e"
+          ],
+          "judge": [
+            "Qwen/Qwen3-30B-A3B-Thinking-2507",
+            "144afc2f379b542fdd4e85a1fcd5e1f79112d95d"
+          ]
+        },
+        "judge_path": "/scratch-shared/scur0901/lrat/cache/huggingface/hub/models--Qwen--Qwen3-30B-A3B-Thinking-2507/snapshots/144afc2f379b542fdd4e85a1fcd5e1f79112d95d",
+        "protocol_sha256": {
+          "browsecomp-plus.tsv": "04ea8eec07ace89d09701db0e65f5f583bb2bfb58ec985af77e94d35b4839fe7",
+          "queries.tsv": "d3d47d3cd6a8e14fa24268b75fbbda50dadd280d09c30412257978933b9c0bfa",
+          "qrel_evidence.txt": "a6f594975be57339de9e4e9f67f13c044f647feda77c0b84c45a1581e3041bd1",
+          "qrel_golds.txt": "b875af4a745712bee7a94f464ed989232f8c77977c31824428470e11dcb28c73"
+        },
+        "setup_seconds": 425.54925849099527,
+        "retrieval": {
+          "pooling": "mean",
+          "padding_side": "right",
+          "max_length": 512,
+          "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery: ",
+          "passage_prefix": "",
+          "normalize": true
+        },
+        "training_assets": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/training-assets.json",
+        "model_sha256": "e4218c97268512c8f319ac186eec9319ac60dd4c5b606c0febefb373807fc0b1",
+        "agent_name": "openbmb/AgentCPM-Explore",
+        "agent_prompt": "search_agent/webexplorer_utils/react_agent.py",
+        "answer_mode": "plain_or_tagged",
+        "servers": {
+          "agent": {
+            "gpus": 2,
+            "max_model_len": 120000
+          },
+          "judge": {
+            "gpus": 4,
+            "max_model_len": 32768
+          }
+        },
+        "benchmark": "BrowseComp-Plus",
+        "question_count": 830,
+        "questions_file": "browsecomp-plus.tsv"
+      },
+      "agent_hours": 48,
+      "judge_hours": 6
+    }
+  },
+  "training_provenance": "Existing LRAT-Train fine-tuned retrievers; no new seed generation or training"
+}

@@ -1,0 +1,73 @@
+diff --git a/FlagEmbedding/FlagEmbedding/finetune/embedder/decoder_only/base/trainer.py b/FlagEmbedding/FlagEmbedding/finetune/embedder/decoder_only/base/trainer.py
+index bb834c6..589e424 100644
+--- a/FlagEmbedding/FlagEmbedding/finetune/embedder/decoder_only/base/trainer.py
++++ b/FlagEmbedding/FlagEmbedding/finetune/embedder/decoder_only/base/trainer.py
+@@ -12,6 +12,12 @@ class DecoderOnlyEmbedderTrainer(AbsEmbedderTrainer):
+     """
+     Trainer class for base encoder models.
+     """
++    def _load_from_checkpoint(self, resume_from_checkpoint, model=None):
++        """Restore the inner encoder saved by this trainer's _save method."""
++        retriever = self.model if model is None else model
++        encoder = retriever.model
++        return super()._load_from_checkpoint(resume_from_checkpoint, model=encoder)
++
+     def _save(self, output_dir: Optional[str] = None, state_dict=None):
+         """Save the model to directory.
+ 
+diff --git a/FlagEmbedding/FlagEmbedding/finetune/embedder/encoder_only/base/modeling.py b/FlagEmbedding/FlagEmbedding/finetune/embedder/encoder_only/base/modeling.py
+index e58d8cd..97b9c47 100644
+--- a/FlagEmbedding/FlagEmbedding/finetune/embedder/encoder_only/base/modeling.py
++++ b/FlagEmbedding/FlagEmbedding/finetune/embedder/encoder_only/base/modeling.py
+@@ -182,6 +182,20 @@ class BiEncoderOnlyEmbedderModel(AbsEmbedderModel):
+     #     """
+     #     return self.cross_entropy(scores, target)
+ 
++    def _compute_in_batch_neg_loss(self, q_reps, p_reps, teacher_targets=None,
++                                   compute_score_func=None, reweight_rates=None, **kwargs):
++        # The abstract implementation accepts weights through **kwargs but does
++        # not pass them to compute_loss. Preserve LRAT weights for encoder runs.
++        if reweight_rates is None or teacher_targets is not None:
++            return super()._compute_in_batch_neg_loss(
++                q_reps, p_reps, teacher_targets=teacher_targets,
++                compute_score_func=compute_score_func, **kwargs)
++        score_func = self.compute_score if compute_score_func is None else compute_score_func
++        scores = score_func(q_reps, p_reps, **kwargs)
++        group_size = p_reps.size(0) // q_reps.size(0)
++        targets = torch.arange(q_reps.size(0), device=q_reps.device) * group_size
++        return scores, self.compute_loss(scores, targets, reweight_rates=reweight_rates)
++
+     def compute_loss(self, scores, target, reweight_rates=None):
+         if reweight_rates is None:
+             return self.cross_entropy(scores, target)   # 标量
+diff --git a/FlagEmbedding/FlagEmbedding/finetune/embedder/encoder_only/base/trainer.py b/FlagEmbedding/FlagEmbedding/finetune/embedder/encoder_only/base/trainer.py
+index affa34a..608a4af 100644
+--- a/FlagEmbedding/FlagEmbedding/finetune/embedder/encoder_only/base/trainer.py
++++ b/FlagEmbedding/FlagEmbedding/finetune/embedder/encoder_only/base/trainer.py
+@@ -12,6 +12,11 @@ class EncoderOnlyEmbedderTrainer(AbsEmbedderTrainer):
+     """
+     Trainer class for base encoder models.
+     """
++    def _load_from_checkpoint(self, resume_from_checkpoint, model=None):
++        """Restore the inner encoder serialized by _save."""
++        retriever = self.model if model is None else model
++        return super()._load_from_checkpoint(resume_from_checkpoint, model=retriever.model)
++
+     def _save(self, output_dir: Optional[str] = None, state_dict=None):
+         """Save the model to directory.
+ 
+diff --git a/README.md b/README.md
+index 193baae..f9730ef 100644
+--- a/README.md
++++ b/README.md
+@@ -140,6 +140,10 @@ The quickest way to understand the repository is:
+ 
+ ### 1. Environment Setup
+ 
++For **Snellius**, start with the [Slurm and scratch-storage setup guide](docs/experiment_report.md#training-operations) for retriever fine-tuning on released LRAT-Train data. This checkout has no root `pyproject.toml`; the guide uses a dedicated, locked uv project in `environments/snellius/`.
++The [Snellius experiment report](docs/experiment_report.md) tracks completed
++Qwen/E5 retriever evaluations and the remaining reproduction work.
++
+ ```bash
+ # Install uv
+ curl -LsSf https://astral.sh/uv/install.sh | sh

@@ -1,0 +1,7 @@
+{
+  "torch": "2.7.0+cu126",
+  "cuda_runtime": "12.6",
+  "gpu_count": 1,
+  "gpu_name": "NVIDIA A100-SXM4-40GB",
+  "flagembedding": "/gpfs/home6/scur0901/LRAT/FlagEmbedding/FlagEmbedding/__init__.py"
+}

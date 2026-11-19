@@ -1,0 +1,13 @@
+{
+  "status": "completed",
+  "agents": {
+    "webexplorer": "/scratch-shared/scur0901/lrat/cache/huggingface/hub/models--hkust-nlp--WebExplorer-8B/snapshots/c7296358b988ffa5d47679f0d6fc165bfd19243a",
+    "agentcpm": "/scratch-shared/scur0901/lrat/cache/huggingface/hub/models--openbmb--AgentCPM-Explore/snapshots/f528bbb55317bd291387ba3347551dd3414e698e"
+  },
+  "verified_hashes": {
+    "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model": "18e2ec37afcd6789e0f862d7d6f2855e127930fb4715d73a7bbffc8c8e76295b",
+    "/scratch-shared/scur0901/lrat/runs/full-28880868/model/model.safetensors": "18e2ec37afcd6789e0f862d7d6f2855e127930fb4715d73a7bbffc8c8e76295b",
+    "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model": "e4218c97268512c8f319ac186eec9319ac60dd4c5b606c0febefb373807fc0b1",
+    "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model/model.safetensors": "e4218c97268512c8f319ac186eec9319ac60dd4c5b606c0febefb373807fc0b1"
+  }
+}

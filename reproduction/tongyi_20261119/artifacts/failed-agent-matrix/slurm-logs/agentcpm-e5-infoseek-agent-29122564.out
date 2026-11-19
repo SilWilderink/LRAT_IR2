@@ -1,0 +1,12 @@
+Starting agent server; log: /scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/agentcpm-e5-infoseek/full-agent-server.log
+Traceback (most recent call last):
+  File "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/matrix_stage.py", line 33, in <module>
+    main()
+  File "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/matrix_stage.py", line 21, in main
+    startup = serve_and_run(args.role, "full", assets, root)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/gpfs/scratch1/shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source/scripts/snellius/eval_run.py", line 64, in serve_and_run
+    raise RuntimeError(role + " server did not become ready within 30 minutes")
+RuntimeError: agent server did not become ready within 30 minutes
+srun: error: gcn54: task 0: Exited with exit code 1
+srun: Terminating StepId=29122564.0

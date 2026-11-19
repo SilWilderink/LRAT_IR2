@@ -1,0 +1,16 @@
+{
+  "remaining_questions": 814,
+  "pilot_questions": 16,
+  "agent_projected_hours": 20.180124623675454,
+  "judge_projected_hours": 2.627169113574741,
+  "server_startup_hours": 0.4899513246469562,
+  "point_estimate_hours": 23.29724506189715,
+  "planning_range_hours": [
+    17.472933796422865,
+    37.27559209903544
+  ],
+  "slurm_walltime_hours": 38,
+  "gpus": 4,
+  "queue_wait_included": false,
+  "note": "16-query throughput extrapolation; planning range is not a statistical confidence interval."
+}

@@ -1,0 +1,9 @@
+{
+  "model_path": "/scratch-shared/scur0901/lrat/runs/e5-large-tongyi-20261104T204422Z/model",
+  "pooling": "mean",
+  "padding_side": "right",
+  "max_length": 512,
+  "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery: ",
+  "passage_prefix": "",
+  "normalize": true
+}

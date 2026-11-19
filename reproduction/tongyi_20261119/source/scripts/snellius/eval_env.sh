@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+source "$(dirname -- "${BASH_SOURCE[0]}")/env.sh"
+export UV_PROJECT_ENVIRONMENT="$LRAT_SCRATCH_ROOT/envs/eval-py311"
+export LRAT_EVAL_MODEL="${LRAT_EVAL_MODEL:-$LRAT_RUN_ROOT/full-28880868/model}"
+export LRAT_EVAL_ROOT="${LRAT_EVAL_ROOT:-$LRAT_SCRATCH_ROOT/evaluation/tongyi-trained-28880868}"
+export LRAT_EVAL_ASSETS="${LRAT_EVAL_ASSETS:-$LRAT_SCRATCH_ROOT/manifests/browsecomp-assets.json}"
+export LRAT_EVAL_INDEX="${LRAT_EVAL_INDEX:-$LRAT_EVAL_ROOT/index}"
+export LRAT_EVAL_CONCURRENCY="${LRAT_EVAL_CONCURRENCY:-8}"
+export LRAT_EVAL_PILOT_SIZE="${LRAT_EVAL_PILOT_SIZE:-16}"
+export HF_HUB_DISABLE_TELEMETRY=1
+export VLLM_NO_USAGE_STATS=1
+export DO_NOT_TRACK=1
+export OMP_NUM_THREADS=4
+if [[ -x "$UV_PROJECT_ENVIRONMENT/bin/python" ]]; then
+    export VIRTUAL_ENV="$UV_PROJECT_ENVIRONMENT"
+    export PATH="$VIRTUAL_ENV/bin:$PATH"
+fi

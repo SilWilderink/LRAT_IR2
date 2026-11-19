@@ -1,0 +1,23 @@
+{
+  "fingerprint": "76988aca760978056dadcda3c63cf2aa2268cd5bb5c8c15a7f3fa3fcf59867a4",
+  "documents": 11215099,
+  "dimension": 1024,
+  "model_path": "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model",
+  "model_sha256": "18e2ec37afcd6789e0f862d7d6f2855e127930fb4715d73a7bbffc8c8e76295b",
+  "corpus_sha256": "4d795938bb89cbd7e7467a8da4e772f7ae95e6b533181aeace2a5e3fd3de6393",
+  "corpus_revision": [
+    "Lk123/wiki-25-512",
+    "fc1e312568b14385c04f41bc09157d8fa4c20658"
+  ],
+  "retrieval": {
+    "pooling": "last_token",
+    "padding_side": "left",
+    "max_length": 512,
+    "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:",
+    "passage_prefix": "",
+    "normalize": true
+  },
+  "docids_format": "little-endian int64",
+  "encoding_shards": 4,
+  "merge_seconds": 63.70387002301868
+}

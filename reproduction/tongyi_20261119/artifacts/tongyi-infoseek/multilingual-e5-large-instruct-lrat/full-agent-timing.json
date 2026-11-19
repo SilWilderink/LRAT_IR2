@@ -1,0 +1,9 @@
+{
+  "role": "agent",
+  "mode": "full",
+  "new_queries": 300,
+  "seconds": 21734.356446789985,
+  "client_setup_seconds": 23.9050333769992,
+  "workers": 8,
+  "errors": []
+}

@@ -1,0 +1,13 @@
+{
+  "questions_sha256": "6949cbe5e52088ba681ff5b2c236cb80785d1b769500655ffa21b7452ef62a02",
+  "experiments": {
+    "qwen": {
+      "model": "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/qwen3-embedding-0.6b-lrat/model",
+      "model_sha256": "18e2ec37afcd6789e0f862d7d6f2855e127930fb4715d73a7bbffc8c8e76295b"
+    },
+    "e5": {
+      "model": "/home/scur0901/lrat-results/tongyi-browsecomp-plus-20261108/multilingual-e5-large-instruct-lrat/model",
+      "model_sha256": "e4218c97268512c8f319ac186eec9319ac60dd4c5b606c0febefb373807fc0b1"
+    }
+  }
+}

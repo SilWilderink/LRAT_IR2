@@ -1,0 +1,47 @@
+{
+  "root": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z",
+  "source": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/source",
+  "setup_job": "29122551",
+  "trials": {
+    "webexplorer-qwen-infoseek": {
+      "agent_job": "29122552",
+      "judge_job": "29122553",
+      "output": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/webexplorer-qwen-infoseek"
+    },
+    "webexplorer-qwen-browsecomp": {
+      "agent_job": "29122554",
+      "judge_job": "29122555",
+      "output": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/webexplorer-qwen-browsecomp"
+    },
+    "webexplorer-e5-infoseek": {
+      "agent_job": "29122556",
+      "judge_job": "29122557",
+      "output": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/webexplorer-e5-infoseek"
+    },
+    "webexplorer-e5-browsecomp": {
+      "agent_job": "29122558",
+      "judge_job": "29122559",
+      "output": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/webexplorer-e5-browsecomp"
+    },
+    "agentcpm-qwen-infoseek": {
+      "agent_job": "29122560",
+      "judge_job": "29122561",
+      "output": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/agentcpm-qwen-infoseek"
+    },
+    "agentcpm-qwen-browsecomp": {
+      "agent_job": "29122562",
+      "judge_job": "29122563",
+      "output": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/agentcpm-qwen-browsecomp"
+    },
+    "agentcpm-e5-infoseek": {
+      "agent_job": "29122564",
+      "judge_job": "29122565",
+      "output": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/agentcpm-e5-infoseek"
+    },
+    "agentcpm-e5-browsecomp": {
+      "agent_job": "29122567",
+      "judge_job": "29122570",
+      "output": "/scratch-shared/scur0901/lrat/evaluation/agent-matrix-20261111T122431Z/agentcpm-e5-browsecomp"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "role": "judge",
+  "mode": "full",
+  "new_queries": 814,
+  "seconds": 3393.150165344996,
+  "client_setup_seconds": 0.004564271017443389,
+  "workers": 8,
+  "errors": []
+}

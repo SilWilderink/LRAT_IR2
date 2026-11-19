@@ -1,0 +1,1 @@
+/gpfs/scratch1/shared/scur0901/lrat/runs/full-28800049/model/checkpoint-48251
